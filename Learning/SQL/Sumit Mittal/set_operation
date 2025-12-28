@@ -1,0 +1,30 @@
+-- SET OPERATIONS
+1) UNION
+2) UNION ALL
+3) INTERSECT
+4) EXCEPT 
+
+
+1) UNION
+   Example:
+        SELECT value FROM A
+        UNION
+        SELECT value FROM B;
+
+2) UNION ALL
+   Example:
+        SELECT value FROM A
+        UNION ALL
+        SELECT value FROM B;
+
+3) INTERSECT
+   Example:
+        SELECT value FROM A
+        INTERSECT
+        SELECT value FROM B;
+
+4) EXCEPT
+   Example:
+        SELECT value FROM A
+        EXCEPT
+        SELECT value FROM B;

@@ -1,0 +1,32 @@
+-- Single-row subquery
+-- Returns only one row
+-- Used with =, >, <, etc.
+SELECT *
+FROM employees
+WHERE salary > (
+    SELECT salary
+    FROM employees
+    WHERE employee_id = 7
+);
+
+-- Multiple-row subquery
+-- Returns more than one row
+-- Used with IN, ANY, ALL
+SELECT *
+FROM employees
+WHERE department IN (
+    SELECT department
+    FROM employees
+    WHERE employee_id = 1
+);
+
+
+-- Multiple-column subquery
+-- Returns more than one column
+-- Often used in tuple comparisons
+SELECT *
+FROM employees
+WHERE (employee_name, employee_name) IN (
+    SELECT employee_name, employee_name
+    FROM employees WHERE department='HR'
+);

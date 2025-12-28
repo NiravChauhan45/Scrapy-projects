@@ -1,0 +1,14 @@
+-- CASE
+SELECT *,
+CASE
+    WHEN salary < 45000 THEN 'Low'
+    WHEN salary BETWEEN 45000 AND 55000 THEN 'Medium'
+    ELSE 'High'
+END AS salary_band
+FROM `employee`;
+
+
+-- COALESCE
+SELECT product_name,
+COALESCE(discount_price,regular_price) AS display_price
+FROM products;

@@ -1,0 +1,16 @@
+start scrapy crawl product_data -a start=0 -a end=100
+start scrapy crawl product_data -a start=100 -a end=200
+start scrapy crawl product_data -a start=200 -a end=300
+start scrapy crawl product_data -a start=300 -a end=400
+start scrapy crawl product_data -a start=400 -a end=500
+start scrapy crawl product_data -a start=500 -a end=600
+start scrapy crawl product_data -a start=600 -a end=700
+start scrapy crawl product_data -a start=700 -a end=800
+start scrapy crawl product_data -a start=800 -a end=900
+start scrapy crawl product_data -a start=900 -a end=1000
+start scrapy crawl product_data -a start=1100 -a end=1200
+start scrapy crawl product_data -a start=1200 -a end=1300
+start scrapy crawl product_data -a start=1300 -a end=1400
+start scrapy crawl product_data -a start=1400 -a end=1500
+start scrapy crawl product_data -a start=1500 -a end=1600
+start scrapy crawl product_data -a start=1600 -a end=1700

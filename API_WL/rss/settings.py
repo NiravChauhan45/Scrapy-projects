@@ -1,0 +1,69 @@
+import random
+
+PROXY_FLIPKART = True
+PROXY_FLIPKART_NAME = 'decodo'
+
+PROXY_MYNTRA = True
+PROXY_MYNTRA_NAME = 'scrapedo'
+
+SCRAPERDO_KEY = '6e4e6463b1964d9a8b56aac77d9808a41224f8cc736'
+# SCRAPERDO_KEY = 'f42a5b59aec3467e97a8794c611c436b91589634343'
+# SCRAPERDO_KEY = random.choice(['6e4e6463b1964d9a8b56aac77d9808a41224f8cc736', 'f42a5b59aec3467e97a8794c611c436b91589634343'])
+BACKOFF_RETRY = True
+NUMBER_OF_RETRIES = 5
+BACKOFF_BASE_DELAY = 1
+
+
+cookies = {
+    'at': 'ZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNklqRWlMQ0owZVhBaU9pSktWMVFpZlEuZXlKdWFXUjRJam9pT1RnM1lUSTNZakF0TkRVeVpTMHhNV1l3TFdKaE1qVXRaVEk1T0ROa05EWXpZMkk0SWl3aVkybGtlQ0k2SW0xNWJuUnlZUzB3TW1RM1pHVmpOUzA0WVRBd0xUUmpOelF0T1dObU55MDVaRFl5WkdKbFlUVmxOakVpTENKaGNIQk9ZVzFsSWpvaWJYbHVkSEpoSWl3aWMzUnZjbVZKWkNJNklqSXlPVGNpTENKbGVIQWlPakUzTmpVd01qUTJPRGNzSW1semN5STZJa2xFUlVFaWZRLjdYbmxmcWI5a1V3UFM4Z1FZeG9iMHA5TDFjWjE2YlZ6R0puYUlxdUFnbGc=',
+    '_d_id': 'ce242409-2e69-45e6-9096-426a7250cd46',
+    'mynt-eupv': '1',
+    'mynt-ulc-api': 'pincode%3A380001',
+    '_gcl_gs': '2.1.k1$i1749472687$u182646842',
+    '_gcl_au': '1.1.1825218681.1749472690',
+    'tvc_VID': '1',
+    '_fbp': 'fb.1.1749472691250.825317276240473784',
+    '_cs_ex': '1',
+    '_scid': 'oFRqvTAJS4BDTokXvzSaacdpJjyR-VKL',
+    '_cs_c': '1',
+    '_gcl_aw': 'GCL.1749472697.Cj0KCQjwjJrCBhCXARIsAI5x66VFUuQ7_FdYSvZWBP4bcaZ0mkp4RXMsR5E37Xq2nRQC3uM3gqx2aCEaAoI-EALw_wcB',
+    'bm_lso': '3D3994109E78C56291620D3EC421C864793B4962CCC29826C6429BACC4E34969~YAAQ0XAsMcYeYJ2XAQAAp95fvASiHIuxOPJdcorvLNF2pvOVcYcMB7j6EBHEYW4EuinjX8Oun3NZu01Hmjkj/e1w+RRR0xkqwH/XVrmVr6jPnjX+yzzla8CROyH183VMVCZwoLtqBAdZ0OMbGS7ijuC85gLFILSvCsptXJJmsuChdjmmoUPULfdvcoT/sYQN3rKWfbouRvLuE8FkF6RJJT7c+Q72IGgcHwxxgrf72Vb/WWhC2us1MBMwVl5FY2cHI049WR3PoxJ07gkQXClnti+V20HqAvo1Wc/x+9YqSO2JR5e73kgumF9i+oVwQQQhMtPOMbYGtsaLRYEvnIfmJcL17XUnDJIrFGvxqhVy8ZFs2p/somwX5vNEjzXBzgEr1UOpfqglNMlWUCYB6d3jtF2q/Ys2RcHDuiGECkzqK9LG/mGOkRUiw9ITlOWIdIq9/jyR2VijjL3KksDcFboMTf9hywIcUlBXfLho4mHCYJjelXok/Q==^1751212093398',
+    'bm_s': 'YAAQ5hzFF0ZrbbaXAQAAajW7wgMspUoYIrKWgbT8ksL5ix0DG8vv49oiiOa/HAD6bG+9UA8Q5djDE38YrAcB/2yw8ojr5+r3weVYQn+pswkewESwWtJqid80vPb8LSJPajTb4JjswZyNPOvvwVdHR8vMBqHdD4Ea7e7+0aiOsnn47+rGEopggw/G710MU88zVDisJF9Jh3N4xt8vuncWaJQycjIewr9MUAZpj76/hi2pAkjMZaGEuOv50J01ViU25z2Zd75xkNPEBYe4dz4adGGDZwO8HR6dJqqFln/a8nY4bCwzwsyAasAJch7fNlyj7TZNpG29lx9p0z0KVlm4nZekXnn/mkGN/YfSX33DtRRFoA4dzep0df6L9HfXgIPTtWPYNCir1iGWY/8yp/GnUhZAqZ7BMSBkyZKr00/PVoQI+EJ232wHZG/rO/TCLCjY61vriVe6JT8rFkXVf/DMRUXKkybovF2LeSAanbDEVmoPmn98c8TyYwW2wTkim8STwir7mVE1w9hGlUwcqZDC8Mt8OK0ns7eT+mFxCjHlDPh00RWYEtM005K10Q==',
+    '_ScCbts': '%5B%22572%3Bchrome.2%3A2%3A5%22%5D',
+    '_sctr': '1%7C1751308200000',
+    '_mxab_': 'config.bucket%3Dregular%3Bhpmweb.mycoupons.revamp%3DRevamp_ver1%3Bcoupon.cart.channelAware%3DchannelAware_Enabled%3Bcart.cartfiller.personalised%3Denabled',
+    'lt_timeout': '1',
+    'lt_session': '1',
+    '_abck': '940BFD2F4ACD7CA9225E50AB5B061A3B~0~YAAQjUxhaEJaYa+XAQAAsKGDyg5mD+MIxWy5zvkrvtHwGGHVsKK+m5l58z8TUsru0oTCir7x/H+AbIL6dZBn7Cfavpbq8M1RcOhInM0Ao8G3kar8FBNHzcME6qJPcZjyY/mxSpTpZFRstlXd/gl6LWxdd8QcghnkvvIB0DAgt8FHZbZRjMfBKnMRAUYH5ctt1WhE8zWFafXRc4FqpnDS/8XWYtX5/AZHUy3n0/hdiAzsTAeSXcbdkOTFwwVgQi9E7TR9pfqA/njxNQarC/zoNnbFAO1VRBtOKzQSwvLw7e7YcUHwC8fz/s8aaA2e9kfRCVnQtk8YnP3zNRzLYkmTytM1MU30fIo/YOwLgl6CMHIp47W9ep9xWE7Ldx2bu5SrMpj3rV1JVqA1z6kDjhi4CeZWGDkQaXrTPA+fw6DsGfu2YI6p/byrK8yAxHmCwtyzMJMPlCl/Bo+2lQmAVM4wrqN5G+W5Jh+bsxoCpA9SQE86X79XvZtfHsaQ5Ag7yWX52tioxDZJ0Alt2+9UfylTZnxzNtRO/ixdOTxEcaOIFwKwtil2HbGgpWI5TYLr7JjN1evrSl9d09l1968FGo8PWrC5KVVKexk3CmZ4vQU1w11Q6xBRtNj1tUZ3a87K~-1~-1~-1',
+    'microsessid': '123',
+    'x-mynt-pca': 'gtLEE6r_aTgyNm3hIdwvMAznm_GEEyfjZhdOqJwJcqJqKWSXr8PkDjVeg_cNbMH93JAKOPhsCkeahZSH6Tq2rYrIlvAOMZl9UQFRfc94EvjK-ygsgaWACjxluMARKHoED7FRLmLZhzCI7UwJfrBVxf6UJp5utQNFV84Bw4g1ovxtCCd1E7jJug%3D%3D',
+    'ak_bmsc': '9BAD720852BE7D71186E6C45EA92AB29~000000000000000000000000000000~YAAQjUxhaGVaYa+XAQAApKSDyhw1IdtT5oOGQru/f3sle3F+nQ8b3Vtp5E+eKSnH0zaUiYf8et+gs/d2d421qVgVlckjB9IP6y3iPCg5lOXgHAnrLxqxgspPuN+WsONXTrZc6OlU5wk0YQzDRyYsT+/KrEbQC+cL+kiUiioRN7GxSzjLdDbWJThyz5QAwod+ZJmS9Ay/Pij3pG7JWSLm+qXhRG2bQFJKgMPVy59UEcnCFKdcZodSExKXH0X02zNaCEOoLY7xsbBsdJ4kELf2CA2B5QDocjC5U8K5xkRhMH/58HG7iDB2vZOqMQzHL4h3yEtlcCpl08xZlP+uep3HQjUJyd+mxR2z9QuONDtZXReo8o+Ym8gyoAc87Y4ODLHlV7vPNguYAtWH9E98eAqJ8nhRBwDfyWIFJLqIlL0CzAOirCNsjjLjSdhmaSNUxJzzwHCFqkQKglMnUxDW+w==',
+    '_xsrf': 'td9xkIqcLdsr7GdQhriGZUVuuQKHDxjR',
+    '_ma_session': '%7B%22id%22%3A%223bb6c153-7dfe-487b-afc4-8cf71d3c3d14-ce242409-2e69-45e6-9096-426a7250cd46%22%2C%22referrer_url%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22utm_source%22%3A%22%22%2C%22utm_channel%22%3A%22%22%7D',
+    '_pv': 'default',
+    'dp': 'd',
+    'user_session': 'lSvoxwlxWqfr0TtylxsMXg.hKLUgGwPkPMiMMF8FRHhlGmv3_X1IkoB7-vdMaK2Ld-fI30vIwIrc3prQ8LfBsn5FNcHfHve6jZrW0xMzNbAmBxzdVOS37f4WHNTFon4bUVIYwR7o6cJrng5QJeL5PrKgYJzYMW2PCW5vh3JJPNvxw.1751450143802.86400000.Zca1p2pJWwNeqJzhaW4lCjEhSjvWBCldZHucRZLEmOg',
+    '_scid_r': 'xNRqvTAJS4BDTokXvzSaacdpJjyR-VKLeiynsg',
+    'bm_sz': '5BEF192ACA54A2C5C244E23D87658820~YAAQbUxhaNDOdq+XAQAAqIWcyhy1HFmA+EtFCWZYSpZlb9rW9JhFFKSyup3GW9m92DUgehblI6UdJys2FyRQsFrp17Z/7DPeJq63uGb4VBWrytNH4odnGQ0BAdRNtaSFgVW0vWhkKakFIhTM2VW3bUr6sq1eG5KkF+83vgV2PFcm9j9RbQ2OrrCjE5nWnAlsOCu+0g2u0BdD1XWgp4diL1dqpMm8797zq5bI3cxOxvCOIckAlBlNoabFG4GX8FNwp5Ie+K1EwmwIqHo6gOM6c5igKmYtRhFuaeCEnKWCLIGYM+JjaIIzeHEVa5rYtMbEBVLGlUfzwq6so1sZo9OpfDZstgAAR1vl4UacKVFcd4fSQhJAVRcaI7oAWmZMbcfhcWHdboZLHrrWzwleewULyR66hs4MfvIvuEANGpYg83MnpGfXgUyp~3228472~3753014',
+    'utrid': 'UFt6f2YOAHZuX251REZAMCMzMTY4ODE1ODc1JDI%3D.9b4cd30cc40efb5f5e5b9a9824d11d96',
+    'mynt-loc-src': 'expiry%3A1751452385593%7Csource%3AIP',
+    'bm_sv': 'E7D4199502FE62FC68241ABAD3F6D2D1~YAAQbUxhaPXOdq+XAQAAT4icyhw4HXgXUkxomEgw8qgr/PtFftKxW4wa6Np56vxc8o7KYPZ96n3ylmfpo9gAqCJcDpZA8nzZxuXYKAg9MWQbLqmRcZxdgIoBZO7oW5MS0aTl0PaEVGtwHYSFLX3xwpqxdoEgUmyQ7VJJaL9Kt1L1nrKPMRE7FFpgxznHeUgHSfJ/wxzPIxE7r2KWZ5mmYONLlm81VcjHZNZUkeyhKEp2yopO05hwf+6Dim2OIef0sw==~1',
+    'ak_RT': '"z=1&dm=myntra.com&si=341c9647-b62c-497f-a9ba-d1985e37be57&ss=mclrp6up&sl=4&tt=28k&obo=3&rl=1&ld=z0ca&r=9dtz3h3&ul=z0cb&hd=z0de"',
+}
+
+headers = {
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'accept-language': 'en-US,en;q=0.9',
+    'if-none-match': 'W/"6af2e-TeEtAQUM3kgnvaXHn1OFCENyWj8"',
+    'priority': 'u=0, i',
+    'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'none',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+    # 'cookie': 'at=ZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNklqRWlMQ0owZVhBaU9pSktWMVFpZlEuZXlKdWFXUjRJam9pT1RnM1lUSTNZakF0TkRVeVpTMHhNV1l3TFdKaE1qVXRaVEk1T0ROa05EWXpZMkk0SWl3aVkybGtlQ0k2SW0xNWJuUnlZUzB3TW1RM1pHVmpOUzA0WVRBd0xUUmpOelF0T1dObU55MDVaRFl5WkdKbFlUVmxOakVpTENKaGNIQk9ZVzFsSWpvaWJYbHVkSEpoSWl3aWMzUnZjbVZKWkNJNklqSXlPVGNpTENKbGVIQWlPakUzTmpVd01qUTJPRGNzSW1semN5STZJa2xFUlVFaWZRLjdYbmxmcWI5a1V3UFM4Z1FZeG9iMHA5TDFjWjE2YlZ6R0puYUlxdUFnbGc=; _d_id=ce242409-2e69-45e6-9096-426a7250cd46; mynt-eupv=1; mynt-ulc-api=pincode%3A380001; _gcl_gs=2.1.k1$i1749472687$u182646842; _gcl_au=1.1.1825218681.1749472690; tvc_VID=1; _fbp=fb.1.1749472691250.825317276240473784; _cs_ex=1; _scid=oFRqvTAJS4BDTokXvzSaacdpJjyR-VKL; _cs_c=1; _gcl_aw=GCL.1749472697.Cj0KCQjwjJrCBhCXARIsAI5x66VFUuQ7_FdYSvZWBP4bcaZ0mkp4RXMsR5E37Xq2nRQC3uM3gqx2aCEaAoI-EALw_wcB; bm_lso=3D3994109E78C56291620D3EC421C864793B4962CCC29826C6429BACC4E34969~YAAQ0XAsMcYeYJ2XAQAAp95fvASiHIuxOPJdcorvLNF2pvOVcYcMB7j6EBHEYW4EuinjX8Oun3NZu01Hmjkj/e1w+RRR0xkqwH/XVrmVr6jPnjX+yzzla8CROyH183VMVCZwoLtqBAdZ0OMbGS7ijuC85gLFILSvCsptXJJmsuChdjmmoUPULfdvcoT/sYQN3rKWfbouRvLuE8FkF6RJJT7c+Q72IGgcHwxxgrf72Vb/WWhC2us1MBMwVl5FY2cHI049WR3PoxJ07gkQXClnti+V20HqAvo1Wc/x+9YqSO2JR5e73kgumF9i+oVwQQQhMtPOMbYGtsaLRYEvnIfmJcL17XUnDJIrFGvxqhVy8ZFs2p/somwX5vNEjzXBzgEr1UOpfqglNMlWUCYB6d3jtF2q/Ys2RcHDuiGECkzqK9LG/mGOkRUiw9ITlOWIdIq9/jyR2VijjL3KksDcFboMTf9hywIcUlBXfLho4mHCYJjelXok/Q==^1751212093398; bm_s=YAAQ5hzFF0ZrbbaXAQAAajW7wgMspUoYIrKWgbT8ksL5ix0DG8vv49oiiOa/HAD6bG+9UA8Q5djDE38YrAcB/2yw8ojr5+r3weVYQn+pswkewESwWtJqid80vPb8LSJPajTb4JjswZyNPOvvwVdHR8vMBqHdD4Ea7e7+0aiOsnn47+rGEopggw/G710MU88zVDisJF9Jh3N4xt8vuncWaJQycjIewr9MUAZpj76/hi2pAkjMZaGEuOv50J01ViU25z2Zd75xkNPEBYe4dz4adGGDZwO8HR6dJqqFln/a8nY4bCwzwsyAasAJch7fNlyj7TZNpG29lx9p0z0KVlm4nZekXnn/mkGN/YfSX33DtRRFoA4dzep0df6L9HfXgIPTtWPYNCir1iGWY/8yp/GnUhZAqZ7BMSBkyZKr00/PVoQI+EJ232wHZG/rO/TCLCjY61vriVe6JT8rFkXVf/DMRUXKkybovF2LeSAanbDEVmoPmn98c8TyYwW2wTkim8STwir7mVE1w9hGlUwcqZDC8Mt8OK0ns7eT+mFxCjHlDPh00RWYEtM005K10Q==; _ScCbts=%5B%22572%3Bchrome.2%3A2%3A5%22%5D; _sctr=1%7C1751308200000; _mxab_=config.bucket%3Dregular%3Bhpmweb.mycoupons.revamp%3DRevamp_ver1%3Bcoupon.cart.channelAware%3DchannelAware_Enabled%3Bcart.cartfiller.personalised%3Denabled; lt_timeout=1; lt_session=1; _abck=940BFD2F4ACD7CA9225E50AB5B061A3B~0~YAAQjUxhaEJaYa+XAQAAsKGDyg5mD+MIxWy5zvkrvtHwGGHVsKK+m5l58z8TUsru0oTCir7x/H+AbIL6dZBn7Cfavpbq8M1RcOhInM0Ao8G3kar8FBNHzcME6qJPcZjyY/mxSpTpZFRstlXd/gl6LWxdd8QcghnkvvIB0DAgt8FHZbZRjMfBKnMRAUYH5ctt1WhE8zWFafXRc4FqpnDS/8XWYtX5/AZHUy3n0/hdiAzsTAeSXcbdkOTFwwVgQi9E7TR9pfqA/njxNQarC/zoNnbFAO1VRBtOKzQSwvLw7e7YcUHwC8fz/s8aaA2e9kfRCVnQtk8YnP3zNRzLYkmTytM1MU30fIo/YOwLgl6CMHIp47W9ep9xWE7Ldx2bu5SrMpj3rV1JVqA1z6kDjhi4CeZWGDkQaXrTPA+fw6DsGfu2YI6p/byrK8yAxHmCwtyzMJMPlCl/Bo+2lQmAVM4wrqN5G+W5Jh+bsxoCpA9SQE86X79XvZtfHsaQ5Ag7yWX52tioxDZJ0Alt2+9UfylTZnxzNtRO/ixdOTxEcaOIFwKwtil2HbGgpWI5TYLr7JjN1evrSl9d09l1968FGo8PWrC5KVVKexk3CmZ4vQU1w11Q6xBRtNj1tUZ3a87K~-1~-1~-1; microsessid=123; x-mynt-pca=gtLEE6r_aTgyNm3hIdwvMAznm_GEEyfjZhdOqJwJcqJqKWSXr8PkDjVeg_cNbMH93JAKOPhsCkeahZSH6Tq2rYrIlvAOMZl9UQFRfc94EvjK-ygsgaWACjxluMARKHoED7FRLmLZhzCI7UwJfrBVxf6UJp5utQNFV84Bw4g1ovxtCCd1E7jJug%3D%3D; ak_bmsc=9BAD720852BE7D71186E6C45EA92AB29~000000000000000000000000000000~YAAQjUxhaGVaYa+XAQAApKSDyhw1IdtT5oOGQru/f3sle3F+nQ8b3Vtp5E+eKSnH0zaUiYf8et+gs/d2d421qVgVlckjB9IP6y3iPCg5lOXgHAnrLxqxgspPuN+WsONXTrZc6OlU5wk0YQzDRyYsT+/KrEbQC+cL+kiUiioRN7GxSzjLdDbWJThyz5QAwod+ZJmS9Ay/Pij3pG7JWSLm+qXhRG2bQFJKgMPVy59UEcnCFKdcZodSExKXH0X02zNaCEOoLY7xsbBsdJ4kELf2CA2B5QDocjC5U8K5xkRhMH/58HG7iDB2vZOqMQzHL4h3yEtlcCpl08xZlP+uep3HQjUJyd+mxR2z9QuONDtZXReo8o+Ym8gyoAc87Y4ODLHlV7vPNguYAtWH9E98eAqJ8nhRBwDfyWIFJLqIlL0CzAOirCNsjjLjSdhmaSNUxJzzwHCFqkQKglMnUxDW+w==; _xsrf=td9xkIqcLdsr7GdQhriGZUVuuQKHDxjR; _ma_session=%7B%22id%22%3A%223bb6c153-7dfe-487b-afc4-8cf71d3c3d14-ce242409-2e69-45e6-9096-426a7250cd46%22%2C%22referrer_url%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22utm_source%22%3A%22%22%2C%22utm_channel%22%3A%22%22%7D; _pv=default; dp=d; user_session=lSvoxwlxWqfr0TtylxsMXg.hKLUgGwPkPMiMMF8FRHhlGmv3_X1IkoB7-vdMaK2Ld-fI30vIwIrc3prQ8LfBsn5FNcHfHve6jZrW0xMzNbAmBxzdVOS37f4WHNTFon4bUVIYwR7o6cJrng5QJeL5PrKgYJzYMW2PCW5vh3JJPNvxw.1751450143802.86400000.Zca1p2pJWwNeqJzhaW4lCjEhSjvWBCldZHucRZLEmOg; _scid_r=xNRqvTAJS4BDTokXvzSaacdpJjyR-VKLeiynsg; bm_sz=5BEF192ACA54A2C5C244E23D87658820~YAAQbUxhaNDOdq+XAQAAqIWcyhy1HFmA+EtFCWZYSpZlb9rW9JhFFKSyup3GW9m92DUgehblI6UdJys2FyRQsFrp17Z/7DPeJq63uGb4VBWrytNH4odnGQ0BAdRNtaSFgVW0vWhkKakFIhTM2VW3bUr6sq1eG5KkF+83vgV2PFcm9j9RbQ2OrrCjE5nWnAlsOCu+0g2u0BdD1XWgp4diL1dqpMm8797zq5bI3cxOxvCOIckAlBlNoabFG4GX8FNwp5Ie+K1EwmwIqHo6gOM6c5igKmYtRhFuaeCEnKWCLIGYM+JjaIIzeHEVa5rYtMbEBVLGlUfzwq6so1sZo9OpfDZstgAAR1vl4UacKVFcd4fSQhJAVRcaI7oAWmZMbcfhcWHdboZLHrrWzwleewULyR66hs4MfvIvuEANGpYg83MnpGfXgUyp~3228472~3753014; utrid=UFt6f2YOAHZuX251REZAMCMzMTY4ODE1ODc1JDI%3D.9b4cd30cc40efb5f5e5b9a9824d11d96; mynt-loc-src=expiry%3A1751452385593%7Csource%3AIP; bm_sv=E7D4199502FE62FC68241ABAD3F6D2D1~YAAQbUxhaPXOdq+XAQAAT4icyhw4HXgXUkxomEgw8qgr/PtFftKxW4wa6Np56vxc8o7KYPZ96n3ylmfpo9gAqCJcDpZA8nzZxuXYKAg9MWQbLqmRcZxdgIoBZO7oW5MS0aTl0PaEVGtwHYSFLX3xwpqxdoEgUmyQ7VJJaL9Kt1L1nrKPMRE7FFpgxznHeUgHSfJ/wxzPIxE7r2KWZ5mmYONLlm81VcjHZNZUkeyhKEp2yopO05hwf+6Dim2OIef0sw==~1; ak_RT="z=1&dm=myntra.com&si=341c9647-b62c-497f-a9ba-d1985e37be57&ss=mclrp6up&sl=4&tt=28k&obo=3&rl=1&ld=z0ca&r=9dtz3h3&ul=z0cb&hd=z0de"',
+}

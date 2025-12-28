@@ -1,0 +1,4030 @@
+{
+    "appReducer": {
+        "pageType": null,
+        "statusCode": 200,
+        "storeId": "",
+        "configFlagsFetched": false,
+        "configFlags": {
+            "isSmartLockActive": false,
+            "mobileMapping": {
+                "sendOtpCaptcha": false,
+                "verifyOtpCaptcha": false
+            },
+            "auth": {
+                "checkExistenceCaptcha": false,
+                "sendOtpCaptcha": false,
+                "loginCaptcha": false,
+                "signupCaptcha": false
+            }
+        },
+        "run": 100,
+        "client": {
+            "device": "WEB"
+        },
+        "breadCrumb": null,
+        "isSliderOpen": false,
+        "showBreadcrumb": false,
+        "pathname": "/fabindia-white-pink-lumba-rakhi-with-roli-chawal/p/16630801",
+        "region": {
+            "regionHeader": "GJ",
+            "regionHeaderCountry": "IN"
+        }
+    },
+    "auth": {
+        "fetching": false,
+        "dataFetched": false,
+        "isFetchingError": false,
+        "fetchedOverNetwork": false,
+        "user": {
+            "cartItemsCount": 0,
+            "email": "",
+            "firstName": "",
+            "formKey": "",
+            "groupId": "",
+            "id": "",
+            "isLoyal": false,
+            "isPro": false,
+            "lastName": "",
+            "rewardPoints": 0,
+            "userName": "",
+            "wishlist": []
+        }
+    },
+    "dataLayer": {
+        "pageName": "Nykaa : product page: fabindia-white-pink-lumba-rakhi-with-roli-chawal/p/16630801",
+        "pageType": "Product Detail Page",
+        "product": {
+            "categoryLevels": {
+                "0": "21913",
+                "1": "11363"
+            },
+            "id": "16630801",
+            "image": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_1.jpg",
+            "inStock": false,
+            "stockStatus": "outofstock",
+            "mrp": 299,
+            "name": "Fabindia White & Pink Lumba Rakhi with Roli Chawal",
+            "offerPrice": 299,
+            "sku": "FABIN00105876",
+            "brandName": "Fabindia Fashion",
+            "packSize": "Free Size",
+            "rating": null,
+            "productType": "simple",
+            "slug": "fabindia-white-pink-lumba-rakhi-with-roli-chawal/p/16630801",
+            "categoryLevel": {
+                "l1": {
+                    "id": "28532",
+                    "name": "Jewellery"
+                },
+                "l2": {
+                    "id": "28567",
+                    "name": "Rakhi"
+                },
+                "l3": {
+                    "id": "28789",
+                    "name": "Fashion Rakhis"
+                }
+            },
+            "discount": 0,
+            "reviewCount": "0",
+            "ratingCount": 0,
+            "tags": [],
+            "variantCount": 0,
+            "selectedVariantName": ""
+        },
+        "hasOffer": "no",
+        "analyticsSdkData": {
+            "pdpProductId": "16630801",
+            "pdpProductName": "Fabindia White & Pink Lumba Rakhi with Roli Chawal"
+        }
+    },
+    "productPage": {
+        "loading": false,
+        "isFetchingError": false,
+        "banners": [
+            {
+                "inventoryName": "pd-page.universal-app",
+                "inventoryId": "65bb6273574e044550e34e7e",
+                "inventoryPageType": "pd-page",
+                "inventoryPageSection": "Beauty-PDP",
+                "inventoryPageData": "all",
+                "visibility": "Global",
+                "position": 1,
+                "personalization": "full",
+                "pagePrefix": "",
+                "widgetData": {
+                    "id": "66c472a3e223cf935c204d75",
+                    "widgetType": "CAROUSEL_V2",
+                    "positionInParent": 1,
+                    "inventoryName": "pd-page.universal-app",
+                    "params": {
+                        "buttonData": {
+                            "buttonTitle": "",
+                            "buttonAppLinkType": "",
+                            "buttonAppLinkData": "",
+                            "buttonWebActionType": "url_redirection",
+                            "buttonWebActionUrl": "",
+                            "buttonTrackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "Beauty-PDP",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"dn_app_source\":\"golang\",\"retina_tracking_title\":\"Beauty-PDP\"}"
+                            },
+                            "buttonTrackingUrl": "?intcmp=nykaa:other:pd-page:all:Beauty-PDP:CAROUSEL_V2:1::-1:button_widget"
+                        },
+                        "title": "",
+                        "delayTimer": 5000,
+                        "autoScroll": "True",
+                        "childBkgColor": "",
+                        "bkgColor": "",
+                        "carouselType": "edgetoedge",
+                        "titleAlign": "center",
+                        "description": "",
+                        "positionIndicatorFlag": "off",
+                        "styles": [
+                            {
+                                "name": "banner",
+                                "style": {
+                                    "border": {
+                                        "color": "#0000FF",
+                                        "width": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "cornerRadius": {
+                                        "app": "0",
+                                        "desktop": "0",
+                                        "web": "0"
+                                    },
+                                    "divider": {
+                                        "divider_color": "#16001325",
+                                        "divider_visibility": "off",
+                                        "margin": {
+                                            "bottom": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "left": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "right": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "top": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            }
+                                        }
+                                    },
+                                    "individualCornerRadius": {
+                                        "bottomLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "bottomRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        }
+                                    },
+                                    "isRounded": false
+                                }
+                            },
+                            {
+                                "name": "bannerCallout",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 0.8,
+                                        "colorEnd": "#ffffff",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "interItem1": {
+                                        "app": 8,
+                                        "desktop": "0.5rem",
+                                        "web": "0.5rem"
+                                    },
+                                    "interItem2": {
+                                        "app": 8,
+                                        "desktop": "0.5rem",
+                                        "web": "0.5rem"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "center",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    },
+                                    "textCallout2": {
+                                        "alignment": "center",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    },
+                                    "textCallout3": {
+                                        "alignment": "center",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "bannerTag",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 0.7,
+                                        "colorEnd": "#111314",
+                                        "colorStart": "#111314",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "border": {
+                                        "color": "#ffffff",
+                                        "width": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "cornerRadius": {
+                                        "app": 0,
+                                        "desktop": "0rem",
+                                        "web": "0rem"
+                                    },
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "maxLines": {
+                                        "app": 1,
+                                        "desktop": 1,
+                                        "web": 1
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "center",
+                                        "color": "#ffffff",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 10,
+                                            "desktop": "0.625rem",
+                                            "web": "0.625rem"
+                                        }
+                                    },
+                                    "textTimer": {
+                                        "alignment": "center",
+                                        "color": "#ffffff",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 600,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 10,
+                                            "desktop": "0.625rem",
+                                            "web": "0.625rem"
+                                        }
+                                    },
+                                    "timerAlignment": "right"
+                                }
+                            },
+                            {
+                                "name": "bannerLogo",
+                                "style": {
+                                    "alignment": "left",
+                                    "bkg": {
+                                        "alpha": 0,
+                                        "color": "#ffffff",
+                                        "colorEnd": "#aaaaaa",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "borderColor": "#00000000",
+                                    "cornerRadius": {
+                                        "app": 0,
+                                        "desktop": "0rem",
+                                        "web": "0rem"
+                                    },
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "width": "33"
+                                }
+                            },
+                            {
+                                "name": "bannerTitle",
+                                "style": {
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#92001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 16,
+                                            "desktop": "1rem",
+                                            "web": "1rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "swTitle",
+                                "style": {
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "3rem",
+                                            "web": "3rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 16,
+                                            "desktop": "1.5rem",
+                                            "web": "1.5rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 600,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 20,
+                                            "desktop": "24px",
+                                            "web": "24px"
+                                        }
+                                    },
+                                    "visible": true
+                                }
+                            },
+                            {
+                                "name": "bannerDescription",
+                                "style": {
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#92001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 14,
+                                            "desktop": "0.875rem",
+                                            "web": "0.875rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "swDescription",
+                                "style": {
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#92001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 14,
+                                            "desktop": "0.875rem",
+                                            "web": "0.875rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "bannerTextArea",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 0,
+                                        "colorEnd": "",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "individualBorders": {
+                                        "alpha": 0,
+                                        "bottom": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        },
+                                        "color": "#ffffff",
+                                        "left": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        },
+                                        "right": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        },
+                                        "top": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        }
+                                    },
+                                    "individualCornerRadius": {
+                                        "bottomLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "bottomRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        }
+                                    },
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0.25rem",
+                                            "web": "0.25rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "footerButton",
+                                "style": {
+                                    "alignment": "default",
+                                    "borderColor": "#C0C0C0",
+                                    "cornerRadius": {
+                                        "app": 10,
+                                        "web": "0px"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 4,
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 6,
+                                            "web": "0px"
+                                        },
+                                        "right": {
+                                            "app": 6,
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 4,
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "rightArrowColor": "#00FF00",
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#00FF00",
+                                        "fontFamily": "Graphik",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0.5,
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 2,
+                                            "web": 2
+                                        },
+                                        "size": {
+                                            "app": 14,
+                                            "web": "14px"
+                                        }
+                                    },
+                                    "width": "50"
+                                }
+                            },
+                            {
+                                "name": "clposition",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 1,
+                                        "colorEnd": "#ffffff",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "edgeToEdgeIndicator": {
+                                        "size": {
+                                            "height": {
+                                                "app": 2,
+                                                "desktop": "0.25rem",
+                                                "web": "0.25rem"
+                                            },
+                                            "width": {
+                                                "app": 24,
+                                                "desktop": "1.5rem",
+                                                "web": "1.5rem"
+                                            }
+                                        },
+                                        "type": "bar"
+                                    },
+                                    "indicator": {
+                                        "size": {
+                                            "height": {
+                                                "app": 2,
+                                                "desktop": "0.25rem",
+                                                "web": "0.25rem"
+                                            },
+                                            "width": {
+                                                "app": 24,
+                                                "desktop": "1.5rem",
+                                                "web": "1.5rem"
+                                            }
+                                        },
+                                        "text": {
+                                            "alignment": "right",
+                                            "color": "#64000F1D",
+                                            "fontFamily": "Inter",
+                                            "fontWeight": 500,
+                                            "letterSpacing": {
+                                                "app": 0.5,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "lineSpacing": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "maxLines": {
+                                                "app": 1,
+                                                "desktop": 1,
+                                                "web": 1
+                                            },
+                                            "size": {
+                                                "app": 12,
+                                                "desktop": "10px",
+                                                "web": "10px"
+                                            }
+                                        },
+                                        "type": "bar"
+                                    },
+                                    "indicatorBkg": {
+                                        "baseColour": "#E0E3E6",
+                                        "highlightColour": "#64001325"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 8,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "right",
+                                        "color": "#64000F1D",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0.5,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "10px",
+                                            "web": "10px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "swSpacing",
+                                "style": {
+                                    "interItem": {
+                                        "app": 12,
+                                        "desktop": "0.5rem",
+                                        "web": "0.5rem"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 20,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 20,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "swButton",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 0,
+                                        "color": "#ffffff"
+                                    },
+                                    "buttonText": {
+                                        "alignment": "center",
+                                        "color": "#E80071",
+                                        "font": {
+                                            "app": {
+                                                "fontSize": 14,
+                                                "fontWeight": 600,
+                                                "lineHeight": 20
+                                            },
+                                            "desktop": {
+                                                "fontSize": "14px",
+                                                "fontWeight": 600,
+                                                "lineHeight": "20px"
+                                            },
+                                            "web": {
+                                                "fontSize": "14px",
+                                                "fontWeight": 600,
+                                                "lineHeight": "20px"
+                                            }
+                                        },
+                                        "fontFamily": "Inter",
+                                        "fontTokens": {
+                                            "app": "type142",
+                                            "desktop": "type142",
+                                            "web": "type142"
+                                        },
+                                        "fontWeight": 600,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineHeight": {
+                                            "app": 20,
+                                            "desktop": "20px",
+                                            "web": "20px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 14,
+                                            "desktop": "14px",
+                                            "web": "14px"
+                                        }
+                                    },
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 8,
+                                            "desktop": "0.5rem",
+                                            "web": "0.5rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 8,
+                                            "desktop": "0.5rem",
+                                            "web": "0.5rem"
+                                        }
+                                    },
+                                    "visible": false
+                                }
+                            }
+                        ],
+                        "isDesktop": true
+                    },
+                    "children": [],
+                    "inheritParams": {
+                        "textAreaOpacity": "",
+                        "textPosition": "below_image"
+                    },
+                    "trackingData": {
+                        "namespace0": "pd-page",
+                        "namespace1": "Beauty-PDP",
+                        "lang": "en",
+                        "position1": 1,
+                        "pageData1": "",
+                        "pageData2": "all",
+                        "wtype": "CAROUSEL_V2",
+                        "wtype_version": "v2",
+                        "brand_ids": [
+                            "-1"
+                        ],
+                        "dn_tracking_metadata": "{\"dn_app_source\":\"golang\",\"retina_tracking_title\":\"Beauty-PDP\"}"
+                    },
+                    "isDesktop": true,
+                    "store": "nykaa",
+                    "pagePrefix": "",
+                    "previewMode": false,
+                    "devModeData": "{\"dn_widget_id\":\"66c472a3e223cf935c204d75\",\"dn_inventory_id\":\"65bb6273574e044550e34e7e\",\"dn_inventory_name\":\"pd-page.universal-app\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"Beauty-PDP\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"CAROUSEL_V2\"}"
+                }
+            }
+        ],
+        "product": {
+            "brandName": "Fabindia Fashion",
+            "brandAuth": {
+                "text": "100% Authentic, directly purchased from Fabindia Fashion.",
+                "icon": "https://images-static.naikaa.com/media/wysiwyg/2023/authentic-badge-24.png",
+                "certificate": null
+            },
+            "buttonText": "ADD TO BAG",
+            "newButtonText": "Add to Bag",
+            "canSubscribe": false,
+            "categoryLevels": {
+                "0": "21913",
+                "1": "11363"
+            },
+            "description": "<p><b>Product Description : </b>Fabindia Gold Thread Rakhi with Chawal & Roli Pouch (Length- 19.05cm)</p><p><b>Primary Color : </b>White</p><p><b>Care Instructions : </b>Remove Jewellery Before Washing Face & Store In Dry Place Away From Humidity</p><p><b>Pack Contains : </b>1 Rakhi, 1 Roli Chawal</p><p><b>Material : </b>Mixed Metal</p><p><b>Occasion : </b>Festive</p>",
+            "discount": 0,
+            "id": "16630801",
+            "isLux": 0,
+            "isKitCombo": false,
+            "inStock": false,
+            "metaDescription": "Buy Fabindia White & Pink Lumba Rakhi with Roli Chawal online at best prices on Nykaa to avail express shipping with great offers.",
+            "metaKeywords": "Fabindia White & Pink Lumba Rakhi with Roli Chawal,Jewellery,Rakhi,Fashion Rakhis",
+            "metaTitle": "Buy Fabindia White & Pink Lumba Rakhi with Roli Chawal Online",
+            "mrp": 299,
+            "name": "Fabindia White & Pink Lumba Rakhi with Roli Chawal",
+            "multiMrp": {
+                "enabled": false
+            },
+            "offerPrice": 299,
+            "offers": [],
+            "variants": [],
+            "parentId": "16630801",
+            "packSize": "Free Size",
+            "parentMedia": [
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_1.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_2.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_3.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_4.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_5.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_6.jpg",
+                    "mediaType": "image"
+                }
+            ],
+            "parentCarousel": [
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_1.jpg",
+                    "mediaType": "image",
+                    "id": "0-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_2.jpg",
+                    "mediaType": "image",
+                    "id": "1-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_3.jpg",
+                    "mediaType": "image",
+                    "id": "2-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_4.jpg",
+                    "mediaType": "image",
+                    "id": "3-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_5.jpg",
+                    "mediaType": "image",
+                    "id": "4-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_6.jpg",
+                    "mediaType": "image",
+                    "id": "5-main_image"
+                }
+            ],
+            "parentRelatedVideo": [],
+            "primaryCategories": {
+                "l1": {
+                    "id": "28532",
+                    "name": "Jewellery"
+                },
+                "l2": {
+                    "id": "28567",
+                    "name": "Rakhi"
+                },
+                "l3": {
+                    "id": "28789",
+                    "name": "Fashion Rakhis"
+                }
+            },
+            "productType": "simple",
+            "quantity": 0,
+            "rating": null,
+            "ratingCount": 0,
+            "returnMessage": "The brand does not offer returns or replacements on this product.",
+            "reviewCount": "0",
+            "sku": "FABIN00105876",
+            "slug": "fabindia-white-pink-lumba-rakhi-with-roli-chawal/p/16630801",
+            "ingredients": null,
+            "howToUse": null,
+            "originOfCountryName": "India",
+            "countryOfManufacture": null,
+            "manufacturerName": "FABINDIA LIMITED",
+            "manufacturerAddress": "Plot No. 10, Local Shopping Complex, Sector B, Pocket- 7, Vasant Kunj, New Delhi- 110070",
+            "manufacture": [
+                {
+                    "originOfCountryName": "India",
+                    "manufacturerName": "FABINDIA LIMITED",
+                    "manufacturerAddress": "Plot No. 10, Local Shopping Complex, Sector B, Pocket- 7, Vasant Kunj, New Delhi- 110070",
+                    "packerName": "",
+                    "packerAddress": "",
+                    "importerName": "",
+                    "importerAddress": "",
+                    "manufacturerNameLabel": "Manufacturer: ",
+                    "manufacturerAddressLabel": "Address: ",
+                    "packerNameLabel": "Packer: ",
+                    "packerAddressLabel": "Address: ",
+                    "importerNameLabel": "Importer: ",
+                    "importerAddressLabel": "Address: ",
+                    "countryOfOriginLabel": "Country of Origin: "
+                }
+            ],
+            "expiry": null,
+            "exploreMore": {
+                "filters": {},
+                "category": {},
+                "brand": {
+                    "id": "27337",
+                    "message": "See more products from Fabindia Fashion",
+                    "url": "/brands/fabindia-fashion/c/27337?ptype=brand&id=27337"
+                },
+                "brand_plus_cat": {}
+            },
+            "tags": [],
+            "proFlag": 0,
+            "returnAvailable": false,
+            "messageOnReturn": "The brand does not offer returns or replacements on this product.",
+            "onlyWishlistButton": 0,
+            "imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/d/3de28022125784GOLD_1.jpg",
+            "isBackorder": false,
+            "qnaCount": 0,
+            "reviewSplitUp": [],
+            "sellerName": "Fabindia Limited_Parent",
+            "sizeData": {
+                "enabled": false,
+                "buttonText": "size chart",
+                "unitText": "",
+                "units": [],
+                "columns": []
+            },
+            "latestReviews": [],
+            "title": "Fabindia White & Pink Lumba Rakhi with Roli Chawal",
+            "tryItOn": 0,
+            "isSearchable": true,
+            "prData": null,
+            "isPrEnabled": false,
+            "isEarlyAccess": false,
+            "isFlashSale": false,
+            "brandsPart": [
+                {
+                    "id": "27337",
+                    "name": "Fabindia Fashion"
+                }
+            ],
+            "productTitle": "Fabindia White & Pink Lumba Rakhi with Roli Chawal",
+            "selectedVariantId": "16630801",
+            "selectedVariantName": ""
+        },
+        "activeTab": 0,
+        "remaining_inventories_ids": [],
+        "queryParamsObject": {
+            "page_type": "pd-page",
+            "page_section": "*",
+            "device": "desktop",
+            "dn_platform": "dweb",
+            "page_data": "16630801",
+            "api_version": ""
+        },
+        "isNotFound": false
+    },
+    "searchSuggestions": {
+        "productSuggestions": [],
+        "otherSuggestions": [],
+        "trendingSearches": [],
+        "searchAutoSuggestions": [],
+        "searchField": ""
+    },
+    "reviewImages": {
+        "images": [],
+        "imagesWithInfo": {
+            "imageUrl": [],
+            "review": []
+        },
+        "productId": null,
+        "totalImagesAvailable": 0,
+        "loading": false,
+        "isNotFound": false,
+        "isFetchingError": false,
+        "nextPageKey": "",
+        "hasLoaded": false,
+        "isServerError": false,
+        "stopFurtherCall": false
+    },
+    "remoteConfig": {
+        "switches": {
+            "dnSwitches": {
+                "isEmptyWidget": true,
+                "optimizedImageUrlEnabled": true,
+                "isShimmer": true
+            },
+            "showOffersOnPdp": true,
+            "showRewardPoints": true,
+            "showViewSimilar": true,
+            "newRatingForm": true,
+            "showDeliveryOnPd": true,
+            "internationalMode": false,
+            "redirectionList": [],
+            "trackDeviceId": false,
+            "pdPageBanners": true,
+            "offerListingEnabled": true,
+            "appLinkEnabled": true,
+            "featuresEnabled": true,
+            "socialLinksEnabled": true,
+            "newsletterEnabled": true,
+            "helpCenterEnabled": true,
+            "mobileNumberMapping": true,
+            "showUserPortfolio": false,
+            "webOtpAutoRead": true,
+            "vpEnabled": false,
+            "experimentV2Enabled": true,
+            "analyticsV2Enabled": true,
+            "analyticsFetchEnabled": true,
+            "analyticsLoggingEnabled": true,
+            "analyticsBatchMigrationLogic": true,
+            "loadInterFont": true,
+            "dwebPdpCustomVideo": true,
+            "personalizationEnabled": true,
+            "fetchWishlistIds": true,
+            "suggestMobileMap": true,
+            "isPaginationEnabled": true,
+            "universalBanners": false,
+            "mySavedPayment": true,
+            "emailVerification": true,
+            "isWriteReviewElibilityEnabled": true,
+            "urlMapsEnabled": true,
+            "newRelicClientEnable": true,
+            "seoFooterCategoryEnable": true,
+            "isCbsEnabled": false,
+            "enableOmniture": false,
+            "zendeskChatEnabled": true,
+            "showUserPortfolioCTA": false,
+            "isMultiMrpEnabled": true,
+            "eligibleRedirectToSnsp": true,
+            "isSlugRedirectEnabled": true,
+            "isCouponDeltaEnabled": false
+        },
+        "configs": {
+            "rootMargin": "0px",
+            "dnConfigs": {
+                "defaultEagerLoadInventories": 3,
+                "ellipsisCategoryFilters": 9,
+                "shimmerHeights": {
+                    "hp": {
+                        "dweb": "164px",
+                        "mweb": "154px"
+                    },
+                    "sp": {
+                        "dweb": "0px",
+                        "mweb": "0px"
+                    },
+                    "plp": {
+                        "dweb": "0px",
+                        "mweb": "0px"
+                    },
+                    "pdp": {
+                        "dweb": "0px",
+                        "mweb": "0px"
+                    },
+                    "others": {
+                        "dweb": "0px",
+                        "mweb": "0px"
+                    }
+                }
+            },
+            "whitelistedDomains": [
+                "www.nykaa.com",
+                "api.nykaa.com",
+                "adn-static2.nykaa.com",
+                "adn-static1.nykaa.com",
+                "prod-events.nykaa.com"
+            ],
+            "customersAlsoBought": {
+                "status": false
+            },
+            "customersAlsoViewed": {
+                "status": false
+            },
+            "rewardPointsOnSignUp": 2000,
+            "upiOffer": {
+                "status": false,
+                "message": "Get upto \u20b940 OFF on BHIM UPI Payment"
+            },
+            "priceReveal": {
+                "active": false,
+                "productEligibilityActive": false,
+                "data": {
+                    "bucket": "PinkFridayBox2024",
+                    "pinkBoxUrl": "/saleBox/?ptype=saleBox&saleId=pink-friday-sale",
+                    "saleOfferTitle": "PINK SUMMER OFFER",
+                    "colors": {
+                        "offerTitle": "#000000",
+                        "offerPrice": "#000000",
+                        "offerDiscount": "#000000",
+                        "offerDescription": "#000000"
+                    },
+                    "primaryActionLabel": "Add To Pink Box",
+                    "secondaryActionLabel": "Go To Pink Box",
+                    "alreadyAddedToBoxInfo": "You added this product to your Pink Box",
+                    "addedToBoxToastMessage": "Added to Pink Box",
+                    "addedToBoxErrorMessage": "Couldn't Add to Pink Box, Try again"
+                }
+            },
+            "productEligibilityService": {
+                "active": false,
+                "eligility": {}
+            },
+            "trendingSearchesToShow": 5,
+            "maxSearchHistoryCount": 5,
+            "storeOptions": {
+                "status": false,
+                "backToBeautyText": "Nykaa Main Store",
+                "exploreMoreStores": "https://images-static.nykaa.com/media/explore_stores_v5.png",
+                "stores": []
+            },
+            "contentPolicy": {
+                "status": true,
+                "value": "img-src 'self' data: *.nykaa.com *.naikaa.com fsnecommerce.sc.omtrdc.net evbk.gamooga.com webevbk.gamooga.com www.google-analytics.com www.google.com www.google.co.in www.facebook.com stats.g.doubleclick.net cm.everesttech.net www.googletagmanager.com *.criteo.net *.criteo.com www.youtube.com dpm.demdex.net cm.g.doubleclick.net  www.gstatic.com m.youtube.com cdn-jp.gsecondscreen.com *.googlesyndication.com googleads.g.doubleclick.net d286adtp3hdk00.cloudfront.net;script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nykaa.com *.naikaa.com assets.adobedtm.com www.googletagmanager.com www.google-analytics.com  www.googleadservices.com *.criteo.net *.criteo.com connect.facebook.net cdn-jp.gsecondscreen.com googleads.g.doubleclick.net apis.google.com *.netcoresmartech.com ae.gsecondscreen.com evbk.gamooga.com webevbk.gamooga.com *.speedcurve.com nykaa.verloop.io cdn-ops.verloop.io cdn.speedcurve.com lux.speedcurve.com cdn.nykaaman.com https://11310639.fls.doubleclick.net/activityi googleads.g.doubleclick.net *.googlesyndication.com connect.facebook.net *.clarity.ms traqkar.com cakecdn.com/jssdk/lib.js https://script.mfilterit.net/v3/v/client/web.nykaabeauty.cpv.js accounts.google.com https://www.artfut.com/static/tracking.min.js https://www.artfut.com/static/tagtag.min.js https://www.artfut.com/static/crossdevice.min.js https://ad.admitad.com/tt/ https://cdn.mxpnl.com/libs/mixpanel-js-wrapper.js https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js https://js-agent.newrelic.com https://bam.nr-data.net www.gstatic.com https://www.google.com/recaptcha/api.js http://static.clevertap.com/js/clevertap.min.js https://in1.clevertap-prod.com https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js https://static.zdassets.com https://pod-29.zendesk.com https://bat.bing.com/bat.js https://bat.bing.com/p/action/187147406.js;frame-ancestors 'self' ;upgrade-insecure-requests;form-action 'self' ;object-src 'none' ;",
+                "userPercentage": 10,
+                "headerKey": "Content-Security-Policy"
+            },
+            "sortForListing": [
+                {
+                    "name": "popularity",
+                    "key": "popularity"
+                },
+                {
+                    "name": "discount",
+                    "key": "discount"
+                },
+                {
+                    "name": "name",
+                    "key": "name"
+                },
+                {
+                    "name": "customer top rated",
+                    "key": "customer_top_rated"
+                },
+                {
+                    "name": "new arrivals",
+                    "key": "new_arrival"
+                },
+                {
+                    "name": "price: high to low",
+                    "key": "price_desc"
+                },
+                {
+                    "name": "price: low to high",
+                    "key": "price_asc"
+                }
+            ],
+            "freeShipping": 299,
+            "homePage": {
+                "initialInventories": 10,
+                "eagerLoadImages": 6,
+                "pageTypeSuffix": {
+                    "status": true,
+                    "suffix": "sale"
+                }
+            },
+            "meta": {
+                "allReviewsPage": {
+                    "title": "Product_Name Reviews Online | Nykaa",
+                    "description": "Read genuine reviews of Product_Name by verified buyers at Nykaa.com. Shop for 100% authentic products from Nykaa.com."
+                },
+                "productPage": {
+                    "title": "Buy Product_Name Online",
+                    "description": "Buy Product_Name online at best prices on Nykaa to avail express shipping with great offers."
+                },
+                "brandPage": {
+                    "title": "Brand_Name: Buy Brand_Name Products Online at Best Price in India",
+                    "description": "Buy Brand_Name products at best price from Nykaa. Shop for 100% authentic & genuine Brand_Name products. \u2713COD \u2713Free Shipping \u2713Easy Returns \u2713Verified Reviews"
+                },
+                "searchPage": {
+                    "title": "Buy Cosmetics Products & Beauty Products Online in India at Best Price | Nykaa",
+                    "description": "Buy cosmetics &amp; beauty products online from Nykaa, the online shopping beauty store. Browse makeup, health products &amp; more from top beauty brands. \u2714 free shipping* \u2714 Cash on Delivery",
+                    "keywords": "Nykaa, Nyka, Nykaa.com, Nika, Nyyka, Nyka.com, Nykaa online, Nykaa India, buy cosmetics online, cosmetics online, buy beauty products online, beauty products online, buy cosmetics india, buy beauty products india"
+                }
+            },
+            "guidedSearch": {
+                "userPercentage": 0,
+                "status": false
+            },
+            "searchSuggestionIcons": {
+                "query": "https://images-static.nykaa.com/media/wysiwyg/2020/search.svg",
+                "buying_guide": "https://images-static.nykaa.com/media/wysiwyg/2020/buying-guide.svg",
+                "history": "https://images-static.nykaa.com/media/wysiwyg/2020/clock.svg",
+                "trending": "https://images-static.nykaa.com/media/wysiwyg/2020/ic-trending.svg"
+            },
+            "AB": {
+                "rnrCollection": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "EXP_REVIEW_COLLECTION",
+                    "cookie": "EXP_REVIEW_COLLECTION"
+                },
+                "dweblstMigration": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_dweb_listingpage",
+                    "cookie": "D_LST"
+                },
+                "dwebPdpMigration": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_dweb_pdp",
+                    "cookie": "D_PDP"
+                },
+                "autoFillSignUp": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_autoFill"
+                },
+                "emailSuggestion": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_email_suggestion",
+                    "emailSuggestionList": {
+                        "@": [
+                            "gmail.com",
+                            "yahoo.com",
+                            "hotmail.com"
+                        ],
+                        "g": [
+                            "gmail.com"
+                        ],
+                        "y": [
+                            "yahoo.com",
+                            "yahoo.co.in",
+                            "yahoo.in"
+                        ],
+                        "h": [
+                            "hotmail.com",
+                            "hotmail.co.in"
+                        ],
+                        "o": [
+                            "outlook.com"
+                        ],
+                        "r": [
+                            "rediffmail.com",
+                            "rediff.com"
+                        ],
+                        "f": [
+                            "facebook.com"
+                        ],
+                        "i": [
+                            "icloud.com"
+                        ],
+                        "p": [
+                            "privaterelay.applied.com"
+                        ]
+                    }
+                },
+                "passwordLessFlow": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_passwordLess"
+                }
+            },
+            "appLinks": {
+                "title": "experience the nykaa mobile app",
+                "googlePlay": "https://nykaa.onelink.me/2573509543/aba6fc39",
+                "appStore": "https://nykaa.onelink.me/2573509543/aba6fc39"
+            },
+            "features": {
+                "brandsCount": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/Brands.svg",
+                    "title": "1900+ Brands",
+                    "text": "1.2 Lakh+ Products"
+                },
+                "freeShip": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/Free-shipping.svg",
+                    "title": "Free Shipping",
+                    "text": "On Orders Above \u20b9"
+                },
+                "genuineProduct": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/Authenticity.svg",
+                    "title": "100% Authentic",
+                    "text": "Products Sourced Directly"
+                },
+                "easyReturns": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/return_accepted.svg",
+                    "title": "Easy Returns",
+                    "text": "15-Day Return Policy "
+                }
+            },
+            "socialLinks": {
+                "text": "show us some love \u2764 on social media",
+                "social": [
+                    {
+                        "title": "Instagram",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-instagram-filled.svg",
+                        "link": "https://www.instagram.com/mynykaa/?ref=badge"
+                    },
+                    {
+                        "title": "Facebook",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-facebook-filled.svg",
+                        "link": "https://www.facebook.com/p/Nykaa-100044142710696/"
+                    },
+                    {
+                        "title": "Youtube",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-youtube-filled.svg",
+                        "link": "https://www.youtube.com/channel/UCoaH2UtB1PsV7av17woV1BA"
+                    },
+                    {
+                        "title": "Twitter",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-twitter-filled.svg",
+                        "link": "https://twitter.com/MyNykaa"
+                    },
+                    {
+                        "title": "Pinterest",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-pinterest-filled.svg",
+                        "link": "https://www.pinterest.com/mynykaa/"
+                    }
+                ]
+            },
+            "footerLinks": {
+                "Nykaa": [
+                    {
+                        "displayAs": "Who are we?",
+                        "redirectTo": "/who_are_we/lp?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Careers",
+                        "redirectTo": "/who_are_we/lp#wwrcopen"
+                    },
+                    {
+                        "displayAs": "Authenticity",
+                        "redirectTo": "/authenticity-nykaa-guarantee/lp?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Press",
+                        "redirectTo": "/who_are_we/lp#wwrpress"
+                    },
+                    {
+                        "displayAs": "Testimonials",
+                        "redirectTo": "/who_are_we/lp#wwrtestimonial"
+                    },
+                    {
+                        "displayAs": "Nykaa CSR",
+                        "redirectTo": "/nykaa-csr/lp"
+                    },
+                    {
+                        "displayAs": "Responsible Disclosure",
+                        "redirectTo": "/responsible-disclosure/lp"
+                    },
+                    {
+                        "displayAs": "Investor Relations",
+                        "redirectTo": "/investor-relations/lp"
+                    },
+                    {
+                        "displayAs": "Link to Smart ODR",
+                        "redirectTo": "https://smartodr.in/login"
+                    }
+                ],
+                "Help": [
+                    {
+                        "displayAs": "Contact Us",
+                        "redirectTo": "https://www.nykaa.com/gateway-api/omsApis/helpCenter?domain=NYKAA"
+                    },
+                    {
+                        "displayAs": "Frequently asked questions",
+                        "redirectTo": "https://www.nykaa.com/gateway-api/omsApis/helpCenter?domain=NYKAA"
+                    },
+                    {
+                        "displayAs": "Store Locator",
+                        "redirectTo": "https://stores.nykaa.com/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Cancellation & Return",
+                        "redirectTo": "/cancellation-policy/lp?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Shipping & Delivery",
+                        "redirectTo": "/shipping-policy/lp?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Sell on Nykaa",
+                        "redirectTo": "/sellonnykaa/lp"
+                    }
+                ],
+                "Inspire Me": [
+                    {
+                        "displayAs": "Beauty Book",
+                        "redirectTo": "https://www.nykaa.com/beauty-blog/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Games Board",
+                        "redirectTo": "https://www.nykaa.com/games-board/lp"
+                    },
+                    {
+                        "displayAs": "Buying Guides",
+                        "redirectTo": "https://www.nykaa.com/sp/shop-all-buying-guide/shop-all-buying-guide?utm_source=Desktop_web_footer"
+                    }
+                ],
+                "Quick Links": [
+                    {
+                        "displayAs": "Offer Zone",
+                        "redirectTo": "/sp/offers-native/offers?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "New Launches",
+                        "redirectTo": "/shop-new-launches/c/53665?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa Man",
+                        "redirectTo": "https://www.nykaaman.com/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa Fashion",
+                        "redirectTo": "https://www.nykaafashion.com/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa Pro",
+                        "redirectTo": "/pro-intro?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Sitemap",
+                        "redirectTo": "/sitemap/lp?root=nav_footer"
+                    }
+                ],
+                "Top Categories": [
+                    {
+                        "displayAs": "Makeup",
+                        "redirectTo": "/makeup/c/12?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Skin",
+                        "redirectTo": "/skin/c/8377?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Hair",
+                        "redirectTo": "/hair-care/c/24?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Bath & Body",
+                        "redirectTo": "/bath-body/c/1380?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Appliances",
+                        "redirectTo": "/personal-care-appliances/c/1390?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Mom and Baby",
+                        "redirectTo": "/mom-baby/c/14797?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Health & Wellness",
+                        "redirectTo": "/wellness/c/671?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Fragrance",
+                        "redirectTo": "/fragrance/c/53?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Natural",
+                        "redirectTo": "/natural/c/9564?root=nav_1"
+                    },
+                    {
+                        "displayAs": "Luxe",
+                        "redirectTo": "/luxe/c/194?root=nav_footer&utm_source=Desktop_web_footer"
+                    }
+                ]
+            },
+            "helpCenter": {
+                "imgUrl": "https://images-static.nykaa.com/media/wysiwyg/2020/helpCenter.svg",
+                "title": "HELP CENTER",
+                "link": "https://www.nykaa.com/gateway-api/omsApis/helpCenter?domain=NYKAA"
+            },
+            "VP": {
+                "apiKey": "AIzaSyBCiWco5cS6Uja2-642pPZl_Ed0lRROZc4",
+                "authDomain": "nykaa-android-1224.firebaseapp.com",
+                "databaseURL": "https://nykaa-android-1224.firebaseio.com",
+                "projectId": "nykaa-android-1224",
+                "storageBucket": "nykaa-android-1224.appspot.com",
+                "messagingSenderId": "1035734725184",
+                "appId": "1:1035734725184:web:cd91daa8cac5a2baa0e5a5",
+                "measurementId": "G-W9QPFFEM7C",
+                "doc": "api_prioritization",
+                "collection": "nykaa"
+            },
+            "ABV2": [
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_REVIEW",
+                    "id": "AB_REVIEW_PAGE",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_ORDERS_REVAMP",
+                    "id": "ORDERS_REVAMP",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_DWEB_SHOPPING_BAG_URL",
+                    "id": "AB_DWEB_SHOPPING_BAG_URL",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_WISHLIST",
+                    "id": "AB_WISHLIST",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "SEO_REDIRECT",
+                    "id": "INCORRECT_SLUG_REDIRECT",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_MULTIPLE_COUPONS",
+                    "id": "ADP_RV_MULTI_COUPONS",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_DWEB_MULTICOUPON",
+                    "id": "AB_DWEB_MULTICOUPON",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 0.2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_AUTH_DWEB",
+                    "id": "AB_AUTH_DWEB",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_FOOTER_LINK",
+                    "id": "AB_FOOTER_LINK",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "SNP_SERVER_EXPERIMENTS",
+                    "id": "QUERY_PARAM_EXP_DWEB",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "CONTROL",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": false,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_PAGE_NOT_FOUND",
+                    "id": "AB_PAGE_NOT_FOUND",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        },
+                        {
+                            "name": "CONTROL",
+                            "sampleRate": {
+                                "from": 0.1,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_ZENDESK_CHAT",
+                    "id": "AB_ZENDESK_CHAT",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AD_BRV",
+                    "id": "AD_BRV",
+                    "nykaaUserVariant": "variant1",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "variant1",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 0.5
+                            }
+                        },
+                        {
+                            "name": "random",
+                            "sampleRate": {
+                                "from": 0.5,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_NEW_GC_PAGE",
+                    "id": "AB_NEW_GC_PAGE",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "LISTING_INLINE_WIDGETS_DWEB",
+                    "id": "PLP_DNW_DWEB",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                }
+            ],
+            "landingPageABConfig": {
+                "mweb-homepage": [
+                    "AD_BRV"
+                ],
+                "bath-and-body-native": [
+                    "AD_BRV"
+                ],
+                "makeup-native": [
+                    "AD_BRV"
+                ],
+                "hair-native": [
+                    "AD_BRV"
+                ],
+                "wellness-native": [
+                    "AD_BRV"
+                ],
+                "everyday-essentials-app": [
+                    "AD_BRV"
+                ],
+                "everyday-essentials": [
+                    "AD_BRV"
+                ],
+                "mom-and-baby-native": [
+                    "AD_BRV"
+                ],
+                "appliances": [
+                    "AD_BRV"
+                ],
+                "skin-native": [
+                    "AD_BRV"
+                ],
+                "brands-you-will-love-adtest": [
+                    "AD_BRV"
+                ],
+                "app-homepage": [
+                    "AD_BRV"
+                ],
+                "desktop-homepage": [
+                    "AD_BRV"
+                ],
+                "app-homepage-exp01-B": [
+                    "AD_BRV"
+                ],
+                "skin-native-desktop": [
+                    "AD_BRV"
+                ],
+                "fragrance-native": [
+                    "AD_BRV"
+                ],
+                "app-homepage-exp01-A": [
+                    "AD_BRV"
+                ],
+                "adtest-test-page": [
+                    "AD_BRV"
+                ],
+                "makeup-clp-desktop": [
+                    "AD_BRV"
+                ],
+                "qa-sanity-page": [
+                    "AD_BRV"
+                ],
+                "wellness-desktop": [
+                    "AD_BRV"
+                ],
+                "hair-clp-desktop": [
+                    "AD_BRV"
+                ],
+                "desktop-homepage-revamp-testing": [
+                    "AD_BRV"
+                ],
+                "app-homepage-revamp-testing": [
+                    "AD_BRV"
+                ],
+                "bath-and-body-desktop": [
+                    "AD_BRV"
+                ]
+            },
+            "plpPriceReveal": {
+                "status": false,
+                "categoryId": [
+                    55029,
+                    26723,
+                    26719,
+                    26720,
+                    26721,
+                    55622,
+                    55624,
+                    55623,
+                    55625,
+                    55626,
+                    55627,
+                    55628,
+                    55629,
+                    55630,
+                    55631,
+                    55632,
+                    55633,
+                    55634,
+                    55635,
+                    55636,
+                    55637,
+                    55638,
+                    55639,
+                    55640,
+                    55641,
+                    55642,
+                    55643,
+                    55644,
+                    55645,
+                    55646,
+                    55647,
+                    55648,
+                    55649,
+                    55650,
+                    55651,
+                    55652,
+                    55653,
+                    55654,
+                    55655,
+                    55656,
+                    55657,
+                    55658,
+                    55659,
+                    55660,
+                    55661,
+                    55662,
+                    55663,
+                    55664,
+                    55665,
+                    55666,
+                    55911,
+                    55912
+                ],
+                "text": "SALE OFFER INSIDE",
+                "textColor": "#E80071",
+                "badgeColor": "#FDEBF4"
+            },
+            "listingPriceReveal": {
+                "isActive": false,
+                "title": "Pink Friday Sale",
+                "styles": {
+                    "titleColor": "#A40753",
+                    "spColor": "#142436",
+                    "discountColor": "#068743",
+                    "bgColor": "#FBD6E8",
+                    "border": "4px"
+                }
+            },
+            "pdPriceReveal": {
+                "isActive": false,
+                "title": "Pink Friday Sale",
+                "pinkBoxUrl": "/saleBox/?ptype=saleBox&saleId=pink-friday-sale",
+                "bucket": "PinkFridayBox2024",
+                "styles": {
+                    "titleColor": "#A40753",
+                    "priceColor": "#142436",
+                    "discountColor": "#068743",
+                    "bgColor": "#FBD6E8",
+                    "border": "4px"
+                },
+                "primaryActionLabel": "Add To Pink Box",
+                "secondaryActionLabel": "Go To Pink Box",
+                "addedToBoxToastMessage": "Added to Pink Box",
+                "addedToBoxErrorMessage": "Couldn't Add to Pink Box, Try again"
+            },
+            "sentrySampleRate": 0.1,
+            "newRelicSampleRate": 0.5,
+            "policies": [
+                {
+                    "title": "Terms & Conditions",
+                    "link": "/terms-conditions/lp"
+                },
+                {
+                    "title": "Shipping Policy",
+                    "link": "/shipping-policy/lp"
+                },
+                {
+                    "title": "Cancellation Policy",
+                    "link": "/cancellation-policy/lp"
+                },
+                {
+                    "title": "Privacy Policy",
+                    "link": "/privacy-policy/lp"
+                }
+            ],
+            "pdpWidgetConfig": {
+                "status": "1",
+                "algo": [
+                    {
+                        "cav": "intersection_v3"
+                    },
+                    {
+                        "cab": "iou_v4"
+                    }
+                ]
+            },
+            "analyticsIncrementalTimerInMs": 5000,
+            "analyticsDelayTimer": 20000,
+            "analyticsExcludedEventNames": [],
+            "analyticsEventThreshold": 20,
+            "analyticsLoggingSampleRate": 0.3,
+            "analyticsSessionMaxDurationInHours": 12,
+            "analyticsSessionExpireInMinutes": 30,
+            "analyticsBatchEventPayloadSizeLimitInKB": 220,
+            "analyticsIntervalBatchTime": 5000,
+            "dnPaginationConfig": {
+                "bufferSize": 10,
+                "pageLimit": 10
+            },
+            "dynamicPriceRangeToastConfig": {
+                "enabled": true,
+                "timer": 4
+            },
+            "proWarningText": "Please limit address changes in your account. In case of frequent changes, Nykaa PRO reserves the right to discontinue your membership.",
+            "organizationSeoSchema": {
+                "name": "Nykaa",
+                "url": "https://www.nykaa.com",
+                "contact": "1800-267-4444",
+                "logo": "https://images-static.nykaa.com/media/favicon/default/nykaa_favicon_a.png",
+                "socialMedia": [
+                    "https://www.instagram.com/mynykaa/",
+                    "https://www.facebook.com/p/Nykaa-100044142710696/",
+                    "https://www.youtube.com/channel/UCoaH2UtB1PsV7av17woV1BA",
+                    "https://twitter.com/MyNykaa",
+                    "https://www.pinterest.com/mynykaa/"
+                ]
+            },
+            "deepSearchSeoSchema": {
+                "url": "https://www.nykaa.com",
+                "searchUrlTemplate": "https://www.nykaa.com/search/result/?q={search_term_string}",
+                "queryInput": "required name=search_term_string"
+            },
+            "wakeLockTimer": 0,
+            "pdRedirectTargetBlockList": [
+                ".html"
+            ],
+            "plpRedirectTargetBlockList": [
+                ".html"
+            ],
+            "redirectionParamBlackList": [
+                "eq"
+            ],
+            "homeh1Tag": "Nykaa - The Online Beauty Store",
+            "apiQueryParamConfig": {
+                "PLA": {
+                    "algo": "pla"
+                }
+            },
+            "noSearchPage": {
+                "title": "Uh-Oh! We could\u2019nt find any results for",
+                "subtitle": "Try browsing products and brands below or",
+                "pageNotFoundTitle": "Sorry! Page Not Found",
+                "pageNotFoundSubtitle": "Try browsing products and brands below or",
+                "redirectText": "Go Back to Homepage"
+            },
+            "couponsDeltaCommunication": {},
+            "ordersRevampUrl": "",
+            "skipInlineWidgetIndex": 5
+        }
+    },
+    "productQna": {
+        "error": false,
+        "QNA": []
+    },
+    "variants": {
+        "loading": false,
+        "isNotFound": false,
+        "isFetchingError": false,
+        "loadingProductId": "",
+        "data": []
+    },
+    "priceReveal": {
+        "items": [],
+        "error": null,
+        "loadingProducts": false,
+        "categories": [],
+        "fetchedCategories": {},
+        "currentCategory": {},
+        "dynamicWishlistSuccessCollection": {},
+        "dynamicWishlistErrorCollection": {},
+        "config": {},
+        "adPlatformData": null,
+        "recentlyAddedProduct": null,
+        "activeFilters": [],
+        "applyingFilters": false
+    },
+    "jsonLdData": [
+        {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Fabindia White & Pink Lumba Rakhi with Roli Chawal",
+            "image": "https://images-static.nykaa.com/media/catalog/product/3/d/3de28022125784GOLD_1.jpg",
+            "mpn": "FABIN00105876",
+            "sku": "FABIN00105876",
+            "brand": "Fabindia Fashion",
+            "description": "Fabindia White & Pink Lumba Rakhi with Roli Chawal",
+            "offers": {
+                "@type": "Offer",
+                "price": 299,
+                "priceCurrency": "INR",
+                "availability": "OutOfStock",
+                "url": "https://www.nykaa.com/fabindia-white-pink-lumba-rakhi-with-roli-chawal/p/16630801"
+            }
+        }
+    ],
+    "homePage": {
+        "loading": false,
+        "isFetchingError": false,
+        "widgets": null,
+        "styles": {},
+        "metaData": {
+            "title": "",
+            "keywords": "",
+            "description": "",
+            "canonical": ""
+        },
+        "remaining_inventories_ids": [],
+        "queryParams": {}
+    },
+    "fitcode": {
+        "loading": false,
+        "isFetchingError": false,
+        "widgets": null
+    },
+    "categoryListing": {
+        "errorFetchingPage": false,
+        "loading": false,
+        "isFetchingError": false,
+        "isNotFound": false,
+        "pageNumber": 1,
+        "activeFilters": {},
+        "isFilterChanged": false,
+        "isPageChanged": false,
+        "serverError": false,
+        "widgets": [],
+        "activeSort": "",
+        "loadingPage": false,
+        "isClearAll": false,
+        "isEmptyRangeError": false,
+        "remaining_inventories_ids": [],
+        "queryParamsObject": {},
+        "inlineWidgets": null,
+        "interactionData": {
+            "hasInteracted": false,
+            "clickCount": 0,
+            "cardClickCount": 0,
+            "addCartClickCount": 0,
+            "addWishlistClickCount": 0,
+            "bannerClickCount": 0,
+            "inlineWidgetClickCount": 0,
+            "removeWishlistClickCount": 0,
+            "tiptileClickCount": 0,
+            "notifyMeClickCount": 0,
+            "variantClickCount": 0
+        }
+    },
+    "footer": {
+        "priceList": {},
+        "aboutUs": {},
+        "categories": {}
+    },
+    "searchListingPage": {
+        "activeFilters": {},
+        "error": false,
+        "errorFetchingPage": false,
+        "isFilterChanged": false,
+        "isPageChanged": false,
+        "loading": false,
+        "loadingPage": false,
+        "pageNumber": 0,
+        "searchTerm": "",
+        "isClearAll": false,
+        "isEmptyRangeError": false,
+        "inlineWidgets": null,
+        "interactionData": {
+            "hasInteracted": false,
+            "clickCount": 0,
+            "cardClickCount": 0,
+            "addCartClickCount": 0,
+            "addWishlistClickCount": 0,
+            "bannerClickCount": 0,
+            "inlineWidgetClickCount": 0,
+            "removeWishlistClickCount": 0,
+            "tiptileClickCount": 0,
+            "notifyMeClickCount": 0,
+            "variantClickCount": 0
+        }
+    },
+    "pro": {
+        "loadingFirstFoldWidgets": false,
+        "firstFoldWidgetsError": false,
+        "loadingSecondFoldWidgets": false,
+        "secondFoldWidgetsError": false
+    },
+    "VP": {
+        "error": false,
+        "configs": {},
+        "message": "",
+        "scriptLoaded": false
+    },
+    "navigation": {},
+    "abExperiments": {
+        "ORDERS_REVAMP": "A",
+        "AB_DWEB_SHOPPING_BAG_URL": "A",
+        "AB_WISHLIST": "A",
+        "INCORRECT_SLUG_REDIRECT": "A",
+        "ADP_RV_MULTI_COUPONS": "A",
+        "AB_DWEB_MULTICOUPON": "A",
+        "AB_AUTH_DWEB": "A",
+        "QUERY_PARAM_EXP_DWEB": "CONTROL",
+        "AB_ZENDESK_CHAT": "A",
+        "AD_BRV": "random",
+        "AB_NEW_GC_PAGE": "A",
+        "PLP_DNW_DWEB": "A"
+    },
+    "proUserInfo": {
+        "personalInfo": null,
+        "businessInfo": null,
+        "businessAddress": null,
+        "savedAddress": [],
+        "documents": null,
+        "loading": false,
+        "status": null,
+        "isLoadingBasicInfo": false,
+        "isLoadingAddressInfo": false,
+        "isLoadingBusinessInfo": false,
+        "isLoadingTerms": false,
+        "isUploadingId": false,
+        "isUploadingPob": false,
+        "idFiles": null,
+        "certificateFiles": null,
+        "documentIdSuccess": false,
+        "documentPobSuccess": false,
+        "userInfoFetched": false
+    },
+    "getReviews": {
+        "Reviews": {
+            "reviews": [],
+            "sorts": [],
+            "filters": []
+        },
+        "isLoading": true,
+        "page": 1,
+        "sort": "",
+        "filter": [
+            "DEFAULT"
+        ],
+        "variants": [],
+        "reviewLeft": true,
+        "selectedVariants": []
+    },
+    "RECOProducts": {
+        "loading": false,
+        "isNotFound": false,
+        "isFetchingError": false,
+        "CAV": [],
+        "CAB": [],
+        "recoDataLoaded": false
+    },
+    "wishlistReducer": {
+        "loading": false,
+        "productIdsInWishlist": [],
+        "products": [],
+        "pageNumber": 1,
+        "stopFurtherCall": false
+    },
+    "couponReducer": {
+        "coupons": {
+            "data": [],
+            "isLoading": false,
+            "hasError": false
+        },
+        "collect": {
+            "isLoading": false,
+            "showCard": false,
+            "hasError": false,
+            "code": "",
+            "id": null
+        },
+        "couponDetails": {
+            "isLoading": false,
+            "hasError": false,
+            "data": null
+        },
+        "cartSnackbar": {
+            "autoAppliedText": "",
+            "isVisible": false,
+            "appliedCouponCodes": "",
+            "hasError": false
+        },
+        "sheet": {
+            "isVisible": false,
+            "type": ""
+        }
+    },
+    "myProfile": {
+        "dob": "",
+        "email": "",
+        "isEmailEditAllowed": false,
+        "firstName": "",
+        "gender": "",
+        "hideEmail": false,
+        "isEmailVerified": false,
+        "isPrive": 0,
+        "lastName": "",
+        "isMobileEditAllowed": true,
+        "mobileNumber": "",
+        "profilePic": "https://www.nykaa.com/assets/mobile/images/my_profile/default_avatar.svg",
+        "signUpSource": "",
+        "isMobileUnverified": false,
+        "userVersion": "",
+        "transformedAddressDetails": {
+            "prefix": "",
+            "firstName": "",
+            "lastName": "",
+            "mobile": "",
+            "country": "",
+            "state": "",
+            "postcode": "",
+            "setDefault": 0,
+            "street": "",
+            "isdCode": "",
+            "city": "",
+            "addressId": "",
+            "customerAddressId": ""
+        },
+        "transformedAddresses": [],
+        "isVerified": false
+    },
+    "cmsReducer": {
+        "isFetchingError": false
+    },
+    "authReducer": {
+        "loading": false,
+        "email": "",
+        "mobile": "",
+        "message": "",
+        "otpLength": 0,
+        "otpStatus": null,
+        "retryLeft": 0,
+        "isExists": false,
+        "emailList": [],
+        "signUpSource": "",
+        "origin": "",
+        "linkedEmail": "",
+        "steps": [
+            {
+                "stepName": "MOBILE_INPUT"
+            }
+        ],
+        "sendOtpToMail": false,
+        "isVerified": false,
+        "selectedCustomerId": "",
+        "authWidget": [],
+        "status": false,
+        "error": false,
+        "isApiError": false
+    },
+    "dpMetaData": {
+        "canonicalUrl": "",
+        "title": "",
+        "description": "",
+        "h1Tag": "",
+        "footerContent": "",
+        "dpPageNotFound": false
+    },
+    "footerPopularLinksConfig": [
+        {
+            "name": "lipstick",
+            "link": "/makeup/lips/lipstick/c/249"
+        },
+        {
+            "name": "highlighter",
+            "link": "/makeup/face/face-illuminator/c/237"
+        },
+        {
+            "name": "hair serum",
+            "link": "/hair-care/hair/hair-serum/c/320"
+        },
+        {
+            "name": "concealer",
+            "link": "/makeup/face/face-concealer/c/234"
+        },
+        {
+            "name": "face mask",
+            "link": "/skin/masks/c/8399"
+        },
+        {
+            "name": "biotique",
+            "link": "/brands/biotique/c/923"
+        },
+        {
+            "name": "lip gloss",
+            "link": "/makeup/lips/lip-gloss/c/250"
+        },
+        {
+            "name": "perfume for women",
+            "link": "/fragrance/women/perfumes-edt-edp/c/962"
+        },
+        {
+            "name": "facial kit",
+            "link": "/skin/kits-combos/facial-kits/c/8436"
+        },
+        {
+            "name": "bb cream",
+            "link": "/makeup/face/bb-cc-cream/c/232"
+        },
+        {
+            "name": "victoria secret",
+            "link": "/brands/victoria-s-secret/c/704"
+        },
+        {
+            "name": "love beauty and planet shampoo",
+            "link": "/brands/love-beauty-planet/c/11496"
+        },
+        {
+            "name": "eyeliner",
+            "link": "/makeup/eyes/eyeliner/c/240"
+        },
+        {
+            "name": "hair mask",
+            "link": "/hair-care/hair/hair-creams-masks/c/2041"
+        },
+        {
+            "name": "face wash for oily skin",
+            "link": "/skin-type-collection/best-face-wash-for-oily-skin-online-sale/c/6191"
+        },
+        {
+            "name": "ordinary",
+            "link": "/luxe/brands/the-ordinary/c/23993"
+        },
+        {
+            "name": "toner",
+            "link": "/skin/toners-mists/c/8391"
+        },
+        {
+            "name": "eyeshadow palette",
+            "link": "/makeup/eyes/eyeshadow/c/242"
+        },
+        {
+            "name": "cleanser",
+            "link": "/skin/cleansers/cleanser/c/8380"
+        },
+        {
+            "name": "chemist at play",
+            "link": "/brands/chemist-at-play/c/21551"
+        },
+        {
+            "name": "mascara",
+            "link": "/makeup/eyes/eye-mascara/c/241"
+        },
+        {
+            "name": "loreal professional",
+            "link": "/brands/l-oreal-professionnel/c/1251"
+        },
+        {
+            "name": "hair extensions",
+            "link": "/hair-care/tools-and-accessories/hair-extensions/c/2049"
+        },
+        {
+            "name": "olay cream",
+            "link": "/brands/olay/c/597"
+        },
+        {
+            "name": "fogg",
+            "link": "/brands/fogg/c/1940"
+        },
+        {
+            "name": "lip tint",
+            "link": "/makeup/lips/lip-stain/c/253"
+        },
+        {
+            "name": "under eye cream",
+            "link": "/skin/eye-care/under-eye-cream-serums/c/8403"
+        },
+        {
+            "name": "wax strips",
+            "link": "/bath-body/shaving-hair-removal/wax-wax-strips/c/25323"
+        },
+        {
+            "name": "shower gel",
+            "link": "/bath-body/bath-and-shower/shower-gels-body-wash/c/368"
+        },
+        {
+            "name": "sunscreen for face",
+            "link": "/skin/sun-care/face-sunscreen/c/8429"
+        },
+        {
+            "name": "insight cosmetics",
+            "link": "/brands/insight-cosmetics/c/6166"
+        },
+        {
+            "name": "face foundation",
+            "link": "/makeup/face/face-foundation/c/228"
+        },
+        {
+            "name": "hair removal machine",
+            "link": "/personal-care-appliances/hair-removal-tools/c/1384"
+        },
+        {
+            "name": "mac foundation",
+            "link": "/luxe/brands/mac/foundation/c/4054"
+        },
+        {
+            "name": "choker",
+            "link": "/jewellery-accessories/necklaces/choker/c/11373"
+        },
+        {
+            "name": "oud perfume",
+            "link": "/fragrance/shop-by-fragrance-family/oud-collection/c/18318"
+        },
+        {
+            "name": "makeup pouch",
+            "link": "/makeup/tools-brushes/makeup-pouches/c/4037"
+        },
+        {
+            "name": "olaplex",
+            "link": "/luxe/brands/olaplex/c/6519"
+        },
+        {
+            "name": "body mist",
+            "link": "/fragrance/women/body-mist-spray/c/970"
+        },
+        {
+            "name": "wella shampoo",
+            "link": "/brands/wella-professionals/shampoos/c/3526"
+        },
+        {
+            "name": "huda beauty foundation",
+            "link": "/luxe/brands/huda-beauty/foundation/c/6569"
+        },
+        {
+            "name": "night cream",
+            "link": "/skin/moisturizers/night-cream/c/8395"
+        },
+        {
+            "name": "facewash",
+            "link": "/skin/cleansers/face-wash/c/8379"
+        },
+        {
+            "name": "nyx",
+            "link": "/brands/nyx-professional-makeup/c/2347"
+        },
+        {
+            "name": "schwarzkopf shampoo",
+            "link": "/brands/schwarzkopf-professional/c/6532"
+        },
+        {
+            "name": "blue heaven",
+            "link": "/brands/blue-heaven/c/2298"
+        },
+        {
+            "name": "peel off mask",
+            "link": "/skin/masks/masks-peels/c/8400"
+        },
+        {
+            "name": "best lip balm",
+            "link": "/skin/lip-care/lip-balm/c/8409"
+        },
+        {
+            "name": "face scrub",
+            "link": "/skin/cleansers/scrubs-exfoliators/c/8381"
+        },
+        {
+            "name": "Cetaphil Face Wash",
+            "link": "/dp/cetaphil-face-wash"
+        },
+        {
+            "name": "Mederma Cream",
+            "link": "/dp/mederma-cream"
+        },
+        {
+            "name": "Multivitamins Tablet",
+            "link": "/dp/multivitamins-tablet"
+        },
+        {
+            "name": "Himalaya Face Wash",
+            "link": "/dp/himalaya-face-wash"
+        },
+        {
+            "name": "Garnier Face Wash",
+            "link": "/dp/garnier-face-wash"
+        },
+        {
+            "name": "Hair Color For Women",
+            "link": "/dp/hair-color-for-women"
+        },
+        {
+            "name": "Cetaphil Moisturizers",
+            "link": "/dp/cetaphil-moisturizers"
+        },
+        {
+            "name": "Ponds Face Wash",
+            "link": "/dp/ponds-face-wash"
+        },
+        {
+            "name": "Streax Hair Serum",
+            "link": "/dp/streax-hair-serum"
+        },
+        {
+            "name": "Nivea Body Lotions",
+            "link": "/dp/nivea-body-lotions"
+        },
+        {
+            "name": "Vaseline Body Lotions",
+            "link": "/dp/vaseline-body-lotions"
+        },
+        {
+            "name": "Sugar Lipstick",
+            "link": "/dp/sugar-lipstick"
+        },
+        {
+            "name": "Biotin Tablet",
+            "link": "/dp/biotin-tablet"
+        },
+        {
+            "name": "Aqualogica Sunscreen",
+            "link": "/dp/aqualogica-sunscreen"
+        },
+        {
+            "name": "Salicylic Acid Face Wash",
+            "link": "/dp/salicylic-acid-face-wash"
+        },
+        {
+            "name": "Fogg Perfume",
+            "link": "/dp/fogg-perfume"
+        },
+        {
+            "name": "Clean And Clear Face Wash",
+            "link": "/dp/clean-and-clear-face-wash"
+        },
+        {
+            "name": "Neutrogena Sunscreen",
+            "link": "/dp/neutrogena-sunscreen"
+        },
+        {
+            "name": "Pears Soaps",
+            "link": "/dp/pears-soaps"
+        },
+        {
+            "name": "Hair Color For Men",
+            "link": "/dp/hair-color-for-men"
+        },
+        {
+            "name": "Dry Cleansers",
+            "link": "/dp/dry-cleansers"
+        },
+        {
+            "name": "Face Serum",
+            "link": "/dp/face-serum"
+        }
+    ],
+    "gamesConfig": {
+        "games": {
+            "spin-the-wheel": {
+                "gameSEO": {
+                    "metaTitle": "Spin The Wheel | Nykaa test",
+                    "metaKeyword": "Spin The Wheel Game Nykaa test",
+                    "metaDescription": "Ready. Set. SPIN! Go play Nykaa's Spin The Wheel for exciting rewards on your favourite brands."
+                },
+                "config": {
+                    "platform": "Web",
+                    "preSelected": 0,
+                    "domain": "beauty",
+                    "setId": "Weekly_27thaug23",
+                    "gameType": "Spin_wheel",
+                    "offerId": 0
+                },
+                "bgColor": "#fdcada",
+                "bgImage": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/desktop-background.png",
+                "logo": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/stw-logo.png",
+                "titleColor": "#000000",
+                "titleText": "Participate In Our Biggest Giveaway Yet!",
+                "subtitleText": "Play now to win a \u20b95000 Nykaa voucher.",
+                "buttonPrimaryBg": "#E80071",
+                "buttonPrimaryColor": "#ffffff",
+                "buttonSecondaryBg": "#ffffff",
+                "buttonSecondaryColor": "#fc2779",
+                "wheelRim": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/stw-outer-final.png",
+                "wheelSpinButton": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/stw-button.png",
+                "wheel": [
+                    {
+                        "id": 1,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_1.png"
+                    },
+                    {
+                        "id": 2,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_2.png"
+                    },
+                    {
+                        "id": 3,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_3.png"
+                    },
+                    {
+                        "id": 4,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_4.png"
+                    },
+                    {
+                        "id": 5,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_5.png"
+                    },
+                    {
+                        "id": 6,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_6.png"
+                    }
+                ],
+                "terms": [
+                    {
+                        "text": "Coupon is limited to single use per customer. test "
+                    },
+                    {
+                        "text": "Discount may not apply if qualifying items are not added to cart when coupon is in effect."
+                    },
+                    {
+                        "text": "Coupon cannot be used with other promotions ongoing on Nykaa.com during redemption."
+                    },
+                    {
+                        "text": "Shipping and handling charges are applicable on all orders."
+                    },
+                    {
+                        "text": "If items purchased with coupons are returned, coupon discount is subtracted from return credit."
+                    },
+                    {
+                        "text": "Should you face any trouble using this promotion code or if the payment process has failed or been interrupted before you have placed your order successfully, please contact Nykaa support via this link: <a href='https://www.nykaa.com/contact_us'>https://www.nykaa.com/contact_us</a> for further assistance."
+                    },
+                    {
+                        "text": "Orders placed using this coupon will be subject to the <a href='https://www.nykaa.com/terms-conditions/lp'>Terms and Conditions</a> of Nykaa.com."
+                    }
+                ],
+                "winTitle": "Congratulations! You spun the wheel and won test",
+                "betterluck": {
+                    "icon": "https://images-static.naikaa.com/media/wysiwyg/2022/SpinTheWheel/spin_again_cmp.svg",
+                    "text": "Better Luck Next Time",
+                    "subtext": "Spin again to win exciting offers"
+                },
+                "couponApiError": {
+                    "icon": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2024-6/coupon-vending.png",
+                    "text": "Looks like there\u2019s a problem with our coupon vending machine.",
+                    "subtext": ""
+                },
+                "offerApiError": {
+                    "icon": "https://www.nykaa.com/media/wysiwyg/2023/game/beauty/icons/apiError-primary.png",
+                    "text": "Something went wrong",
+                    "subtext": "Apologies! We\u2019re looking into it."
+                },
+                "share": {
+                    "title": "Ready. Set. SPIN! Go play Nykaa's Spin The Wheel for exciting rewards on your favourite brands redeemable during 05th July to 07th July 2024",
+                    "url": "https://www.nykaa.com/spin-the-wheel/lp"
+                }
+            },
+            "spin-the-wheel-prive": {
+                "gameSEO": {
+                    "metaTitle": "Spin The Wheel | Nykaa test",
+                    "metaKeyword": "Spin The Wheel Game Nykaa test",
+                    "metaDescription": "Ready. Set. SPIN! Go play Nykaa's Spin The Wheel for exciting rewards on your favourite brands."
+                },
+                "config": {
+                    "platform": "Web",
+                    "preSelected": 0,
+                    "domain": "beauty",
+                    "setId": "Weekly_27thaug23",
+                    "gameType": "Spin_wheel",
+                    "offerId": 0
+                },
+                "bgColor": "#fdcada",
+                "bgImage": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/desktop-background.png",
+                "logo": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/stw-logo.png",
+                "titleColor": "#000000",
+                "titleText": "Participate In Our Biggest Giveaway Yet!",
+                "subtitleText": "Play now to win a \u20b95000 Nykaa voucher.",
+                "buttonPrimaryBg": "#E80071",
+                "buttonPrimaryColor": "#ffffff",
+                "buttonSecondaryBg": "#ffffff",
+                "buttonSecondaryColor": "#fc2779",
+                "wheelRim": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/stw-outer-final.png",
+                "wheelSpinButton": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/stw-button.png",
+                "wheel": [
+                    {
+                        "id": 1,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_1.png"
+                    },
+                    {
+                        "id": 2,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_2.png"
+                    },
+                    {
+                        "id": 3,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_3.png"
+                    },
+                    {
+                        "id": 4,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_4.png"
+                    },
+                    {
+                        "id": 5,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_5.png"
+                    },
+                    {
+                        "id": 6,
+                        "imagePath": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2023-8/slice_set2_aug_6.png"
+                    }
+                ],
+                "terms": [
+                    {
+                        "text": "Coupon is limited to single use per customer. test "
+                    },
+                    {
+                        "text": "Discount may not apply if qualifying items are not added to cart when coupon is in effect."
+                    },
+                    {
+                        "text": "Coupon cannot be used with other promotions ongoing on Nykaa.com during redemption."
+                    },
+                    {
+                        "text": "Shipping and handling charges are applicable on all orders."
+                    },
+                    {
+                        "text": "If items purchased with coupons are returned, coupon discount is subtracted from return credit."
+                    },
+                    {
+                        "text": "Should you face any trouble using this promotion code or if the payment process has failed or been interrupted before you have placed your order successfully, please contact Nykaa support via this link: <a href='https://www.nykaa.com/contact_us'>https://www.nykaa.com/contact_us</a> for further assistance."
+                    },
+                    {
+                        "text": "Orders placed using this coupon will be subject to the <a href='https://www.nykaa.com/terms-conditions/lp'>Terms and Conditions</a> of Nykaa.com."
+                    }
+                ],
+                "winTitle": "Congratulations! You spun the wheel and won test",
+                "betterluck": {
+                    "icon": "https://images-static.naikaa.com/media/wysiwyg/2022/SpinTheWheel/spin_again_cmp.svg",
+                    "text": "Better Luck Next Time",
+                    "subtext": "Spin again to win exciting offers"
+                },
+                "couponApiError": {
+                    "icon": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2024-6/coupon-vending.png",
+                    "text": "Looks like there\u2019s a problem with our coupon vending machine.",
+                    "subtext": ""
+                },
+                "offerApiError": {
+                    "icon": "https://www.nykaa.com/media/wysiwyg/2023/game/beauty/icons/apiError-primary.png",
+                    "text": "Something went wrong",
+                    "subtext": "Apologies! We\u2019re looking into it."
+                },
+                "share": {
+                    "title": "Ready. Set. SPIN! Go play Nykaa's Spin The Wheel for exciting rewards on your favourite brands redeemable during 05th July to 07th July 2024",
+                    "url": "https://www.nykaa.com/spin-the-wheel/lp"
+                }
+            }
+        }
+    },
+    "snsConfig": {
+        "596": {
+            "templateData": {
+                "id": "TMP_001",
+                "sections": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "sectionsDesktop": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Rating"
+                    }
+                ],
+                "theme": {
+                    "colors": {
+                        "background": "#f5f5f5",
+                        "primary": "#000",
+                        "secondary": "#4caf50",
+                        "text": "#001325",
+                        "textDisabled": "#0013255C",
+                        "textOutline": "#00132529",
+                        "textPrimary": "#001325",
+                        "textSecondary": "#001325A3",
+                        "primary20": "#ffffff",
+                        "primary30": "#000"
+                    }
+                }
+            },
+            "metaData": {
+                "brandStripUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Mobile.jpg",
+                "footerBrandUrl": "https://images-static.nykaa.com/media/e-logo_footer_banner-Mobile1.png",
+                "brandStripUrlDesktop": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Desktop.jpg",
+                "footerBrandUrlDesktop": "https://images-static.nykaa.com/media/e-logo_footer_banner-desktop.png"
+            }
+        },
+        "988": {
+            "templateData": {
+                "id": "TMP_001",
+                "sections": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "sectionsDesktop": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Rating"
+                    }
+                ],
+                "theme": {
+                    "colors": {
+                        "background": "#f5f5f5",
+                        "primary": "#000",
+                        "secondary": "#4caf50",
+                        "text": "#001325",
+                        "textDisabled": "#0013255C",
+                        "textOutline": "#00132529",
+                        "textPrimary": "#001325",
+                        "textSecondary": "#001325A3",
+                        "primary20": "#ffffff",
+                        "primary30": "#000"
+                    }
+                }
+            },
+            "metaData": {
+                "brandStripUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Mobile.jpg",
+                "footerBrandUrl": "https://images-static.nykaa.com/media/e-logo_footer_banner-Mobile1.png",
+                "brandStripUrlDesktop": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Desktop.jpg",
+                "footerBrandUrlDesktop": "https://images-static.nykaa.com/media/e-logo_footer_banner-desktop.png"
+            }
+        },
+        "1937": {
+            "templateData": {
+                "id": "TMP_001",
+                "sections": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "sectionsDesktop": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "theme": {
+                    "colors": {
+                        "background": "#f5f5f5",
+                        "primary": "#000",
+                        "secondary": "#4caf50",
+                        "text": "#001325",
+                        "textDisabled": "#0013255C",
+                        "textOutline": "#00132529",
+                        "textPrimary": "#001325",
+                        "textSecondary": "#001325A3",
+                        "primary20": "#ffffff",
+                        "primary30": "#000"
+                    }
+                }
+            },
+            "metaData": {
+                "brandStripUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Mobile.jpg",
+                "footerBrandUrl": "https://images-static.nykaa.com/media/e-logo_footer_banner-Mobile1.png",
+                "brandStripUrlDesktop": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Desktop.jpg",
+                "footerBrandUrlDesktop": "https://images-static.nykaa.com/media/e-logo_footer_banner-desktop.png"
+            }
+        },
+        "1938": {
+            "templateData": {
+                "id": "TMP_001",
+                "sections": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "sectionsDesktop": [
+                    {
+                        "name": "HeaderBanner"
+                    }
+                ],
+                "theme": {
+                    "colors": {
+                        "background": "#f5f5f5",
+                        "primary": "#000",
+                        "secondary": "#4caf50",
+                        "text": "#001325",
+                        "textDisabled": "#0013255C",
+                        "textOutline": "#00132529",
+                        "textPrimary": "#001325",
+                        "textSecondary": "#001325A3"
+                    }
+                }
+            },
+            "metaData": {
+                "brandStripUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Mobile.jpg",
+                "footerBrandUrl": "https://images-static.nykaa.com/media/e-logo_footer_banner-Mobile1.png",
+                "brandStripUrlDesktop": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Desktop.jpg",
+                "footerBrandUrlDesktop": "https://images-static.nykaa.com/media/e-logo_footer_banner-desktop.png"
+            }
+        },
+        "75288": {
+            "templateData": {
+                "id": "TMP_001",
+                "sections": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "sectionsDesktop": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "theme": {
+                    "colors": {
+                        "background": "#f5f5f5",
+                        "primary": "#000",
+                        "secondary": "#4caf50",
+                        "text": "#001325",
+                        "textDisabled": "#0013255C",
+                        "textOutline": "#00132529",
+                        "textPrimary": "#001325",
+                        "textSecondary": "#001325A3",
+                        "primary20": "#ffffff",
+                        "primary30": "#000"
+                    }
+                }
+            },
+            "metaData": {
+                "brandStripUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Mobile.jpg",
+                "footerBrandUrl": "https://images-static.nykaa.com/media/e-logo_footer_banner-Mobile1.png",
+                "brandStripUrlDesktop": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Desktop.jpg",
+                "footerBrandUrlDesktop": "https://images-static.nykaa.com/media/e-logo_footer_banner-desktop.png"
+            }
+        },
+        "90877": {
+            "templateData": {
+                "id": "TMP_001",
+                "sections": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "sectionsDesktop": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    }
+                ],
+                "theme": {
+                    "colors": {
+                        "background": "#f5f5f5",
+                        "primary": "#000",
+                        "secondary": "#4caf50",
+                        "text": "#001325",
+                        "textDisabled": "#0013255C",
+                        "textOutline": "#00132529",
+                        "textPrimary": "#001325",
+                        "textSecondary": "#001325A3"
+                    }
+                }
+            },
+            "metaData": {
+                "brandStripUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Mobile.jpg",
+                "footerBrandUrl": "https://images-static.nykaa.com/media/e-logo_footer_banner-Mobile1.png",
+                "brandStripUrlDesktop": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Desktop.jpg",
+                "footerBrandUrlDesktop": "https://images-static.nykaa.com/media/e-logo_footer_banner-desktop.png"
+            }
+        },
+        "91094": {
+            "templateData": {
+                "id": "TMP_001",
+                "sections": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Rating"
+                    },
+                    {
+                        "name": "Price"
+                    },
+                    {
+                        "name": "Shades"
+                    },
+                    {
+                        "name": "SoldBy"
+                    },
+                    {
+                        "name": "Authenticity"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Details"
+                    },
+                    {
+                        "name": "Review"
+                    },
+                    {
+                        "name": "AddToBag"
+                    },
+                    {
+                        "name": "Recos",
+                        "meta": [
+                            {
+                                "more_from_brand": "algo2_cat_adj",
+                                "title": "MORE FROM CHANEL"
+                            },
+                            {
+                                "cav": "intersection_v3_new",
+                                "title": "THE PERFECT MATCH"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FooterBanner"
+                    }
+                ],
+                "sectionsDesktop": [
+                    {
+                        "name": "HeaderBanner"
+                    },
+                    {
+                        "name": "Images"
+                    }
+                ],
+                "theme": {
+                    "colors": {
+                        "background": "#f5f5f5",
+                        "primary": "#000",
+                        "secondary": "#4caf50",
+                        "text": "#001325",
+                        "textDisabled": "#0013255C",
+                        "textOutline": "#00132529",
+                        "textPrimary": "#001325",
+                        "textSecondary": "#001325A3"
+                    }
+                }
+            },
+            "metaData": {
+                "brandStripUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Mobile.jpg",
+                "footerBrandUrl": "https://images-static.nykaa.com/media/e-logo_footer_banner-Mobile1.png",
+                "brandStripUrlDesktop": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-4/HeaderLogo_Desktop.jpg",
+                "footerBrandUrlDesktop": "https://images-static.nykaa.com/media/e-logo_footer_banner-desktop.png"
+            }
+        }
+    }
+}

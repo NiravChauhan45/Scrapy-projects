@@ -1,0 +1,52 @@
+suit sets - men, women, girls, boys
+Lehengas - women, men, boys
+
+
+
+
+
+gender_filter = {
+	"women":"5196",
+	"girls":"5198",
+	"boys":"5199",
+	"men":"5197"
+}
+
+
+CREATE TABLE `pdp_data` (
+  `Sr.No` int NOT NULL AUTO_INCREMENT,
+  `Category` varchar(30) DEFAULT NULL,
+  `Sub Category` varchar(30) DEFAULT NULL,
+  `Brand` varchar(30) DEFAULT NULL,
+  `Url` varchar(255) DEFAULT NULL,
+  `Product name` varchar(200) DEFAULT NULL,
+  `Image url` text,
+  `Star` varchar(10) DEFAULT NULL,
+  `Ratings` varchar(10) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL,
+  `Price` varchar(15) DEFAULT NULL,
+  `Discounted price` varchar(15) DEFAULT NULL,
+  `Colour` varchar(30) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL,
+  `Size` varchar(255) DEFAULT NULL,
+  `Fabric` varchar(30) DEFAULT NULL,
+  `Occasion` varchar(30) DEFAULT NULL,
+  `Neckline` varchar(30) DEFAULT NULL,
+  `Type of Work` varchar(35) DEFAULT NULL,
+  `Leg Style` varchar(35) DEFAULT NULL,
+  `Sets Subcategory` varchar(35) DEFAULT NULL,
+  `Sleeve Style` varchar(35) DEFAULT NULL,
+  `Pattern` varchar(40) DEFAULT NULL,
+  `Pack Size` varchar(50) DEFAULT NULL,
+  `Fit` varchar(25) DEFAULT NULL,
+  `Closure` varchar(30) DEFAULT NULL,
+  `Salwar Suits & Sets Subcategory` varchar(25) DEFAULT NULL,
+  `Rise Style` varchar(30) DEFAULT NULL,
+  `Care instructions` varchar(70) DEFAULT NULL,
+  `Pack contains` varchar(100) DEFAULT NULL,
+  `Description` text,
+  `Offer` json DEFAULT NULL,
+  `Promotion tag` varchar(200) DEFAULT NULL,
+  `hash_id` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL,
+  `pagesave_id` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`Sr.No`),
+  UNIQUE KEY `hash_id` (`hash_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1336 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci

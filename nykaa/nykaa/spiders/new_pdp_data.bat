@@ -1,0 +1,11 @@
+start scrapy crawl new_pdp_data -a start=1 -a end=1700
+start scrapy crawl new_pdp_data -a start=1701 -a end=3400
+start scrapy crawl new_pdp_data -a start=3401 -a end=5100
+start scrapy crawl new_pdp_data -a start=5101 -a end=6800
+start scrapy crawl new_pdp_data -a start=6801 -a end=8500
+start scrapy crawl new_pdp_data -a start=8501 -a end=10200
+start scrapy crawl new_pdp_data -a start=10201 -a end=11900
+start scrapy crawl new_pdp_data -a start=11901 -a end=13600
+start scrapy crawl new_pdp_data -a start=13601 -a end=15300
+start scrapy crawl new_pdp_data -a start=15301 -a end=17000
+start scrapy crawl new_pdp_data -a start=17001 -a end=18700

@@ -1,0 +1,13 @@
+database_name= 'nuttygritties'
+
+Step 1:
+file_name: product_data.py:
+    --> This will insert data to the product_data table
+
+Step 2:
+file_name: export_excel_file.py:
+    --> This will generated excel file of this location :- [ D:\Nirav_live_project_export_data\nuttygritties\ ]
+
+Step 3:
+save_pages_path: D:\Nirav_page_save\nuttygritties\page_save_product_page\
+  --> inside this folder generated another subfolder current date.

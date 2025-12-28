@@ -1,0 +1,33 @@
+import json
+
+from requests import Session
+
+s = Session()
+payload = json.dumps({
+  "prod_id": 40222670,
+  "qty": 1,
+  "_bb_client_type": "web",
+  "first_atb": 1
+})
+headers = {
+  'accept': '*/*',
+  'accept-language': 'en-US,en;q=0.9',
+  'common-client-static-version': '101',
+  'content-type': 'application/json',
+  'origin': 'https://www.bigbasket.com',
+  'priority': 'u=1, i',
+  'referer': 'https://www.bigbasket.com/pd/40222670/thums-up-soft-drink-225-l-bottle/?nc=sis-prod-list&t_pos_sec=1&t_pos_item=1&t_s=Soft+Drink',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+  'x-channel': 'BB-WEB',
+  'x-csurftoken': 'IgHRmw.ODI4NDcxMTYwNjAyMzkzODM4.1753447929823.RHpRAMi9JBNxHmEGk7B/Am5W6nOZGErkRy8n7NAG/1k=',
+  'x-entry-context': 'bbnow',
+  'x-entry-context-id': '10',
+  'x-integrated-fc-door-visible': 'false',
+  'x-tracker': '4b141e9d-ccf3-488d-8842-127dd56b28e5',
+  'Cookie': 'ak_bmsc=7463B6C0C05706CEA04D9B6647070E9A~000000000000000000000000000000~YAAQn/Q3F6JQUhaYAQAAmA6kQRzevjmq2885ixR8bYJrmVSDltUZOBPmwGoW6aCcSP7XWfWo8MPX45N5YHmpNp137y7Fktyl+e7D/NoQXZu0lBRmI8Ln/97uSztqXt0NQs3LzhyQMIaitUR3pY0cYcEHyAJID8+PmW2OoDGlygDFwfTE2Mr+9Uw9dcLcA65aC8wqltTBlaYxHZbZ4exLrdL3lEbl3/ORwqhBByM6wzPzKTB3iG6wIvzgrvrIHKCqo3VbYVR4EuqSukqktzoReF9qnSpcs1+bhSrSElkkK5UZMqE3XlE/Tb4yTuBcNue4w8Hyq4aWxuo5FiJR3TcJsXNlNeYpzAKPE0i1DRWtmlWY4fk0A+koVYW3fjR9HxDG0p1HL2XOH/K/wmhS; _bb_locSrc=default; x-channel=web; _bb_aid=MjkxMzA4NDUzMA==; _bb_cid=1; _bb_vid=ODI4NDcxMTYwNjAyMzkzODM4; _bb_nhid=7427; _bb_dsid=7427; _bb_dsevid=7427; _bb_bhid=; _bb_loid=; csrftoken=PmJ9nyn56y5ppW6ikccIN2m0euEZ1VY0HhrJ6ERqyUCdRHjUjKGl0YiBMsbi9WNE; isintegratedsa=true; jentrycontextid=10; xentrycontextid=10; xentrycontext=bbnow; _bb_bb2.0=1; is_global=1; _bb_addressinfo=; _bb_pin_code=; _is_bb1.0_supported=0; is_integrated_sa=1; bb2_enabled=true; bm_ss=ab8e18ef4e; jarvis-id=3e98a065-d0a0-45e4-8d8e-7437027d434d; csurftoken=IgHRmw.ODI4NDcxMTYwNjAyMzkzODM4.1753447929823.RHpRAMi9JBNxHmEGk7B/Am5W6nOZGErkRy8n7NAG/1k=; _gcl_au=1.1.1738970425.1753447930; ufi=1; _fbp=fb.1.1753447930358.10578431228920913; _gid=GA1.2.982155477.1753447930; adb=0; bigbasket.com=9f2c46b6-655c-4a00-9b47-c92252dce244; _bb_sa_ids=19224; _is_tobacco_enabled=1; _bb_cda_sa_info=djIuY2RhX3NhLjEwLjE5MjI0; bm_s=YAAQn/Q3F52lUhaYAQAAxFCnQQN8Gg0THxzxtUAFjz9u+PPKQmtpd4OV+8yLTnavYx5xT+VZKo1BInXKGrFhVAJCOZb1maBG2IDoi796kHw233ZYjyVUgrZ3dX4j/4FPxhlkZ4gAcNV0GQsp8IX5R0KA2mkTqkOsQSbNDQboNMl6oQJmpyMIy5Lwl2cSdrq2G8BwHpPGa8aGhrvEwao8E8v2U3B+GauXnrcz1MLjdG2K1SC24mEMXdTn/d7ohIgzBtAOi5pE/XvRXccbLHAGkzJy+gcvIDrT2/NYjoJj4zx9MJ1dHwYCrHDWBl2DovBKanshRndVbadXn9w559Vc3hPbCY2gOCfUiEZhF9dMfuzYgz4wo1PKMf78EuQUK/9qN4V1v8Pdk4m8nbWpFuYVynGGlgnNrY/i/5FcixoF9aV8LmIInir4tQ4wXAQXYrXuBwIyMZeWigXcGt2dYiM/mND9mCXMSkMTL4snoRjf0l3ELHsnJRLlX4aOYt1LjnHoOiLvVJxyiYBG25fzB3j2bOskbE1A/oxeiycfPNRH+xfOSz5fkV77zGAqsaZxhfkvxmJ05RwwLOaJ; bm_so=303FCE66E3EBE4A30FB00017EE5538C181F3BB712EE814C5A7337F3D9BE5DA3C~YAAQn/Q3F56lUhaYAQAAxFCnQQSZO6jTVk3TCiTX9ssOHnxeZNmHaudRgkkTkszxWmAEn/uZSEZJalyjnPN1t7ayiaOlvR4wzHShzFJxNzE7aZo6ydYdNsuJif+dPPCJUyQ3s+YGBswl3WNhx3O5RFXZwfvS950NL0FoWr6z2fQ/xfGmSTdMrMjHrQ9UDcf2obFv1qzsjbqZE9ERvhVib9FBRSjAFXJyjcqzA3UHRUixzGNlsUA0Zvw/BkiOOH9levHC9403kJwoSddKkyblok7oE1UsBsFvvcCay28zTN0tBwaasFgBK8CKfN50kYEvw0J2r+wlwO9JZHyow3movrw8NdB83uOeAUZ8riKe2pgbmV6KkFB7Q5wKbLLFNm1aP6A5jBDGN/H7j0j22BIaMWk/xqs3Pf+ZzXDwX0bYywotnm+qKKNnEkIPHXSg6YH18kbvKllPXrE3qGtfFYvISEg=; ts=2025-07-25%2018:25:42.921; _ga_FRRYG5VKHX=GS2.1.s1753447930$o1$g1$t1753448143$j59$l0$h0; _ga=GA1.2.1666135366.1753447930; _gat_UA-27455376-1=1; bm_lso=303FCE66E3EBE4A30FB00017EE5538C181F3BB712EE814C5A7337F3D9BE5DA3C~YAAQn/Q3F56lUhaYAQAAxFCnQQSZO6jTVk3TCiTX9ssOHnxeZNmHaudRgkkTkszxWmAEn/uZSEZJalyjnPN1t7ayiaOlvR4wzHShzFJxNzE7aZo6ydYdNsuJif+dPPCJUyQ3s+YGBswl3WNhx3O5RFXZwfvS950NL0FoWr6z2fQ/xfGmSTdMrMjHrQ9UDcf2obFv1qzsjbqZE9ERvhVib9FBRSjAFXJyjcqzA3UHRUixzGNlsUA0Zvw/BkiOOH9levHC9403kJwoSddKkyblok7oE1UsBsFvvcCay28zTN0tBwaasFgBK8CKfN50kYEvw0J2r+wlwO9JZHyow3movrw8NdB83uOeAUZ8riKe2pgbmV6KkFB7Q5wKbLLFNm1aP6A5jBDGN/H7j0j22BIaMWk/xqs3Pf+ZzXDwX0bYywotnm+qKKNnEkIPHXSg6YH18kbvKllPXrE3qGtfFYvISEg=^1753448144769; bm_sv=66B2245582628A1E8A183545D298D437~YAAQn/Q3F625UhaYAQAAoxioQRybobIoh33JiXDclXgE0O0SLNzarXQY+CxMvoJgfRMgV3arzm4DcZ/Rowneo5rkXXJixYl+/swkaCV7L5u8g2GqYatbhQBgW+bjDNW2hBQiQSm1j1ruvk1ZpOD/OSjhoZluK+jJTKhaz3siH8kTNo+FfjafBIZXcpP0x8m4H6tJqfDmxXRiSTthACLzvOxieHhBAjsDyQz4n8K4FfdZyPP/zjj4TNjS3TtmLuHV8SmvYwc=~1; _bb_addressinfo=MjIuNTI3OTk5NXw4OC4zNjYwNDQ1fEJhbGx5Z3VuZ2UgUGxhY2V8NzAwMDE5fEtvbGthdGF8MXxmYWxzZXx0cnVlfHRydWV8QmlnYmFza2V0ZWVy; _bb_bb2.0=1; _bb_cda_sa_info=djIuY2RhX3NhLjEwLjE2MzIxLDIzOTcw; _bb_pin_code=700019; _bb_sa_ids=16321,23970; _is_bb1.0_supported=0; _is_tobacco_enabled=1; bb2_enabled=true; bm_s=YAAQn/Q3F5csTxaYAQAAs4KJQQOcq+wfywCu7jLKXqesi7Skm7Zk47QJin3tBhUElZPfdDyjeLwHs6m12zD/a8InY0vwpaIbNvnDp9MuDWmzGPl5E0wrFIQJwrJCg3M5QsX6NMQ1Uaviwt7/WgX1UFKmovJaJAIyOKWkOAEOWqO6TwAgxLaQlbi8zlVebWiQKkTWRJ33xTtvto/hQlX+3B3p6Y6myKVD42aQqyZzfYXcQwLeJf2OE4eTYIKSlz9LBN4t00K2mKPpkvG8HEznrD7bSa1MhpuRq9v1m5lV7pUJi2twGV9+2PQ0uu0m3cauGxTXJr4gXfyrAv6kqcCG5F35qKltIPSstkC2tnYSQ0gh0Ma91xiukt2i+xropbj7ivT1d+2cUduQWtvh+4u2rjC97Pj5/ZT/7opW/TODkM53iVPWsksxM8jADEGd0KUa5ridSpju7f6IfmEtdwMHzzQvpGCBftF5QToZwvMw4Dpvh+/RPON7XyTjiAw+g7gk1UfxTBxqftcXsNfsUZ7E8yC5oy+MWLN4ooJZQn6YhK8hn2F/yWJSlTC0LWmegXzpCKir4vL+fEpq; bm_so=A2524C8631FF44AFB229F4AF6FFE9FF661D8874330BC389B8ABB4D31FF256BE9~YAAQn/Q3F5gsTxaYAQAAs4KJQQQ2GCdR7RpgSTleEymRP/zt/wTsSErDiHtJ0lka+YWOgNzkg9t8jQyBSPIz56KRLO2empIkvbusUgrY6dROjFdYWzuSnqXWAPBTVSk5KWOsrgqbHicSY+xm77CgA1QJJo2VcjhkMk2t1zwlZJz36iLx/TDgiSze03DE+TxPKz2k3D4+rTMQJfDAxcVMQHH/M7IwA3vzHAG64AHGQEf95pdbSNdBcpXC5EXRLKGQxKZdHLing0oozc18bvwdo67l5XtZTJZP1GgYZMv7DmLzpry0Pzhce++KpfSJFdSFzHZ9x2WCYiJ3yp11VbJ70S4kP0+dLHxG1E/8VlR5gwqwlJuE1exbP0uyGsyb2sM5a5AuzZNL+YuyizGAfJbohW2BFHhIqd13X1zBSqN9KtLthsW3yNRS2bNmtMKHaeWaKk9qf4nGW0+aI4V9z9kUPPY=; bm_sv=66B2245582628A1E8A183545D298D437~YAAQnPQ3F3Jb6DyYAQAAJG2oQRz0bzPwsjLgLprpHfMH7GirujiTFTQRUfZneErdUkiP5QcQHfPKYz8Kq8Yg7097T46OcJdd18lRnmKmlHVJFYL8JqerGWG4RX2O7aZQe3hI3IcCJY9ObbKKE3kGRpTVkcmah43Ib0cZr79TcFkjGmqEJgwmi90pdLzOnhd5EAlmJLV9Pb9+WeX2OoOt+P/3hpGSVMcOZLW+OCeyH55iR81OjoaUly0ZI9hkBRO3JLatJOs=~1; is_global=0; is_integrated_sa=1; isintegratedsa=true; jentrycontextid=10; x-channel=web; xentrycontext=bbnow; xentrycontextid=10'
+}
+
+s.headers = headers
+
+response = s.get('https://www.bigbasket.com/mapi/v3.5.2/c-incr-i/',headers=s.headers,data=payload)
+print(response.text)

@@ -1,0 +1,261 @@
+Technology - Azure Data Enginnering Stack
+
+Domain - Healthcare Revenue Cycle Management (RCM)
+
+RCM is the process that hospitals use to manage the financial aspects, from the time the patient
+schedules an appointment till the time the provider gets paid...
+
+Here is a simplified breakdown:
+
+1. It starts with a patient visit:
+   
+   patient details are collected, Insuarance details..
+   This ensures provider knows who will pay for the services
+   insuarance, the patient, or both
+
+   20000 USD - Total pay
+
+   15000 - Insuarance provider will pay
+   5000 - patient will pay
+
+2. Services are provided:
+
+3. Billng happens: The hospital will create a bill
+
+4. Claims are reviewed: Insuarance company review the bill they might accept it, pay in full, or partial or decline.
+
+5. Payments and followups:
+   
+   if partial payment is done by insuarance company,
+   then some portion or complate thing is given by the patient...
+   and the providers will followup for the payment
+
+6. Tracking and improvement:
+
+   RCM ensures the hospital can provide quality care while also staying financially healthy.
+   As part of RCM we have 2 main aspects
+   - Accounts Receivable (AR)
+   - Accounts Payable
+
+   Patient paying is often a risk
+   scenarios when patient has to pay
+   Low Insuarance - these insuarance providers put most of the burden on patients..
+
+   Private Clinics
+   Dental treatments
+   Deductibles
+
+   2 objectives for AR
+   - Bring cash
+   - also minimize the collection period
+
+   the probability of collecting your full amount decreases with time
+
+   - 93% of money due 30 days old...
+   - 85% of money due 60 days old...
+   - 73% of money due 90 days old...
+
+   KPI to measure AR and set benchmarks...
+
+   1. AR > 90 days...
+   200K USD older then 90 days
+
+   1 million USD
+   200K / 1 million = 20%
+
+   2. Days in AR
+   1 million USD in 100 days
+   per day 10000 USD
+   400K USD AR
+   40 DAY
+   45 Days...
+
+
+*** What do we have to do as a Data Enginnering
+
+we will have data in various Sources
+
+we need to create a pipeline, the results of this pipeline will be fact tables and dimension tables, 
+will help the reporting team to generate the KPI.
+
+
+Datasets
+--------
+
+1. EMR Data - Electronics Medical Records (Azure SQL DB)
+         - Patients
+         - Providers
+         - Department
+         - Transactions
+         - Encounter
+
+Bangalore
+Manipal Holpital
+Columbia Asia
+
+Databases:
+---------
+1) Hospital a - treadytech-hospital-a
+2) Hospital b - treadytech-hospital-b
+
+2. Claims Data - Insuarance company (Flat Files) 
+   folder in Datalake - Landing (monthly once)
+
+
+3. NPI Data - National Provider Identifier (Public API)
+4. ICD Data - ICD codes are a standardized system used by healthy care providers map diagnosis code and description. (API)
+
+EMR (Database)
+
+Claims (Falt files)
+
+API (NPI/ICD)
+
+
+
+Solution Architecture
+
+Medallion Architecture
+
+landing    -> bronze        -> silver       -> gold
+
+flat files -> parquet files -> delta tables -> Databricks Delta Tables  
+
+EMR (SQL DB)
+Claims (Flat Files)
+Codes (Parquet Files)
+
+bronze - parquet format (source of truth)
+silver - data cleaning, enrich, CDM(comman data model), scd2(slowly changing dimension)
+gold - aggregation, Fact table and Dimension table
+
+
+Bronse - Data Enginner
+Silver - Data Scientist, Machine Learning, Data Analysts
+Gold - Business Users
+
+
+Fact - A numeric value
+
+Dimesion - supporting things (SCD2)
+
+EMR data - bronse layer
+
+Technologies To Be Used:
+
+- Azure Data Factory ( For Ingestion )
+- Azure Databricks - for our data processing
+- Azure SQL DB - EMR
+- Azure SA(Storage Account) - Raw files, parquet files
+- Key Vault - For used to storing credentials
+
+Azure Storage Account
+
+ttadlsdev (adls gen2) - this is our containers
+   -landing
+   -bronze
+   -silver
+   -gold
+
+   -configs(metadata driven pipeline)
+      - emr\load_config.csv
+
+EMR (Azure SQL DB) -> ADLS Gen2(Bronze folder in parquet format)
+
+we will create a audit table (Delta Table)
+
+** ADF pipeline **
+Linked Service
+ - Azure SQL DB
+ - ADLS Gen2
+ - Delta Lake
+ - Key Vault
+
+Datasets
+ 1. Azure SQL
+   - db_name (linked services)
+ 
+ 2. ADLS Gen2(Delimited text) - our config file 
+   - container name
+   - file path
+   - file name
+   configs/emr/load_config.csv
+
+ 3. ADLS Gen2(Parquet file)
+   - container name
+   - file path
+   - file name
+   - compression type(snappy)
+ 
+ 4. Databricks Delta Lake
+   - schema name (database name)
+   - table name
+
+** Pipeline is made of activities **
+
+- lookup activity will read the config file    
+  - read path: configs/emr/load_config.csv
+
+
+encounters
+containers - bronze
+file_path - hosa
+file_name - encounters
+
+bronze/hosa/encounters.parquet
+
+
+if the file exists
+   -True
+   move it to archive
+   
+   source:
+   container - bronze
+   file_path - hosa
+   file_name - encounters
+
+   target:
+   container - bronze
+   file_path - hosa / archive / year / month / day
+   file_name - encounters
+
+
+first read the config file
+iterate over each entity one by one(10 entries) - using forEach Activity
+
+-- first condition
+if the encounters.parquet file is present in bronze folder
+   - then we will move it to archive...
+else
+   -not
+
+take the data from Azure SQL DB and put in Bronze container
+
+source - azure sql db
+
+target - parquet generic
+
+
+-- second condition
+if load type is full what we need to do....
+
+select * from table 
+
+source - SQL DB
+
+Database name
+Schema name
+Table name
+
+-- Query in azure
+@concat('insert into audit.load_config(
+   data_source,tablename,numberofrowscopied,watermarkcolumnname,loaddate)
+   values(''',item().datasource,''',item().tablename,''',''',activity('Full_Load_CP').output.rowscopied,''',''',
+   item().watermark,''',''',utcNow(),''')')
+
+Increamental
+
+1. check the audit table
+@concat('select coalese(cast(max(loaddate) as date),''',1900-01-01,''')as
+last_fetched_date from audit.load_logs where','data_source=''',item().datasource,''' and tablename=''',item().tablename,'''')
+

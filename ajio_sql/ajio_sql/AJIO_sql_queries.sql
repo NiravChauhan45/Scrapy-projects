@@ -1,0 +1,3 @@
+SELECT COUNT(*),STATUS FROM `osm_nsm_inputs` GROUP BY STATUS
+
+SELECT COUNT(*) FROM `product_details_10_10_2025`

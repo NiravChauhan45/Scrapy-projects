@@ -1,0 +1,5 @@
+Code Execute's Steps
+
+step-1: run productid_ajio.py (product_id given by client)
+step-2: PDP.py extract data from using this file
+step-3:

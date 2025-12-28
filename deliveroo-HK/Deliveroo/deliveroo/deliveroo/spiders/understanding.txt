@@ -1,0 +1,17 @@
+1) links.py for get all links.py
+2)datafor restaurant details
+3)menu_details_delivery.py for menu for delivery only
+4) menu_details_pickup.pu for menu from pickup
+
+Run store:-
+store_details.py
+Menu_details_delivery_store_thread.py
+Menu_details_pickup_store_thread.py
+
+(Manage DB and code as code structure is saperated for restaurant and stores)
+
+5) export.py for export menu details
+(Remove | content from df in category)
+
+6) sql_to_csv_menu.py for export menu
+(It will take 24 + Hours time for export so manage accordingly)

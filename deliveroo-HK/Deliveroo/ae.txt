@@ -1,0 +1,121 @@
+import json
+import os
+from datetime import datetime
+
+import mysql.connector
+import requests
+import scrapy
+from scrapy.cmdline import execute
+from scrapy.http import HtmlResponse
+
+
+class LinksSpider(scrapy.Spider):
+    name = "links"
+    start_urls = ["https://example.com"]
+
+    def __init__(self,a,b):
+        self.a=a
+        self.b=b
+
+    def parse(self, response):
+        mydb = mysql.connector.connect(
+            host="localhost",
+            user="root",
+            password="actowiz",
+            database="deliveroo_mehul"
+        )
+        current_date = datetime.now()
+        formatted_date = current_date.strftime("%Y_%m_%d")
+        mycursor = mydb.cursor()
+        mycursor.execute(f"select * from geohash_data where status = 'pending' and city='Abu Dhabi' limit {self.a},{self.b};")
+        # mycursor.execute(f"select * from geohash_data where id = '2301' limit {self.a},{self.b};")
+        myresult = mycursor.fetchall()
+        for d in myresult:
+            geo_hash1 = d[2]
+            # list=['a','b','c','d','e','f','g','h','i','j','k','l','m','n',"o",'p','q','r','s','t','u','v','w','x','y','z']
+            list=['a','b','c','d','e','f']
+            for al in list:
+                url = f"https://deliveroo.ae/en/restaurants/abu%20dhabi/{al}?fulfillment_method=DELIVERY&geohash={geo_hash1}&collection=all-restaurants"
+                # url = f"https://deliveroo.hk/en/restaurants/hong-kong/k11-musea?fulfillment_method=DELIVERY&geohash=wecny4uf14h2"
+
+                payload = {}
+                headers = {
+                    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                    'accept-language': 'en-US,en;q=0.9,hi;q=0.8',
+                    # 'cookie': 'roo_guid=8138c8de-c351-45a8-b7cf-39c6d877b3e8; roo_guid=8138c8de-c351-45a8-b7cf-39c6d877b3e8; shield_FPC=SCfQ8I7q6gH6gM1LWepuUTvRu1gvnqfWv5; _pxvid=9a8a8160-66a0-11ef-9c06-8676d3121305; __pxvid=9aceaffc-66a0-11ef-aa68-0242ac120002; _gcl_au=1.1.1423357780.1725002548; _ga=GA1.1.750316016.1725002545; _scid=3abfdd1a-aef0-4a89-921e-eb4f595bd4da; _tt_enable_cookie=1; _ttp=JmQ5r8-_Sv04Uyd3hwHjXTlMvkt; _pin_unauth=dWlkPU5XUmhaakkzWkRrdE1qazJZaTAwWmpOaExUaGpabVF0T1dWaFltRmpOV1ZoWWpBMg; _fbp=fb.1.1725002549903.819407487304369002; external_device_id=a2311f6a-7924-48c7-affa-b1349f4d8ee4; dtm_token_sc=AQAJc5F1-Y69rAFqr6qcAQA6yQABAQCQt75xwgEBAJC3vnHC; dtm_token=AQAJc5F1-Y69rAFqr6qcAQA6yQABAQCQt75xwgEBAJC3vnHC; cf_clearance=fcl30M64TWU1AFgxImqJPQhbqvolggbFSmMFyOPXefo-1725426014-1.2.1.1-T_GxLuj0PHulRh_8Ks1xep4HbRNN0tTldE0acKkJxOMqP4mogtyeWPrpTWyhcEbhebRT7lub7N7lOV.b2teXXCbaLuOZWiOI1HyFtR0IHUeYx.SJ7B52M_rfAEYpepZfMMKY2p8sUKBBqGd9s_OjqtMV8dQ0v3myv_dQKOR6vrH74QKhZKqGZsrDpvI50kyKRlePXgyAzCd.IvGJOTQ9cbhT9Iq2EKCyg2RgUBZIF2PYqTttjdWb5alU_Jk74cv2.m6jp2T6YshyR3e3MvtvH_CI7f4xO4gu4kJim9_4KL8B3dtiSeoI8fW1K3a1HKSVzUaheRbUv8UiPQToA.j1kf.sPPi43FUAhwu8mwJs0i2QZN.sxsxm0kCHULLHjAT1Re1He9uISPv8Sor97fUjTnxzWRD8y0tkgIcmig5hK0YktzqNupkdKNHV.DVu2siG; location_data=eyJsb2NhdGlvbiI6eyJjb29yZGluYXRlcyI6WzExNC4xNzY0OTM5LDIyLjI5NTczMzhdLCJpZCI6bnVsbCwiZm9ybWF0dGVkX2FkZHJlc3MiOiJBdmVudWUgT2YgU3RhcnMsIEhvbmcgS29uZyIsInBsYWNlX2lkIjoiQ2hJSjBZNkc5TzhBQkRRUjlUNEhZOWFYQmFrIiwicGluX3JlZmluZWQiOmZhbHNlLCJjaXR5IjpudWxsfX0.; roo_session_guid=d04fcae3-8ce5-493f-95f8-aad537a38931; locale=eyJsb2NhbGUiOiJlbiJ9; __cf_bm=Mb6ogOxyGsqMci5eFoJ7kWcgN0nnoA7n7thNe8JZVMk-1728280559-1.0.1.1-WnB_GmJpcCX_LAq7Ureh7I2pc8bCHdeWG8Cnus8n1bihW..cJk4N0cv371gf0HEBoTJcBvY.iRsG2e.hU0O3h8ZF.RyBBhMIlR6JlZjydBw; cwa_user_preferences={%22deviceStats%22:{%22innerWidth%22:1422}%2C%22seen_modals%22:{%22nc_promos_nux_2814ac7a-87db-4e08-858d-68f91c982634%22:{%22id%22:%22nc_promos_nux_2814ac7a-87db-4e08-858d-68f91c982634%22%2C%22timestamp%22:1725002571}%2C%22flash_deals%22:{%22id%22:%22flash_deals%22%2C%22timestamp%22:1725002730}%2C%22nc_promos_nux_d1615b1a-4d87-4430-911a-a693c4a39dda%22:{%22id%22:%22nc_promos_nux_d1615b1a-4d87-4430-911a-a693c4a39dda%22%2C%22timestamp%22:1726032551}}}; pxcts=d734c26d-8470-11ef-8d06-fda7b4f8adc8; _ScCbts=%5B%5D; _clck=1dcfr8c%7C2%7Cfpt%7C0%7C1703; _sctr=1%7C1728239400000; _ga_ZW8Q7SZ57X=GS1.1.1728280565.49.1.1728280573.52.0.0; OptanonAlertBoxClosed=2024-10-07T05:56:13.884Z; _scid_r=A0U6v90arvCOiWse609ZW9Ta9jivKhOipjdmxg; _uetsid=d730a5a0847011ef8236b5e07b6fc9f5; _uetvid=9d34e33066a011efae244b85347c60fb; OptanonConsent=isGpcEnabled=0&datestamp=Mon+Oct+07+2024+11%3A26%3A15+GMT%2B0530+(India+Standard+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=dd291773-4cd7-41da-8bfb-acfb3ffe8a34&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H95%3A1%2CH5%3A1%2CH111%3A1%2CH79%3A1%2CH80%3A1%2CH86%3A1%2CH85%3A1%2CH4%3A1%2CH155%3A1%2CH74%3A1%2CH38%3A1%2CH89%3A1%2CH99%3A1%2CH108%3A1%2CH167%3A1%2CH20%3A1%2CH77%3A1%2CH164%3A1%2CH156%3A1%2CH101%3A1%2CH104%3A1%2CH25%3A1%2CH162%3A1%2CH83%3A1%2CH39%3A1%2CH159%3A1&genVendors=&intType=1&geolocation=IN%3BGJ&AwaitingReconsent=false; _clsk=dd8vlu%7C1728280579650%7C2%7C0%7Co.clarity.ms%2Fcollect; browse_data=eyJsb2NhdGlvbiI6eyJjb29yZGluYXRlcyI6WzExNC4xNzY0OTM5LDIyLjI5NTczMzhdLCJpZCI6bnVsbCwiZm9ybWF0dGVkX2FkZHJlc3MiOiJBdmVudWUgT2YgU3RhcnMsIEhvbmcgS29uZyIsInBsYWNlX2lkIjoiQ2hJSjBZNkc5TzhBQkRRUjlUNEhZOWFYQmFrIiwicGluX3JlZmluZWQiOmZhbHNlLCJjaXR5IjpudWxsfX0.; roo_super_properties=eyJjb250ZXh0Ijp7InVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImlwIjoiMTkzLjE3Ni4yMTEuMjIzIiwibG9jYXRpb24iOnsiY291bnRyeSI6IkhvbmcgS29uZyJ9LCJsb2NhbGUiOiJlbiJ9LCJSZXF1ZXN0ZWQgTG9jYWxlIjoiZW4iLCJSb29Ccm93c2VyIjoiQ2hyb21lIiwiUm9vQnJvd3NlclZlcnNpb24iOiIxMjkiLCJEZXZpY2UgVHlwZSI6ImRlc2t0b3AiLCJUTEQiOiJoayIsIlBsYXRmb3JtIjoid2ViIiwiTG9jYWxlIjoiZW4iLCJ3aGl0ZV9sYWJlbF9icmFuZCI6ImNvcmUifQ..',
+                    # 'priority': 'u=0, i',
+                    'referer': 'https://deliveroo.ae/en/',
+                    'sec-ch-ua': '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+                    # 'sec-ch-ua-arch': '"x86"',
+                    # 'sec-ch-ua-bitness': '"64"',
+                    # 'sec-ch-ua-full-version': '"129.0.6668.60"',
+                    'sec-ch-ua-full-version-list': '"Google Chrome";v="129.0.6668.60", "Not=A?Brand";v="8.0.0.0", "Chromium";v="129.0.6668.60"',
+                    # 'sec-ch-ua-mobile': '?0',
+                    # 'sec-ch-ua-model': '""',
+                    'sec-ch-ua-platform': '"Windows"',
+                    # 'sec-ch-ua-platform-version': '"10.0.0"',
+                    'sec-fetch-dest': 'document',
+                    # 'sec-fetch-mode': 'navigate',
+                    'sec-fetch-site': 'same-origin',
+                    'sec-fetch-user': '?1',
+                    'upgrade-insecure-requests': '1',
+                    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+                }
+                response = requests.request("GET", url, headers=headers, data=payload)
+                print(url)
+                response=HtmlResponse(body=response.text, url=url, encoding='utf-8')
+                path = f"C:\\Actowiz\\pagesave\\Deliveroo\\Geohash\\{al}_keyword\\"
+                if not os.path.exists(path):
+                    os.makedirs(path)
+                file_name = path +geo_hash1+".html"
+                file_name = file_name.replace("\\",'\\\\')
+                with open(file_name, 'w', encoding='utf-8') as file:
+                    file.write(response.text)
+
+                data_json = response.xpath('//script[@type="application/json"]//text()').get()
+                json_data = json.loads(data_json)
+                try:
+                    item_loop_data=json_data['props']['initialState']['home']['feed']['results']['data']
+                    # props.initialState.checkoutPayment.blocks
+                    for items in item_loop_data:
+                        items_more=items['blocks']
+                        try:
+                            for ii in items_more:
+                                vendor_id=ii['target']['restaurant']['id']
+                                lead_source="Deliveroo"
+                                name=ii['target']['restaurant']['name']
+                                url_rest="https://deliveroo.ae"+ii['target']['restaurant']['links']['self']['href']
+
+
+                                item = {}
+                                item['vendor_id'] = vendor_id
+                                item['name'] =name
+                                item['geohash']=geo_hash1
+                                item['url']=url_rest
+                                item['pagesave']=file_name
+                                try:
+                                    field_list = []
+                                    value_list = []
+                                    for field in item:
+                                        field_list.append(str(field))
+                                        value_list.append(str(item[field]).replace("'", "’"))
+                                    fields = ','.join(field_list)
+                                    values = "','".join(value_list)
+                                    insert_db = f"insert into restaurant_links_{formatted_date} ( " + fields + " ) values ( '" + values + "' )"
+                                    mycursor.execute(insert_db)
+                                    mydb.commit()
+                                    print(insert_db)
+                                except Exception as e:
+                                    print(str(e))
+                            sql = f"update geohash_data set `status`='done'  where geo='{geo_hash1}';"
+                            mycursor.execute(sql)
+                            mydb.commit()
+
+                        except:
+                            sql = f"update geohash_data set `status`='no_data'  where geo='{geo_hash1}';"
+                            mycursor.execute(sql)
+                            mydb.commit()
+                except :
+                    print("no response")
+if __name__ == '__main__':
+    execute(f"scrapy crawl links -a a=0 -a b=2000".split())

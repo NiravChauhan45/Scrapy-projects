@@ -1,0 +1,60 @@
+import os
+import pandas as pd
+import mysql.connector
+import deliveroo.df_config as db
+
+def export_menu():
+    # Connect to MySQL database
+    connection = mysql.connector.connect(
+        host=db.host,
+        user=db.username,
+        password=db.password,
+        database=db.database_name
+    )
+
+    # SQL query to fetch menu data
+    sql_query = f'SELECT * FROM {db.data_menu_delivery}'
+
+    # Ensure the output directory exists
+    os.makedirs(db.file_path, exist_ok=True)
+
+    # Load data into a pandas DataFrame
+    df = pd.read_sql_query(sql_query, connection)
+    connection.close()  # Close the database connection
+
+    # Decode byte-encoded strings (if applicable)
+    df['menu_items'] = df['menu_items'].astype(str)
+    df['menu_Category'] = df['menu_Category'].astype(str)
+
+    # Remove unwanted columns
+    df.drop(columns=['hashid'], inplace=True, errors='ignore')
+
+    # Replace NULL or 'NA' values with 0 in numeric columns
+    price_columns = [
+        'original_price_Delivery', 'discounted_price_Delivery', 'discount_price_Delivery', 'discount_MOV_Delivery',
+        'original_price_pickup', 'discounted_price_pickup', 'discount_price_pickup', 'discount_MOV_pickup'
+    ]
+    for col in price_columns:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
+
+    # Clean date columns
+    date_columns = ['date_of_scrape', 'date_of_data_inserted']
+    for col in date_columns:
+        if col in df.columns:
+            df[col] = df[col].astype(str).str.replace(' 00:00:00', '', regex=False)
+    df['date_of_scrape'] = '2025-03-19'
+    df['date_of_data_inserted'] = '2025-03-19'
+
+    df.fillna("NA", inplace=True)  # Fill any remaining NaN values
+
+    # Compute category counts and append as a new column
+    category_counts = df.groupby(['vendor_id', 'menu_Category']).size().reset_index(name='Category Counts')
+    df = df.merge(category_counts, on=['vendor_id', 'menu_Category'], how='left')
+
+    # Export to CSV
+    df.to_csv(f'{db.file_path}{db.csv_menu_full_file_name_with_count}', index=False, encoding='utf-8-sig')
+    print("File successfully generated..!!")
+
+if __name__ == '__main__':
+    export_menu()

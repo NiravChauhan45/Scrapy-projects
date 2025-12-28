@@ -1,0 +1,18 @@
+UPDATE `data_menu_delivery_2024_10_07` AS p1, `data_menu_pickup_2024_10_07` AS p2 SET p1.`original_price_pickup` = p2.`original_price_pickup` WHERE p1.`menu_id` = p2.`menu_id`;
+UPDATE `data_menu_delivery_2024_10_07` AS p1, `data_menu_pickup_2024_10_07` AS p2 SET p1.`discounted_price_pickup` = p2.`discounted_price_pickup` WHERE p1.`menu_id` = p2.`menu_id`;
+UPDATE `data_menu_delivery_2024_10_07` AS p1, `data_menu_pickup_2024_10_07` AS p2 SET p1.`discount_price_pickup` = p2.`discount_price_pickup` WHERE p1.`menu_id` = p2.`menu_id`;
+
+UPDATE `data_menu_pickup_2024_10_07` AS p1, `data_menu_delivery_2024_10_07` AS p2 SET p1.`original_price_delivery` = p2.`original_price_delivery` WHERE p1.`menu_id` = p2.`menu_id`;
+UPDATE `data_menu_pickup_2024_10_07` AS p1, `data_menu_delivery_2024_10_07` AS p2 SET p1.`discounted_price_Delivery` = p2.`discounted_price_Delivery` WHERE p1.`menu_id` = p2.`menu_id`;
+UPDATE `data_menu_pickup_2024_10_07` AS p1, `data_menu_delivery_2024_10_07` AS p2 SET p1.`discount_price_Delivery` = p2.`discount_price_Delivery` WHERE p1.`menu_id` = p2.`menu_id`;
+
+
+
+we need to change table name on above query
+
+
+SELECT * FROM `data_menu_pickup_2024_10_07` WHERE menu_id NOT IN (SELECT menu_id FROM `data_menu_delivery_2024_10_07`)
+
+Is_MFO=False Default
+
+insert ignore into `data_menu_delivery_2024_10_10` (select *from  `data_menu_pickup_2024_10_10`) 

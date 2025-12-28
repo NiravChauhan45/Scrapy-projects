@@ -1,0 +1,3138 @@
+[
+    {
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Grey",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/6/ANfjeJGn_acbf00f75df3431c923c453d96b51614.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/6/rYvN2CRu_afd80cd816a24ca488bf8f85c1e12730.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/6/TrKwFHhO_7552dfcfa9074193bbb8db9ab96a46df.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/6/PWu46ytx_84ace1dc9a344ef389898b6d31c43990.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/6/T2nbqeE1_3d7d54d3dab344a19b8f138391239047.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/6/hfOZhDyB_e93e24e8297f4ac98e76185974ad8039.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/6/lu1lKFJb_59107eef1c3a45c2aea75edb9aee756b.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 2199,
+        "product_details": {
+            "material_&_care": [
+                "Cotton;",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "Brand Fit: Comfort",
+                "Fit: Regular Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "Grey woven Regular TrouserRegular fitBrand Fit: comfortMid-riseLength: regularPattern: solidFlat-front, with no pleats designFeature: plain4 pockets"
+            ]
+        },
+        "product_id": 30504555,
+        "product_name": "Fabindia Men Regular Fit Mid Rise Trousers",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "brand_fit_name": "Comfort",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Regular Fit",
+            "fly_type": "Zip",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_items": "1",
+            "number_of_pockets": "4",
+            "occasions": "Casual",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Regular Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Hand Wash",
+            "weave_type": "Woven"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-men-regular-fit-mid-rise-trousers/30504555/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.732Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 2199,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "32.75",
+                "size_list": "30",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "size_list": "32",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "size_list": "34",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "size_list": "36",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "size_list": "38",
+                "to_fit_waist": "38.0"
+            }
+        ],
+        "size_list": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Shirts",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Blue",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/prbGOUNm_46f2a6a6d2af4e0c9dd68ba19ade07ca.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/J0obrir5_da0c741b44394175b41b4a6466d22bb6.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/cOs5HsmZ_37d2e4dfb22142c58a928005bdaa1eb8.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/2okcQS8v_2671ced4bb2541d2a3c3103ef7aba36f.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/geSxXJnn_7e491539c28d43ddbceabe940fea2d13.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/MnOd6c01_6285492c1bc344e989d4a16e4e7db7aa.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 1499,
+        "product_details": {
+            "material_&_care": [
+                "Hand Wash; Cotton"
+            ],
+            "size_&_fit": [
+                "Brand Fit:",
+                "Fit: Regular Fit",
+                "The model (height 6') is wearing a size 40"
+            ],
+            "text": [
+                "Blue micro checks textured opaque Casual shirt ,has a spread collar,  button placket,  1 patch pocket, short regular sleeves,  straight hem"
+            ]
+        },
+        "product_id": 33637960,
+        "product_name": "Fabindia Men Micro Checks Casual Shirt",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "brand_fit_name": "NA",
+            "character": "NA",
+            "collar": "Spread Collar",
+            "cuff": "No Cuff",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "hemline": "Straight",
+            "length": "Regular",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "1",
+            "occasions": "Casual",
+            "package_contains": "1 shirt",
+            "patterns": "Textured",
+            "placket": "Button Placket",
+            "placket_length": "Full",
+            "pocket_type": "Patch",
+            "print_or_pattern_types": "Micro Checks",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "stitch": "Ready to Wear",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "transparency": "Opaque",
+            "wash_care": "Hand Wash",
+            "weave_pattern": "Regular"
+        },
+        "product_url": "https://www.myntra.com/shirts/fabindia/fabindia-men-micro-checks-casual-shirt/33637960/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.778Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 1499,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "17.5",
+                "chest": "41.0",
+                "front_length": "27.25",
+                "size_list": "36",
+                "sleeve-length": "9.0"
+            },
+            {
+                "across_shoulder": "18.25",
+                "chest": "43.0",
+                "front_length": "27.75",
+                "size_list": "38",
+                "sleeve-length": "9.25"
+            },
+            {
+                "across_shoulder": "19.0",
+                "chest": "45.0",
+                "front_length": "28.5",
+                "size_list": "40",
+                "sleeve-length": "9.5"
+            },
+            {
+                "across_shoulder": "19.75",
+                "chest": "47.0",
+                "front_length": "29.25",
+                "size_list": "42",
+                "sleeve-length": "9.75"
+            },
+            {
+                "across_shoulder": "20.5",
+                "chest": "50.0",
+                "front_length": "29.88",
+                "size_list": "44",
+                "sleeve-length": "10.0"
+            },
+            {
+                "across_shoulder": "21.25",
+                "chest": "53.0",
+                "front_length": "30.5",
+                "size_list": "46",
+                "sleeve-length": "10.38"
+            },
+            {
+                "across_shoulder": "22.0",
+                "chest": "55.5",
+                "front_length": "31.13",
+                "size_list": "48",
+                "sleeve-length": "10.63"
+            }
+        ],
+        "size_list": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "26",
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Women",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "White",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/n7aOezE5_4de9b37e20214bc3be22cda3dc7d145e.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/MyZqpDzE_0c0dd3bcf1254b1e84fe5bc1439adb0e.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/AAQZhqUP_9d769fd09d564ffc9a13477897bca4bf.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/nYkxJsQl_82e96a6b925747c89ca3a80de8edb398.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/DSqCBQye_bacd3000575c416386b0ffc1fae93676.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/MESSWdVP_a6b5e2dd6ceb4f908b9f03013ceef499.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "4": 5,
+            "5": 10
+        },
+        "mrp": 899,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "Fit: Slim Fit",
+                "The model (height 5'8) is wearing a size 28"
+            ],
+            "text": [
+                "White knitted trousers   Slim fit   Mid-rise   Length:  regular   Pattern: solid   Flat-front, with no pleats design   Feature:  plain   2 pockets"
+            ]
+        },
+        "product_id": 32598760,
+        "product_name": "Fabindia Women Slim Fit Mid-Rise Trousers",
+        "product_rating": 4.7,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "body_shape_id": "443,424",
+            "brand_fit_name": "NA",
+            "character": "NA",
+            "closure": "Slip-On",
+            "collection_name": "fashion",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Slim Fit",
+            "fly_type": "Zip",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_items": "1",
+            "number_of_pockets": "2",
+            "occasions": "Casual",
+            "package_contains": "1 pant",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Regular Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Hand Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-women-slim-fit-mid-rise-trousers/32598760/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.800Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 899,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "26.4",
+                "size_list": "26",
+                "to_fit_hip": "38.0",
+                "to_fit_waist": "26.0"
+            },
+            {
+                "inseam_length": "26.25",
+                "size_list": "28",
+                "to_fit_hip": "40.0",
+                "to_fit_waist": "28.0"
+            },
+            {
+                "inseam_length": "26.2",
+                "size_list": "30",
+                "to_fit_hip": "42.0",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "26.0",
+                "size_list": "32",
+                "to_fit_hip": "44.0",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "25.8",
+                "size_list": "34",
+                "to_fit_hip": "46.0",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "25.75",
+                "size_list": "36",
+                "to_fit_hip": "48.0",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "25.6",
+                "size_list": "38",
+                "to_fit_hip": "50.0",
+                "to_fit_waist": "38.0"
+            },
+            {
+                "inseam_length": "25.5",
+                "size_list": "40",
+                "to_fit_hip": "52.0",
+                "to_fit_waist": "40.0"
+            }
+        ],
+        "size_list": [
+            "26",
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 15,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Kurta Sets",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "White",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/JULY/30/lqEiohQA_9c49089054224fbc92328940be3057d3.jpg",
+            "http://assets.myntassets.com/assets/images/2024/JULY/30/PsHb0USO_3a53d1a09d164076b0df6312be9798db.jpg",
+            "http://assets.myntassets.com/assets/images/2024/JULY/30/wS7Avyoe_2ef955fefc6242f4bc747cbc8019e804.jpg",
+            "http://assets.myntassets.com/assets/images/2024/JULY/30/rFQd16Ot_589a887c760b4347919b9d7da7092fd9.jpg",
+            "http://assets.myntassets.com/assets/images/2024/JULY/30/Tb6YDT0l_07f8181f036848099765962ae5a0d8da.jpg",
+            "http://assets.myntassets.com/assets/images/2024/JULY/30/6wQpBjFh_4400cd55becb4f6896a1c948fd9e5b8c.jpg",
+            "http://assets.myntassets.com/assets/images/2024/JULY/30/h1F0WhQF_6a9b53a8164d40b3830c42a57a1fbf4a.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 5,
+            "4": 1,
+            "5": 3
+        },
+        "mrp": 1499,
+        "product_details": {
+            "kurta_design:": [
+                "Solid",
+                "Straight shape",
+                "Regular style",
+                "Mandarin collar",
+                "Long regular sleeves",
+                "2 pockets",
+                "Knee length with straight hem",
+                "Pure cotton knitted fabric"
+            ],
+            "material_&_care": [
+                "Pure Cotton",
+                "Hand Wash"
+            ],
+            "pyjamas_design:": [
+                "Solid pyjamas",
+                "Button closure"
+            ],
+            "size_&_fit": [
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": "White solid kurta with pyjamas"
+        },
+        "product_id": 30418111,
+        "product_name": "Fabindia Straight Pure Cotton Kurta with Pyjamas",
+        "product_rating": 2.7,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "bottom_closure": "Button",
+            "bottom_fabric": "Pure Cotton",
+            "bottom_pattern": "Solid",
+            "bottom_type": "Pyjamas",
+            "character": "NA",
+            "dupatta": "NA",
+            "dupatta_border": "NA",
+            "dupatta_fabric": "NA",
+            "dupatta_pattern": "NA",
+            "neck": "Mandarin Collar",
+            "number_of_items": "2",
+            "number_of_pockets": "2",
+            "occasions": "Festive",
+            "ornamentation": "NA",
+            "package_contains": "1 kurta, 1 pyjama",
+            "pattern_coverage": "None",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Long Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "slit_detail": "Side Slits",
+            "stitch": "Ready to Wear",
+            "sustainable": "Regular",
+            "technique": "NA",
+            "top_design_styling": "Regular",
+            "top_fabric": "Pure Cotton",
+            "top_hemline": "Straight",
+            "top_length": "Knee Length",
+            "top_pattern": "Solid",
+            "top_shape": "Straight",
+            "top_type": "Kurta",
+            "waistband": "NA",
+            "wash_care": "Hand Wash",
+            "weave_pattern": "Regular",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/kurta-sets/fabindia/fabindia-straight-pure-cotton-kurta-with-pyjamas/30418111/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.826Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 1499,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "19.0",
+                "chest": "46.0",
+                "front_length": "44.0",
+                "hips": "48.0",
+                "inseam_length": "27.5",
+                "size_list": "S",
+                "to_fit_waist": "30.0",
+                "waist": "46.0"
+            },
+            {
+                "across_shoulder": "20.0",
+                "chest": "48.0",
+                "front_length": "45.0",
+                "hips": "50.0",
+                "inseam_length": "28.0",
+                "size_list": "M",
+                "to_fit_waist": "32.0",
+                "waist": "48.0"
+            },
+            {
+                "across_shoulder": "21.0",
+                "chest": "51.0",
+                "front_length": "46.0",
+                "hips": "53.5",
+                "inseam_length": "28.5",
+                "size_list": "L",
+                "to_fit_waist": "34.0",
+                "waist": "50.0"
+            },
+            {
+                "across_shoulder": "22.0",
+                "chest": "53.0",
+                "front_length": "47.0",
+                "hips": "55.5",
+                "inseam_length": "29.0",
+                "size_list": "XL",
+                "to_fit_waist": "36.0",
+                "waist": "53.0"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 9,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Table Placemats",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Mustard",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/23847294/2023/7/1/ab51055c-c329-42b8-8209-ea8463e5c4941688226820428MustardPrithiCottonWovenTableMatSetOf61.jpg",
+            "http://assets.myntassets.com/assets/images/23847294/2023/7/1/0008b517-74d8-498b-af67-75278beacc791688226820415MustardPrithiCottonWovenTableMatSetOf62.jpg",
+            "http://assets.myntassets.com/assets/images/23847294/2023/7/1/c78898dd-2415-4838-b3e3-730730ad20da1688226820405MustardPrithiCottonWovenTableMatSetOf63.jpg",
+            "http://assets.myntassets.com/assets/images/23847294/2023/7/1/cc76523b-8b56-4d0d-998b-2be1d0b64c2e1688226820396MustardPrithiCottonWovenTableMatSetOf64.jpg",
+            "http://assets.myntassets.com/assets/images/23847294/2023/7/1/4d06ee04-f2b1-4bf7-95ef-3fd7c9d375081688226820381MustardPrithiCottonWovenTableMatSetOf65.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 1199,
+        "product_details": {
+            "features:": [
+                "Set Content: 6"
+            ],
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "other_features:": [
+                "Shape: Retangle"
+            ],
+            "product_design": [
+                "Print/Pattern: Solid",
+                "Color: Mustard yellow",
+                "Type: Table placemat",
+                "Fabric: Cotton"
+            ],
+            "size_&_fit": [
+                "Dimensions: 32.5 cm x 47.5 cm (Length x Width) each"
+            ]
+        },
+        "product_id": 23847294,
+        "product_name": "Fabindia Mustard Yellow 6 Pieces Woven Cotton Table Placemats",
+        "product_rating": 0,
+        "product_specifications": {
+            "materials": "Cotton",
+            "ornamentation": "Other",
+            "print_or_pattern_types": "Solid",
+            "set_size": "6",
+            "shape": "Rectangle",
+            "sustainable": "Regular"
+        },
+        "product_url": "https://www.myntra.com/table-placemats/fabindia/fabindia-mustard-yellow-6-pieces-woven-cotton-table-placemats/23847294/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.852Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 1199,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Table Placemats",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Off White",
+        "discount": "55",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/28884120/2024/4/12/d67edc71-0dcb-4b16-8806-b38a16e9c30e1712904518292TablePlacemats1.jpg",
+            "http://assets.myntassets.com/assets/images/28884120/2024/4/12/301c89e2-1624-41ce-be54-7aba0b5bc8f01712904518239TablePlacemats2.jpg",
+            "http://assets.myntassets.com/assets/images/28884120/2024/4/12/db64d7c0-fe79-45c0-a317-26081592054f1712904518266TablePlacemats3.jpg",
+            "http://assets.myntassets.com/assets/images/28884120/2024/4/12/1eb89c0a-bdba-4a75-933d-3aa5a301046d1712904518214TablePlacemats4.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 1699,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine wash"
+            ],
+            "product_design": [
+                "Print/Pattern: Geometric",
+                "Color: Off-white and beige",
+                "Type: Table placemats",
+                "Fabric: Cotton",
+                "Set Content: 6 Pieces table placemats"
+            ],
+            "size_&_fit": [
+                "Dimensions: 32.5 cm x 45.7 cm (Length x Width)"
+            ]
+        },
+        "product_id": 28884120,
+        "product_name": "Fabindia 6 Pieces Off White Geometric Printed Cotton Table Placemats",
+        "product_rating": 0,
+        "product_specifications": {
+            "materials": "Cotton",
+            "ornamentation": "NA",
+            "print_or_pattern_types": "Geometric",
+            "set_size": "6",
+            "shape": "Rectangle",
+            "sustainable": "Regular"
+        },
+        "product_url": "https://www.myntra.com/table-placemats/fabindia/fabindia-6-pieces-off-white-geometric-printed-cotton-table-placemats/28884120/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.858Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 764,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Nehru Jackets",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Red",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/JUNE/18/PUORLPHS_fffd2bb39b26406997eb1d7838319eff.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JUNE/18/8UTQ4tMd_f7dacdc1bfb04e788f925690fa2742da.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JUNE/18/ZJON9kcF_135f12b6f50c41d8ad003dc54ae03d35.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JUNE/18/1NjZ5OVs_d3dee5c1cd4540b4bafde9a49a4023ea.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JUNE/18/XGdeH24R_9d443b4342ae4a73807c3a01ea071404.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JUNE/18/cz8j2ei3_2571461eac404be3aa63efeb4600609c.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 1999,
+        "product_details": {
+            "disclaimer": "Does not come with pocket squareNo accessories",
+            "material_&_care": [
+                "Cotton",
+                "Machine wash"
+            ],
+            "size_&_fit": [
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": "Red solid woven Nehru jacket, has a mandarin collar, a full button placket, sleeveless, three pockets"
+        },
+        "product_id": 34978954,
+        "product_name": "Fabindia Printed Cotton Nehru Jacket",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "fabrics": "Pure Cotton",
+            "net_quantity_unit": "Piece",
+            "number_of_pockets": "3",
+            "patterns": "Woven Design",
+            "sustainable": "Regular",
+            "wash_care": "Hand Wash",
+            "weave_type": "Woven"
+        },
+        "product_url": "https://www.myntra.com/nehru-jackets/fabindia/fabindia-printed-cotton-nehru-jacket/34978954/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.937Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 1999,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "15.5",
+                "chest": "40.0",
+                "front_length": "27.0",
+                "size_list": "XS"
+            },
+            {
+                "across_shoulder": "16.0",
+                "chest": "42.0",
+                "front_length": "28.0",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "16.5",
+                "chest": "44.0",
+                "front_length": "29.0",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "17.0",
+                "chest": "46.0",
+                "front_length": "30.0",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "17.5",
+                "chest": "48.0",
+                "front_length": "30.0",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "18.0",
+                "chest": "50.0",
+                "front_length": "31.0",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Table Placemats",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Turquoise Blue",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/23228752/2023/5/17/fb43ee8e-26e4-40b6-8fc7-a7346edd59e01684307370468FabindiaTurquoiseKislayCottonMat-SetOf61.jpg",
+            "http://assets.myntassets.com/assets/images/23228752/2023/5/17/f06c9ba6-6f00-4219-97a4-7c6971b84a861684307370455FabindiaTurquoiseKislayCottonMat-SetOf62.jpg",
+            "http://assets.myntassets.com/assets/images/23228752/2023/5/17/c354e6fd-a4e9-400e-ba65-e14ba0295ffa1684307370481FabindiaTurquoiseKislayCottonMat-SetOf63.jpg",
+            "http://assets.myntassets.com/assets/images/23228752/2023/5/17/149dafc3-18aa-4796-b1d0-2a9d260a90761684307370493FabindiaTurquoiseKislayCottonMat-SetOf64.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "Dimensions: 32.5 cm x 47.5 cm"
+            ],
+            "text": [
+                "Set content: 6 table placemats",
+                "Colour: turquoise blue",
+                "Shape: Rectangle",
+                "Pattern: Solid",
+                "Material: 100% cotton"
+            ]
+        },
+        "product_id": 23228752,
+        "product_name": "Fabindia 6 Pieces Turquoise Blue Kislay Cotton Table Placemats",
+        "product_rating": 0,
+        "product_specifications": {
+            "materials": "Cotton",
+            "ornamentation": "NA",
+            "print_or_pattern_types": "Solid",
+            "set_size": "6",
+            "shape": "Rectangle",
+            "sustainable": "Regular"
+        },
+        "product_url": "https://www.myntra.com/table-placemats/fabindia/fabindia-6-pieces-turquoise-blue-kislay-cotton-table-placemats/23228752/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.965Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 999,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Hand Towels",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Beige",
+        "discount": "35",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/23269708/2023/5/19/9468422e-775e-416a-8fce-a3eb500c052c1684497753792FabindiaBeigeAmayaCottonHandTowel-SetOf21.jpg",
+            "http://assets.myntassets.com/assets/images/23269708/2023/5/19/e84ff1cf-6ed4-40b8-8ce6-eaeb726874821684497753830FabindiaBeigeAmayaCottonHandTowel-SetOf22.jpg",
+            "http://assets.myntassets.com/assets/images/23269708/2023/5/19/e4eae047-17dc-47f5-a1b7-441f6d9414081684497753739FabindiaBeigeAmayaCottonHandTowel-SetOf23.jpg",
+            "http://assets.myntassets.com/assets/images/23269708/2023/5/19/80c7f153-7a7c-40b3-a72a-eb0587687aaf1684497753777FabindiaBeigeAmayaCottonHandTowel-SetOf24.jpg",
+            "http://assets.myntassets.com/assets/images/23269708/2023/5/19/486e240b-8149-4a5b-8bdc-7dfee47cdc981684497753804FabindiaBeigeAmayaCottonHandTowel-SetOf25.jpg",
+            "http://assets.myntassets.com/assets/images/23269708/2023/5/19/cd1c11b3-f4cc-492f-9e47-379b766234991684497753816FabindiaBeigeAmayaCottonHandTowel-SetOf26.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 499,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "Dimensions: 37cm x 60cm"
+            ],
+            "text": [
+                "A plush and comfortable hand towel is offered by Fabindia. It is appropriate for daily use and constructed of cotton pile fabric. Thanks to its adorable colours and patterns, this straightforward yet beautiful towel blends in well with any environment. Use it to dry your hands after washing them.Sophisticated design adds a touch of elegance to your bathing routineArresting woven pattern makes a statement in your bathroomCotton fabric combines softness with exceptional durabilitySet content: 2 hand towel",
+                "GSM: 550",
+                "Pattern: Solid",
+                "Fabric: Cotton",
+                "Colour: beige"
+            ]
+        },
+        "product_id": 23269708,
+        "product_name": "Fabindia Beige 2 Pieces 550 GSM Cotton -Hand Towel",
+        "product_rating": 0,
+        "product_specifications": {
+            "fabrics": "Cotton",
+            "gsm": "550",
+            "patterns": "Solid",
+            "set_size": "2",
+            "sustainable": "Regular",
+            "type": "Regular"
+        },
+        "product_url": "https://www.myntra.com/hand-towels/fabindia/fabindia-beige-2-pieces-550-gsm-cotton--hand-towel/23269708/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.974Z",
+        "seller_info": {
+            "displayname": "Sane Retails Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Shop No. 103-104, DLF AvenueSaket, New DelhiNew delhi , DELHI - 110017",
+                "city": "New delhi",
+                "country": "India",
+                "pincode": "110017",
+                "state": "DELHI"
+            },
+            "sellername": "Truecom Retail",
+            "sellerpartnerid": 4028
+        },
+        "selling_price": 324,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Bath Rugs",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Taupe",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/6/uiNMDJP7_5c0caf5beaf6457fadd9de42c417488f.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/6/glP5jHhZ_3d1ee8591cd84656b1f15bcee3a912c2.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/6/Rru0GMOE_f2775386b15840f1afacd97d48a0d27c.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/6/8ku3o274_a19e44680f8a4755a971364cb2f95031.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 599,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "other_features:": [
+                "Anti-Skid",
+                "Water Absorption",
+                "Fade Resistant"
+            ],
+            "product_design": "Set Content: 1 PiecePrint/Pattern: StripedColor: Taupe colored & WhiteType: Bath rugFabric: Cotton",
+            "size_&_fit": [
+                "Dimension: 70 cm x 45 cm (Length x Width)"
+            ]
+        },
+        "product_id": 30878656,
+        "product_name": "Fabindia Taupe Colored & White Striped Cotton 1800 GSM Bath Rugs",
+        "product_rating": 0,
+        "product_specifications": {
+            "gsm": "1800",
+            "materials": "Cotton",
+            "set_size": "1",
+            "sustainable": "Regular"
+        },
+        "product_url": "https://www.myntra.com/bath-rugs/fabindia/fabindia-taupe-colored--white-striped-cotton-1800-gsm-bath-rugs/30878656/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:39.996Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 599,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize",
+                "volumetric_weight": "0.5"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Lounge Pants",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Beige",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/21855610/2023/2/6/b9d55db2-7c3b-494e-ae79-ca27ee3ec79f1675662858380FabindiaMenBeigeComfortTrousers1.jpg",
+            "http://assets.myntassets.com/assets/images/21855610/2023/2/6/6e925fe7-c77b-4443-9610-6be5de64e8f41675662858337FabindiaMenBeigeComfortTrousers2.jpg",
+            "http://assets.myntassets.com/assets/images/21855610/2023/2/6/2df86515-3896-4921-9a3e-831584a9995e1675662858366FabindiaMenBeigeComfortTrousers3.jpg",
+            "http://assets.myntassets.com/assets/images/21855610/2023/2/6/e84817cc-32d8-4203-9e09-e9df4e7f3d2c1675662858404FabindiaMenBeigeComfortTrousers4.jpg",
+            "http://assets.myntassets.com/assets/images/21855610/2023/2/6/8441f542-d045-4153-88e1-e78b87888ab71675662858392FabindiaMenBeigeComfortTrousers5.jpg",
+            "http://assets.myntassets.com/assets/images/21855610/2023/2/6/d43433ab-854f-46bc-a276-272265ff7e811675662858351FabindiaMenBeigeComfortTrousers6.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 2,
+            "4": 2,
+            "5": 1
+        },
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "Brand Fit: Comfort",
+                "Fit: Regular Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "Woven lounge pantRegular fitBrand Fit: comfortMid-riseLength: regularPattern: solid Flat-front, with no pleats designFeature: plain2 pocketsVAN 20070382"
+            ]
+        },
+        "product_id": 21855610,
+        "product_name": "Fabindia Men Striped Cotton Lounge Pant",
+        "product_rating": 3,
+        "product_specifications": {
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "Drawstring",
+            "fabrics": "Cotton",
+            "knit_or_woven": "Woven",
+            "multipack_set": "NA",
+            "number_of_pockets": "3",
+            "patterns": "Solid",
+            "sustainable": "Regular",
+            "type": "Straight",
+            "waist_rise": "Mid-Rise",
+            "waistband": "Inner Elastic",
+            "wash_care": "Hand Wash"
+        },
+        "product_url": "https://www.myntra.com/lounge-pants/fabindia/fabindia-men-striped-cotton-lounge-pant/21855610/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.028Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 999,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "32.0",
+                "size_list": "S",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "M",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "L",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "XL",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "XXL",
+                "to_fit_waist": "38.0"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 5,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Khaki",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/OCTOBER/9/yRPc6qWG_d5d803bff10a4af8acdc37149c716ac7.jpg",
+            "http://assets.myntassets.com/assets/images/2024/OCTOBER/9/XIE9yBZf_a6036ab6c0ba421f8d218e65f736a5d2.jpg",
+            "http://assets.myntassets.com/assets/images/2024/OCTOBER/9/W72Visnc_2762fab947c64c228ecc2d4241f73faf.jpg",
+            "http://assets.myntassets.com/assets/images/2024/OCTOBER/9/rjy7WgIK_a6d6b5b1b10440ec8bba6a254e57ca78.jpg",
+            "http://assets.myntassets.com/assets/images/2024/OCTOBER/9/MPRu5YyG_ccf9122917be4331af3153aecc3d5d7e.jpg",
+            "http://assets.myntassets.com/assets/images/2024/OCTOBER/9/nJSKviF2_8e1b8d2562574f3c9b5de9f71b877818.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 2299,
+        "product_details": {
+            "material_&_care": [
+                "Hand Wash; Cotton"
+            ],
+            "size_&_fit": [
+                "Fit: Straight Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "Khaki woven parallel   Straight fit   Mid-rise   Length:  regular   Pattern: solid   Flat-front, with no pleats design   Feature:  plain   4 pockets"
+            ]
+        },
+        "product_id": 31254090,
+        "product_name": "Fabindia Men Straight Fit Trousers",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "brand_fit_name": "NA",
+            "care_for_me": "Machine Wash in cold water (30 degree C or low) to avoid shrinkage\r\nLine-dry in shade to avoid yellowing\r\nFor whites, wash with non-chlorine bleach on a hot water setting\r\nIron when slightly damp",
+            "character": "NA",
+            "closure": "Hook and Bar",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Straight Fit",
+            "fly_type": "Zip",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_items": "1",
+            "number_of_pockets": "4",
+            "occasions": "Formal",
+            "package_contains": "1 trouser",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Parallel Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Hand Wash",
+            "weave_type": "Woven"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-men-straight-fit-trousers/31254090/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.082Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 2299,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "29.75",
+                "size_list": "28",
+                "to_fit_waist": "28.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "30",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "32",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "34",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "36",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "38",
+                "to_fit_waist": "38.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "40",
+                "to_fit_waist": "40.0"
+            }
+        ],
+        "size_list": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Navy Blue",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/IPXgx53w_8ef66d72d6f64766bddf33fa2a336a1e.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/km6yH0rA_ffc748504ad14739b52bde5d0e5e096e.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/2gZGoTj7_14f190fdc19b4981b6ee907b39c9c934.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/4YhK5Ywz_83847e9e1ab34cfb89cfff112d8b83d1.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/uj73DWlv_93258ce8e11940948274063b3fb5397c.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/iXsMPgzj_426e1c32b9f5475d8b03fcb5817c73b7.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/1/ty3Hku8Z_783341c43b8549ba896bb5ec343cffab.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 2299,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "Fit: Straight Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "Navy blue knitted trousers   Straight fit   Mid-rise   Length:  regular   Pattern: solid   Flat-front, with no pleats design   Feature:  plain   4 pockets"
+            ]
+        },
+        "product_id": 32598375,
+        "product_name": "Fabindia Men Straight Fit Mid-Rise Trousers",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "brand_fit_name": "NA",
+            "character": "NA",
+            "closure": "Hook and Bar",
+            "collection_name": "fashion",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Straight Fit",
+            "fly_type": "Zip",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_items": "1",
+            "number_of_pockets": "4",
+            "occasions": "Casual",
+            "package_contains": "1 trouser",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Regular Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Hand Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-men-straight-fit-mid-rise-trousers/32598375/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.085Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 2299,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "29.75",
+                "size_list": "28",
+                "to_fit_hip": "36.5",
+                "to_fit_waist": "28.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "30",
+                "to_fit_hip": "38.5",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "32",
+                "to_fit_hip": "40.5",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "34",
+                "to_fit_hip": "42.5",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "36",
+                "to_fit_hip": "44.5",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "38",
+                "to_fit_hip": "46.5",
+                "to_fit_waist": "38.0"
+            },
+            {
+                "inseam_length": "29.75",
+                "size_list": "40",
+                "to_fit_hip": "48.5",
+                "to_fit_waist": "40.0"
+            }
+        ],
+        "size_list": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "30",
+            "36",
+            "38"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Red",
+        "discount": "55",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/20926720/2022/11/25/f1149ab9-601c-4f47-bc6e-21a9a9bddfd71669377880490FabindiaRedViscoseBlendSolidPants1.jpg",
+            "http://assets.myntassets.com/assets/images/20926720/2022/11/25/1f8feddd-cfb0-4890-ba7e-5de6fda0c7201669377880528FabindiaRedViscoseBlendSolidPants2.jpg",
+            "http://assets.myntassets.com/assets/images/20926720/2022/11/25/3c6335b0-0a09-49f4-bf31-9c9a7bcc52251669377880517FabindiaRedViscoseBlendSolidPants3.jpg",
+            "http://assets.myntassets.com/assets/images/20926720/2022/11/25/53870acd-03b5-4c2f-82ed-747a55ce71ae1669377880551FabindiaRedViscoseBlendSolidPants4.jpg",
+            "http://assets.myntassets.com/assets/images/20926720/2022/11/25/15b176c4-5664-4c18-9d7f-045cc7ef5af01669377880564FabindiaRedViscoseBlendSolidPants5.jpg",
+            "http://assets.myntassets.com/assets/images/20926720/2022/11/25/067777db-9e57-4317-89c5-05dc6b4763ab1669377880505FabindiaRedViscoseBlendSolidPants6.jpg",
+            "http://assets.myntassets.com/assets/images/20926720/2022/11/25/c27f44d6-1456-4d57-9343-6fb7fc3c3c771669377880539FabindiaRedViscoseBlendSolidPants7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 2199,
+        "product_details": {
+            "material_&_care": [
+                "Viscose Viscose",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "Fit: Regular Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "Red woven trousersRegular fitMid-riseLength: regularPattern: solid  Flat-front, with no pleats designFeature: plain4 pockets"
+            ]
+        },
+        "product_id": 20926720,
+        "product_name": "Fabindia Men Red Casual Regular Trousers",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "brand_fit_name": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Viscose Rayon, Viscose Rayon",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Regular Fit",
+            "fly_type": "Zip",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_pockets": "4",
+            "occasions": "Casual",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Regular Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Hand Wash",
+            "weave_type": "Woven"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-men-red-casual-regular-trousers/20926720/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.089Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 989,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "32.0",
+                "size_list": "30",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "32",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "34",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "36",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "size_list": "38",
+                "to_fit_waist": "38.0"
+            }
+        ],
+        "size_list": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Grey",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/28/QlKl7LVZ_7fa6db4afff04fcf898bdefb6ad73167.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/28/jFY18Uys_5148c22b30194a96b11ba37f0cc2e034.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/28/f8tgJThG_0ae9591f16304857a98200c4b116f4f7.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/28/5O1TQDH3_967786c963ad4f73a021f1452714da81.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/28/y9gOvmKR_52b4c8f83d4a41f0bde34b5793b51908.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/28/dkKmiMrc_4d70ddcdef5145b1ad29a7fa8193d7ca.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/28/4dZQzv9C_ffd31c386eb449e9a3608fba757c93e4.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 2199,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Hand Wash; Cotton"
+            ],
+            "size_&_fit": [
+                "Fit: Relaxed Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "Grey knitted trousersRelaxed fitMid-riseLength: regularPattern: solidFlat-front, with no pleats designFeature: plain4 pockets"
+            ]
+        },
+        "product_id": 32526156,
+        "product_name": "Fabindia Men Relaxed Fit Cotton Regular Trousers",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "brand_fit_name": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "collection_name": "fashion",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Relaxed Fit",
+            "fly_type": "Zip",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_items": "1",
+            "number_of_pockets": "4",
+            "occasions": "Casual",
+            "package_contains": "1 trouser",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Regular Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Hand Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-men-relaxed-fit-cotton-regular-trousers/32526156/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.093Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 2199,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "32.75",
+                "outseam_length": "41.0",
+                "size_list": "28",
+                "to_fit_hip": "38.25",
+                "to_fit_waist": "28.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "outseam_length": "41.5",
+                "size_list": "30",
+                "to_fit_hip": "39.75",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "outseam_length": "42.0",
+                "size_list": "32",
+                "to_fit_hip": "41.25",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "outseam_length": "42.5",
+                "size_list": "34",
+                "to_fit_hip": "42.75",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "outseam_length": "43.0",
+                "size_list": "36",
+                "to_fit_hip": "44.25",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "outseam_length": "43.5",
+                "size_list": "38",
+                "to_fit_hip": "45.75",
+                "to_fit_waist": "38.0"
+            },
+            {
+                "inseam_length": "32.75",
+                "outseam_length": "44.0",
+                "size_list": "40",
+                "to_fit_hip": "47.5",
+                "to_fit_waist": "40.0"
+            }
+        ],
+        "size_list": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Black",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/32340170/2025/1/15/7bd459b4-0ec6-4ff6-91b6-fc3bd4c5835d1736923815680FabindiaMenTrousers1.jpg",
+            "http://assets.myntassets.com/assets/images/32340170/2025/1/15/c0bd8e0d-4036-429d-a73d-df179754b79a1736923815623FabindiaMenTrousers2.jpg",
+            "http://assets.myntassets.com/assets/images/32340170/2025/1/15/27ebeeac-0937-488d-8b46-ff00791d84021736923815737FabindiaMenTrousers3.jpg",
+            "http://assets.myntassets.com/assets/images/32340170/2025/1/15/42b87664-c852-46c8-aba5-096a34c43e141736923815767FabindiaMenTrousers4.jpg",
+            "http://assets.myntassets.com/assets/images/32340170/2025/1/15/02deef10-0ce4-4e98-b711-3e31d87e3f041736923815597FabindiaMenTrousers5.jpg",
+            "http://assets.myntassets.com/assets/images/32340170/2025/1/15/ddbfe8fb-4a60-46da-aa59-a50a064186a91736923815708FabindiaMenTrousers6.jpg",
+            "http://assets.myntassets.com/assets/images/32340170/2025/1/15/05197f34-88e3-4a27-bd68-c0df36be7b0d1736923815651FabindiaMenTrousers7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 3,
+            "3": 1,
+            "4": 2,
+            "5": 9
+        },
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "Fit: Relaxed Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "Black knitted trousers   Relaxed fit   Mid-rise   Length:  regular   Pattern: solid   Flat-front, with no pleats design   Feature:  plain   3 pockets"
+            ]
+        },
+        "product_id": 32340170,
+        "product_name": "Fabindia Men Relaxed Fit Mid-Rise Trousers",
+        "product_rating": 3.9,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "brand_fit_name": "NA",
+            "character": "NA",
+            "closure": "Drawstring",
+            "collection_name": "fashion",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Relaxed Fit",
+            "fly_type": "No Fly",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_items": "1",
+            "number_of_pockets": "3",
+            "occasions": "Casual",
+            "package_contains": "1 pant",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Regular Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Hand Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-men-relaxed-fit-mid-rise-trousers/32340170/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.101Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 999,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "31.0",
+                "outseam_length": "41.25",
+                "size_list": "28",
+                "to_fit_hip": "39.0",
+                "to_fit_waist": "28.0"
+            },
+            {
+                "inseam_length": "31.0",
+                "outseam_length": "41.75",
+                "size_list": "30",
+                "to_fit_hip": "41.0",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "31.0",
+                "outseam_length": "42.25",
+                "size_list": "32",
+                "to_fit_hip": "43.0",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "31.0",
+                "outseam_length": "43.0",
+                "size_list": "34",
+                "to_fit_hip": "45.0",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "31.0",
+                "outseam_length": "43.5",
+                "size_list": "36",
+                "to_fit_hip": "47.0",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "31.0",
+                "outseam_length": "44.0",
+                "size_list": "38",
+                "to_fit_hip": "49.0",
+                "to_fit_waist": "38.0"
+            },
+            {
+                "inseam_length": "31.0",
+                "outseam_length": "44.5",
+                "size_list": "40",
+                "to_fit_hip": "51.0",
+                "to_fit_waist": "40.0"
+            }
+        ],
+        "size_list": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 15,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Women",
+            "l3": "Tops",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Beige",
+        "discount": "36",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/28943092/2024/4/16/9f564fd9-8281-45f1-a17c-76bd81037d431713260032901FabindiaPrintCottonTop1.jpg",
+            "http://assets.myntassets.com/assets/images/28943092/2024/4/16/14ef6f27-e689-4ebc-b02c-517025d6904e1713260032880FabindiaPrintCottonTop2.jpg",
+            "http://assets.myntassets.com/assets/images/28943092/2024/4/16/e08cc927-0121-4048-9029-46dd1cdd5f621713260032890FabindiaPrintCottonTop3.jpg",
+            "http://assets.myntassets.com/assets/images/28943092/2024/4/16/b96e7b2c-f2a1-464f-a59d-e9c4c7e0122e1713260032861FabindiaPrintCottonTop4.jpg",
+            "http://assets.myntassets.com/assets/images/28943092/2024/4/16/0de20834-48ee-4624-ae2f-8e7ba3a5e4251713260032840FabindiaPrintCottonTop5.jpg",
+            "http://assets.myntassets.com/assets/images/28943092/2024/4/16/19a86fbd-a8c7-4ae6-b54d-22301ca094631713260032870FabindiaPrintCottonTop6.jpg",
+            "http://assets.myntassets.com/assets/images/28943092/2024/4/16/b00bc689-9504-4048-8025-368caacd7fb31713260032850FabindiaPrintCottonTop7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 1,
+            "3": 1,
+            "4": 1,
+            "5": 4
+        },
+        "mrp": 899,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "The model (height 5'8) is wearing a size S"
+            ],
+            "text": [
+                "Beige, maroon &amp; grey regular topFloral printedRound neckShort regular sleevesWoven cottonButton closure"
+            ]
+        },
+        "product_id": 28943092,
+        "product_name": "Fabindia Floral Printed Round Neck Cotton Top",
+        "product_rating": 4,
+        "product_specifications": {
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "body_shape_id": "443,333,424",
+            "center_front_open": "No",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Cotton",
+            "fashion_trends": "Floral Print",
+            "length": "Regular",
+            "lining": "NA",
+            "multipack_set": "NA",
+            "neck": "Round Neck",
+            "number_of_items": "1",
+            "occasions": "Casual",
+            "package_contains": "1 top",
+            "patterns": "Printed",
+            "print_or_pattern_types": "Floral",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "taxmaterial": "NA",
+            "transparency": "Opaque",
+            "type": "Regular",
+            "wash_care": "Hand Wash",
+            "weave_type": "Woven"
+        },
+        "product_url": "https://www.myntra.com/tops/fabindia/fabindia-floral-printed-round-neck-cotton-top/28943092/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.112Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 575,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "front_length": "20.0",
+                "size_list": "XS",
+                "to_fit_bust": "32.0",
+                "to_fit_waist": "26.0"
+            },
+            {
+                "front_length": "20.25",
+                "size_list": "S",
+                "to_fit_bust": "34.0",
+                "to_fit_waist": "28.0"
+            },
+            {
+                "front_length": "20.5",
+                "size_list": "M",
+                "to_fit_bust": "36.0",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "front_length": "21.0",
+                "size_list": "L",
+                "to_fit_bust": "39.0",
+                "to_fit_waist": "33.0"
+            },
+            {
+                "front_length": "21.5",
+                "size_list": "XL",
+                "to_fit_bust": "42.0",
+                "to_fit_waist": "36.0"
+            }
+        ],
+        "size_list": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 7,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Trousers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "White",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/26279924/2023/12/6/455c2887-7f31-4771-a30f-d7b03ff0b6901701871649391FabindiaMenWhiteStraightFitTrousers1.jpg",
+            "http://assets.myntassets.com/assets/images/26279924/2023/12/6/3f108999-b04d-48f0-b26e-a0db0882cc8b1701871649370FabindiaMenWhiteStraightFitTrousers2.jpg",
+            "http://assets.myntassets.com/assets/images/26279924/2023/12/6/de9a9a70-5e98-4983-9b4d-e4b91bc6c0f81701871649357FabindiaMenWhiteStraightFitTrousers3.jpg",
+            "http://assets.myntassets.com/assets/images/26279924/2023/12/6/f6a1a473-444f-4e7f-8998-443c1c0241e21701871649363FabindiaMenWhiteStraightFitTrousers4.jpg",
+            "http://assets.myntassets.com/assets/images/26279924/2023/12/6/2c23f638-df3f-4631-8228-641b990d74f11701871649377FabindiaMenWhiteStraightFitTrousers5.jpg",
+            "http://assets.myntassets.com/assets/images/26279924/2023/12/6/77d150ef-2db9-4a51-beb6-9e2b88024b231701871649383FabindiaMenWhiteStraightFitTrousers6.jpg",
+            "http://assets.myntassets.com/assets/images/26279924/2023/12/6/0fb14e14-79b2-4916-8fd4-959e9b26a9e01701871649349FabindiaMenWhiteStraightFitTrousers7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 2,
+            "3": 1,
+            "5": 2
+        },
+        "mrp": 2299,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "Fit: Straight Fit",
+                "The model (height 6') is wearing a size 32"
+            ],
+            "text": [
+                "White woven regular trousersStraight fitMid-riseLength: regularPattern: solid4 pockets"
+            ]
+        },
+        "product_id": 26279924,
+        "product_name": "Fabindia Men Straight Fit Mid-Rise Cotton Regular Trousers",
+        "product_rating": 3,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "To-Fit Denotes Body Measurements in",
+            "brand_fit_name": "NA",
+            "character": "NA",
+            "closure": "Hook and Bar",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "features": "Plain",
+            "fit": "Straight Fit",
+            "fly_type": "Zip",
+            "length": "Regular",
+            "multipack_set": "NA",
+            "number_of_items": "1",
+            "number_of_pockets": "4",
+            "occasions": "Casual",
+            "patterns": "Solid",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Regular Trousers",
+            "type_of_pleat": "Flat-Front",
+            "waist_rise": "Mid-Rise",
+            "wash_care": "Machine Wash",
+            "weave_type": "Woven"
+        },
+        "product_url": "https://www.myntra.com/trousers/fabindia/fabindia-men-straight-fit-mid-rise-cotton-regular-trousers/26279924/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.121Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 2299,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "inseam_length": "32.0",
+                "outseam_length": "36.0",
+                "size_list": "30",
+                "to_fit_hip": "37.0",
+                "to_fit_waist": "30.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "outseam_length": "36.0",
+                "size_list": "32",
+                "to_fit_hip": "39.0",
+                "to_fit_waist": "32.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "outseam_length": "36.0",
+                "size_list": "34",
+                "to_fit_hip": "41.0",
+                "to_fit_waist": "34.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "outseam_length": "36.0",
+                "size_list": "36",
+                "to_fit_hip": "43.0",
+                "to_fit_waist": "36.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "outseam_length": "36.0",
+                "size_list": "38",
+                "to_fit_hip": "45.0",
+                "to_fit_waist": "38.0"
+            },
+            {
+                "inseam_length": "32.0",
+                "outseam_length": "36.0",
+                "size_list": "40",
+                "to_fit_hip": "47.0",
+                "to_fit_waist": "40.0"
+            }
+        ],
+        "size_list": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 5,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "3-6M",
+            "6-12M",
+            "12-18M",
+            "18-24M"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Kurtas",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Green",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/MAY/23/f3NuQiXg_83918281f5e646859bb62160b54c59e3.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/23/duVNSNFO_eb79ab6c8a424a4ab4fbdb97e809bcfd.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/23/v44EiIzL_8b9ca11ad0434cc69f849fc652599460.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/23/fIpIaa4N_8f10dbc850db40a6b550fa0313c34808.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/23/pH8JRr5g_a929117eb6d54dec80e076965c94e931.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/23/nolp7h56_a9774f99636f4b75b5377edaa70e02b1.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 599,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Hand Wash"
+            ],
+            "text": [
+                "Green Yellow Straight Boys kurta for Boys",
+                "Striped Striped",
+                "Band Collar",
+                "Long sleeves",
+                "Straight shape",
+                "Straight hemline",
+                "Weave Type - Knitted"
+            ]
+        },
+        "product_id": 34388635,
+        "product_name": "Fabindia Boys Striped Festive Cotton Straight Kurtas",
+        "product_rating": 0,
+        "product_specifications": {
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "colour_family": "Earthy",
+            "design_styling": "Regular",
+            "fabric_purity": "Pure",
+            "fabrics": "Cotton",
+            "hemline": "Straight",
+            "length": "Above Knee",
+            "neck": "Band Collar",
+            "net_quantity": "1",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Festive",
+            "ornamentation": "NA",
+            "package_contains": "Kurtas",
+            "patterns": "Striped",
+            "print_or_pattern_types": "Striped",
+            "shape": "Straight",
+            "sleeve_length": "Long Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "slit_detail": "Side Slits",
+            "stitch": "Ready to Wear",
+            "sustainable": "Regular",
+            "technique": "NA",
+            "theme": "NA",
+            "wash_care": "Hand Wash",
+            "weave_pattern": "Regular",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/kurtas/fabindia/fabindia-boys-striped-festive-cotton-straight-kurtas/34388635/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.122Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 599,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "8.0",
+                "chest": "21.0",
+                "front_length": "14.0",
+                "hips": "19.5",
+                "size_list": "3-6M",
+                "waist": "18.0"
+            },
+            {
+                "across_shoulder": "8.5",
+                "chest": "22.0",
+                "front_length": "15.0",
+                "hips": "20.0",
+                "size_list": "6-12M",
+                "waist": "18.5"
+            },
+            {
+                "across_shoulder": "9.0",
+                "chest": "23.0",
+                "front_length": "16.0",
+                "hips": "20.5",
+                "size_list": "12-18M",
+                "waist": "19.0"
+            },
+            {
+                "across_shoulder": "9.5",
+                "chest": "24.0",
+                "front_length": "17.0",
+                "hips": "21.5",
+                "size_list": "18-24M",
+                "waist": "20.0"
+            }
+        ],
+        "size_list": [
+            "3-6M",
+            "6-12M",
+            "12-18M",
+            "18-24M"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Runners",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Beige",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/21633436/2023/1/20/4cc38a90-e0b6-4599-a163-787b1177b94a1674197728920FabindiaSamaraCottonWovenTableRunner1.jpg",
+            "http://assets.myntassets.com/assets/images/21633436/2023/1/20/cd077004-778b-4655-bd0f-a87b014c7e231674197728874FabindiaSamaraCottonWovenTableRunner2.jpg",
+            "http://assets.myntassets.com/assets/images/21633436/2023/1/20/3f6c8c0a-f599-479d-9f09-23d618bc3c331674197728890FabindiaSamaraCottonWovenTableRunner3.jpg",
+            "http://assets.myntassets.com/assets/images/21633436/2023/1/20/8ea3ad4e-da14-4d55-8d86-147fff45e7301674197728905FabindiaSamaraCottonWovenTableRunner4.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "2": 1,
+            "4": 2,
+            "5": 10
+        },
+        "mrp": 699,
+        "product_details": {
+            "features:": "DurableAnti-Skid",
+            "material_&_care": [
+                "Pure cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "Dimensions: 1.8 m x 32.5 cm (Length x Width)"
+            ],
+            "text": "Set content: One Runner\nType: Table\nColour: Beige and Mustard Yellow \nFabric: 100% Cotton\nShape: Rectangular\nPattern: Solid"
+        },
+        "product_id": 21633436,
+        "product_name": "Fabindia Samara Beige & Mustard Yellow Woven Pure Cotton Table Runner",
+        "product_rating": 4.6,
+        "product_specifications": {
+            "materials": "Pure Cotton",
+            "multipack_set": "Single",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Table"
+        },
+        "product_url": "https://www.myntra.com/runners/fabindia/fabindia-samara-beige--mustard-yellow-woven-pure-cotton-table-runner/21633436/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.136Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 699,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 13,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "3-6M",
+            "6-12M",
+            "12-18M",
+            "18-24M"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Girls",
+            "l3": "Kurta Sets",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Pink",
+        "discount": "55",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/21235244/2022/12/17/68363c66-bb5a-4c38-a76a-037420a6b6b01671290455183FabindiaPinkCottonPrintedSalwarSet1.jpg",
+            "http://assets.myntassets.com/assets/images/21235244/2022/12/17/f2a54fbf-b350-492c-9ba2-b4d978ba4c0a1671290455159FabindiaPinkCottonPrintedSalwarSet2.jpg",
+            "http://assets.myntassets.com/assets/images/21235244/2022/12/17/a4264401-78e7-48fa-8b7c-e8362175ec2b1671290455171FabindiaPinkCottonPrintedSalwarSet3.jpg",
+            "http://assets.myntassets.com/assets/images/21235244/2022/12/17/6a45f578-b54c-4588-8692-f7e2ffd43e391671290455134FabindiaPinkCottonPrintedSalwarSet4.jpg",
+            "http://assets.myntassets.com/assets/images/21235244/2022/12/17/4c95b67e-64b8-4025-893f-7e2be573491b1671290455146FabindiaPinkCottonPrintedSalwarSet5.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 1599,
+        "product_details": {
+            "kurta_design:": [
+                "Floral printed",
+                "Anarkali shape",
+                "Regular style",
+                "Round neck, short puffed sleeves",
+                "Knee length with flared hem",
+                "Pure cotton knitted and woven fabric"
+            ],
+            "material_&_care": [
+                "Kurta material: Pure cotton",
+                "Salwar material: Pure cotton",
+                "Machine wash"
+            ],
+            "salwar_design:": [
+                "Solid Salwar",
+                "Elasticated waistband",
+                "Slip-on closure"
+            ],
+            "text": "Printed Kurta with Salwar"
+        },
+        "product_id": 21235244,
+        "product_name": "Fabindia Girls Floral Printed Pure Cotton Kurta with Salwar",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "bottom_closure": "Slip-On",
+            "bottom_fabric": "Pure Cotton",
+            "bottom_pattern": "Solid",
+            "bottom_type": "Salwar",
+            "character": "NA",
+            "dupatta": "NA",
+            "dupatta_border": "NA",
+            "dupatta_fabric": "NA",
+            "dupatta_pattern": "NA",
+            "neck": "Round Neck",
+            "number_of_pockets": "NA",
+            "occasions": "Festive",
+            "ornamentation": "NA",
+            "pattern_coverage": "Large",
+            "print_or_pattern_types": "Floral",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Puffed Sleeves",
+            "slit_detail": "NA",
+            "stitch": "Ready to Wear",
+            "sustainable": "Regular",
+            "technique": "Block Print",
+            "top_design_styling": "Regular",
+            "top_fabric": "Pure Cotton",
+            "top_hemline": "Flared",
+            "top_length": "Knee Length",
+            "top_pattern": "Printed",
+            "top_shape": "Anarkali",
+            "top_type": "Kurta",
+            "waistband": "Elasticated",
+            "wash_care": "Machine Wash",
+            "weave_pattern": "Regular",
+            "weave_type": "Knitted and Woven"
+        },
+        "product_url": "https://www.myntra.com/kurta-sets/fabindia/fabindia-girls-floral-printed-pure-cotton-kurta-with-salwar/21235244/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.167Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 719,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "8.0",
+                "chest": "18.5",
+                "front_length": "13.0",
+                "hips": "19.5",
+                "outseam_length": "16.2",
+                "size_list": "3-6M",
+                "to_fit_waist": "18.0",
+                "waist": "18.0"
+            },
+            {
+                "across_shoulder": "8.5",
+                "chest": "19.0",
+                "front_length": "13.0",
+                "hips": "20.0",
+                "outseam_length": "16.2",
+                "size_list": "6-12M",
+                "to_fit_waist": "18.5",
+                "waist": "18.5"
+            },
+            {
+                "across_shoulder": "9.0",
+                "chest": "19.5",
+                "front_length": "14.0",
+                "hips": "20.5",
+                "outseam_length": "16.2",
+                "size_list": "12-18M",
+                "to_fit_waist": "19.0",
+                "waist": "19.0"
+            },
+            {
+                "across_shoulder": "9.5",
+                "chest": "20.5",
+                "front_length": "15.0",
+                "hips": "21.5",
+                "outseam_length": "16.2",
+                "size_list": "18-24M",
+                "to_fit_waist": "20.0",
+                "waist": "20.0"
+            }
+        ],
+        "size_list": [
+            "3-6M",
+            "6-12M",
+            "12-18M",
+            "18-24M"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Runners",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Maroon",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/23269296/2023/5/18/bacc0ad7-beea-4c66-8015-1d88983680e71684413420592FabindiaMaroonAvikarCottonRunner-Small1.jpg",
+            "http://assets.myntassets.com/assets/images/23269296/2023/5/18/6614aed8-575a-460d-b668-d6751afe35ed1684413420578FabindiaMaroonAvikarCottonRunner-Small2.jpg",
+            "http://assets.myntassets.com/assets/images/23269296/2023/5/18/a582b1c3-235f-428d-8976-3668efc0c4b81684413420607FabindiaMaroonAvikarCottonRunner-Small3.jpg",
+            "http://assets.myntassets.com/assets/images/23269296/2023/5/18/56592cce-b5c6-45e5-91f3-8341e4d0d4cf1684413420623FabindiaMaroonAvikarCottonRunner-Small4.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "3": 2,
+            "4": 1,
+            "5": 8
+        },
+        "mrp": 499,
+        "product_details": {
+            "features:": [
+                "Shape: Rectangular",
+                "Set Content: 1 Table runner"
+            ],
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "product_design": [
+                "Print/Pattern: Striped",
+                "Color: Maroon & blue",
+                "Fabric: Cotton"
+            ],
+            "size_&_fit": [
+                "Dimensions: 32.5cm x 1.13m (Length x Width)"
+            ]
+        },
+        "product_id": 23269296,
+        "product_name": "Fabindia Avikar Maroon & Blue Woven Cotton Small Table  Runner",
+        "product_rating": 4.5,
+        "product_specifications": {
+            "materials": "Pure Cotton",
+            "multipack_set": "Single",
+            "print_or_pattern_types": "Striped",
+            "sustainable": "Regular",
+            "type": "Table"
+        },
+        "product_url": "https://www.myntra.com/runners/fabindia/fabindia-avikar-maroon--blue-woven-cotton-small-table--runner/23269296/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.184Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 499,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 11,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "12\"X12\""
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Cushion Covers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Blue",
+        "discount": "35",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/29624842/2024/5/17/9c3db17d-9474-435e-a61c-a294bf5f9b151715950068571CushionCovers1.jpg",
+            "http://assets.myntassets.com/assets/images/29624842/2024/5/17/2f5a6661-6a34-4ef5-a199-f6301a3801481715950068647CushionCovers2.jpg",
+            "http://assets.myntassets.com/assets/images/29624842/2024/5/17/6fbfb154-5f16-4f56-978e-88fe060859cf1715950068596CushionCovers3.jpg",
+            "http://assets.myntassets.com/assets/images/29624842/2024/5/17/be945a00-0aa1-43f6-affb-b6d1c854621f1715950068623CushionCovers4.jpg",
+            "http://assets.myntassets.com/assets/images/29624842/2024/5/17/17bc2a1c-1682-4867-b4ad-bc0b6c9ed5081715950068549CushionCovers5.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 1299,
+        "product_details": {
+            "": "",
+            "material_&_care": [
+                "Cotton",
+                "Dry Clean"
+            ],
+            "size_&_fit": [
+                "Dimensions: 30 cm x 30 cm (length x width)"
+            ],
+            "text": "Set content: Cushion Cover\nShape: Square\nPattern: Ethnic Motifs\nClosure: Slip-On\nMaterial: Cotton"
+        },
+        "product_id": 29624842,
+        "product_name": "Fabindia Blue & Red Ethnic Motifs Cotton Square Cushion Covers",
+        "product_rating": 0,
+        "product_specifications": {
+            "closure": "Slip-On",
+            "fabrics": "Cotton",
+            "multipack_set": "Single",
+            "ornamentation": "NA",
+            "print_or_pattern_types": "Ethnic Motifs",
+            "product_trends": "Ethnic Motifs",
+            "shape": "Square",
+            "sustainable": "Regular",
+            "wash_care": "Dry Clean"
+        },
+        "product_url": "https://www.myntra.com/cushion-covers/fabindia/fabindia-blue--red-ethnic-motifs-cotton-square-cushion-covers/29624842/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.190Z",
+        "seller_info": {
+            "displayname": "Sane Retails Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Shop No. 103-104, DLF AvenueSaket, New DelhiNew delhi , DELHI - 110017",
+                "city": "New delhi",
+                "country": "India",
+                "pincode": "110017",
+                "state": "DELHI"
+            },
+            "sellername": "Truecom Retail",
+            "sellerpartnerid": 4028
+        },
+        "selling_price": 844,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "12\"X12\""
+            }
+        ],
+        "size_list": [
+            "12\"X12\""
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "Onesize"
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Runners",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Red",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/30784961/2024/12/20/08d472c0-62c1-4edb-8715-c8d26b2200a91734688532097-Fabindia-Zeeya-Red--Green-Pure-Cotton-Table-Runner-981173468-1.jpg",
+            "http://assets.myntassets.com/assets/images/30784961/2024/12/20/54c81826-c9a2-4780-89d4-10e74d5bd84e1734688532062-Fabindia-Zeeya-Red--Green-Pure-Cotton-Table-Runner-981173468-2.jpg",
+            "http://assets.myntassets.com/assets/images/30784961/2024/12/20/b47b32a0-93d6-45b3-a5d6-c2e697351ab71734688532031-Fabindia-Zeeya-Red--Green-Pure-Cotton-Table-Runner-981173468-3.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 699,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "Dimensions: 1.8 m x 32.5 cm (Length x Width )"
+            ],
+            "text": [
+                "Set Content: 1 Table Runner",
+                "Print/Pattern: Solid",
+                "Color: Red, green",
+                "Type: Table",
+                "Fabric: Pure Cotton"
+            ]
+        },
+        "product_id": 30784961,
+        "product_name": "Fabindia Zeeya Red & Green Pure Cotton Table Runner",
+        "product_rating": 0,
+        "product_specifications": {
+            "materials": "Pure Cotton",
+            "multipack_set": "Single",
+            "print_or_pattern_types": "Solid",
+            "sustainable": "Regular",
+            "type": "Table"
+        },
+        "product_url": "https://www.myntra.com/runners/fabindia/fabindia-zeeya-red--green-pure-cotton-table-runner/30784961/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.512Z",
+        "seller_info": {
+            "displayname": "FABINDIA LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "FABINDIA LIMITED (Formerly known as Fabindia Overseas Pvt Ltd), Plot No. 10,Local Shopping Complex, Sector B, Pocket- 7, Vasant KunjDelhi , DELHI - 110070",
+                "city": "Delhi",
+                "country": "India",
+                "pincode": "110070",
+                "state": "DELHI"
+            },
+            "sellername": "FABINDIA LIMITED",
+            "sellerpartnerid": 10438
+        },
+        "selling_price": 699,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "Onesize",
+                "volumetric_weight": "0.5"
+            }
+        ],
+        "size_list": [
+            "Onesize"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "available_sizes": [
+            "16\"X16\""
+        ],
+        "brand": "Fabindia",
+        "category": {
+            "l1": "Home",
+            "l2": "Unisex",
+            "l3": "Cushion Covers",
+            "l4": "Fabindia",
+            "l5": "More by Fabindia"
+        },
+        "color_list": [],
+        "colour": "Black",
+        "discount": "35",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/20812632/2022/11/18/fa16ff35-cdcf-4b54-bdad-f992dafc3a091668785351367FabindiaBlackBlueEmbroideredSquareCushionCovers1.jpg",
+            "http://assets.myntassets.com/assets/images/20812632/2022/11/18/9eb212b1-291d-42f4-9b81-04bee35c82741668785351328FabindiaBlackBlueEmbroideredSquareCushionCovers2.jpg",
+            "http://assets.myntassets.com/assets/images/20812632/2022/11/18/cd042efd-ecda-42ed-83e8-48f7375496011668785351377FabindiaBlackBlueEmbroideredSquareCushionCovers3.jpg",
+            "http://assets.myntassets.com/assets/images/20812632/2022/11/18/2b900f58-2af4-4a67-9dfe-b39293d5f6921668785351341FabindiaBlackBlueEmbroideredSquareCushionCovers4.jpg",
+            "http://assets.myntassets.com/assets/images/20812632/2022/11/18/3beaba72-7ab4-42f1-bff9-b0e6bae6b42f1668785351353FabindiaBlackBlueEmbroideredSquareCushionCovers5.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 1,
+            "4": 1,
+            "5": 5
+        },
+        "mrp": 599,
+        "product_details": {
+            "fabric_story:": "From the time it was first cultivated many centuries ago, cotton has been held in high regard for its excellent breathability and lightweight nature. It is also incredibly durable and easier to wash. Highly water-absorbent, it holds dye very easily and drapes beautifully.",
+            "material_&_care": [
+                "Cotton",
+                "Gentle Hand Wash."
+            ],
+            "size_&_fit": [
+                "Dimensions: (height 40.6 x 40.6  width in cms )"
+            ],
+            "trend_alert:": "The crisp and ultra modern curves and angles of a geometric pattern is sure to bring a comfortably bourgeois appeal to your home. These patterns are sure to highlight the desire and prestige of a luxurious living.",
+            "wash_care:": "Hand wash is recommended. Wash different colours separately using mild detergent. Also, follow the fabric care label."
+        },
+        "product_id": 20812632,
+        "product_name": "Fabindia Black & Blue Geometric Cotton Square Cushion Covers",
+        "product_rating": 4.3,
+        "product_specifications": {
+            "closure": "Slip-On",
+            "fabrics": "Cotton",
+            "multipack_set": "Single",
+            "ornamentation": "NA",
+            "print_or_pattern_types": "Ethnic Motifs",
+            "product_trends": "Ethnic Motifs",
+            "shape": "Square",
+            "sustainable": "Regular",
+            "wash_care": "Hand Wash"
+        },
+        "product_url": "https://www.myntra.com/cushion-covers/fabindia/fabindia-black--blue-geometric-cotton-square-cushion-covers/20812632/buy",
+        "reviews": "N/A",
+        "scrap_date_and_time": "2025-06-26T12:09:40.678Z",
+        "seller_info": {
+            "displayname": "Sane Retails Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Shop No. 103-104, DLF AvenueSaket, New DelhiNew delhi , DELHI - 110017",
+                "city": "New delhi",
+                "country": "India",
+                "pincode": "110017",
+                "state": "DELHI"
+            },
+            "sellername": "Truecom Retail",
+            "sellerpartnerid": 4028
+        },
+        "selling_price": 389,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "size_list": "16\"X16\""
+            }
+        ],
+        "size_list": [
+            "16\"X16\""
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 7,
+        "variant_level": "N/A"
+    }
+]

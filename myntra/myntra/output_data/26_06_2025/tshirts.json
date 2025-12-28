@@ -1,0 +1,4272 @@
+[
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Hektor",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Hektor",
+            "l5": "More by Hektor"
+        },
+        "color_list": [
+            "Black",
+            "Blue",
+            "Beige",
+            "Navy Blue",
+            "Grey"
+        ],
+        "colour": "Brown",
+        "discount": "2",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/MAY/13/tCB5dD7K_5f3e7321f78641a1a7d8d032c4a6cc31.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/13/XTrEOLKp_77014fa04e6d4707b30f9f316915e8b3.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/13/aff9nLQo_cf25f32187f24ddeba0208b32faf0101.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/13/OzJHvOEz_9c07135a94694d48996014444d866fb8.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/13/3GrBZWZF_7b334441069d49a88ad71a64167371aa.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MAY/13/TmF1KUcv_9c3900f429914754a991095e4ab36ac4.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 1990,
+        "product_details": {
+            "material_&_care": [
+                "85% Polyamide 15% Spandex",
+                "Hand Wash"
+            ],
+            "size_&_fit": [
+                "Regular Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Brown t-shirt for men",
+                "Self design",
+                "Regular length",
+                "Polo collar",
+                "Short sleeves",
+                "Knitted",
+                "Button closure"
+            ]
+        },
+        "product_id": 34160760,
+        "product_name": "Hektor Men Self Design Polo Collar T-shirt",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Nylon, Elastane",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "net_quantity": "1",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 T-Shirt",
+            "pattern_coverage": "All-Over",
+            "patterns": "Self Design",
+            "players": "NA",
+            "print_or_pattern_types": "Self Design",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "stitch": "Ready to Wear",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "theme": "NA",
+            "wash_care": "Hand Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/hektor/hektor-men-self-design-polo-collar-t-shirt/34160760/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.073Z",
+        "seller_info": {
+            "displayname": "GINZA INDUSTRIES LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Plot No B2/29-30, 2nd Floor,Rd No 9, Hojiwala Ind Area,SUSML.Dandi Road, Vanz Gaon Surat,Gujarat-394230Surat , Gujarat - 394230",
+                "city": "Surat",
+                "country": "India",
+                "pincode": "394230",
+                "state": "Gujarat"
+            },
+            "sellername": "GINZA INDUSTRIES LIMITED",
+            "sellerpartnerid": 11454
+        },
+        "selling_price": 1950,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "chest": "38.0",
+                "front_length": "26.0",
+                "size_list": "S"
+            },
+            {
+                "chest": "40.0",
+                "front_length": "27.0",
+                "size_list": "M"
+            },
+            {
+                "chest": "42.0",
+                "front_length": "28.0",
+                "size_list": "L"
+            },
+            {
+                "chest": "45.0",
+                "front_length": "29.0",
+                "size_list": "XL"
+            },
+            {
+                "chest": "48.0",
+                "front_length": "30.0",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": [
+            {
+                "colour": "Black",
+                "image": "http://assets.myntassets.com/assets/images/2025/MAY/13/ZmiqKrm9_b5f7ef5e26c44244a4de764a647fec8c.jpg",
+                "styleId": 34160758,
+                "url": "https://www.myntra.com/Tshirts/Hektor/Hektor-Men-Solid-Polo-Collar-T-shirt/34160758/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/2025/MAY/13/rQoky4Xe_43b0ce0d20d94c0aba090b39d1dafa87.jpg",
+                "styleId": 34160759,
+                "url": "https://www.myntra.com/Tshirts/Hektor/Hektor-Men-Self-Design-Polo-Collar-T-shirt/34160759/buy"
+            },
+            {
+                "colour": "Beige",
+                "image": "http://assets.myntassets.com/assets/images/2025/MAY/13/xKP8G7u0_05db9dc17f4947a3aebfaf4389460e11.jpg",
+                "styleId": 34160761,
+                "url": "https://www.myntra.com/Tshirts/Hektor/Hektor-Men-Self-Design-Polo-Collar-T-shirt/34160761/buy"
+            },
+            {
+                "colour": "Navy Blue",
+                "image": "http://assets.myntassets.com/assets/images/2025/MAY/13/mg58qKse_d40a50d922f744f7ada76e4ae7e6dea9.jpg",
+                "styleId": 34160762,
+                "url": "https://www.myntra.com/Tshirts/Hektor/Hektor-Men-Self-Design-Polo-Collar-T-shirt/34160762/buy"
+            },
+            {
+                "colour": "Grey",
+                "image": "http://assets.myntassets.com/assets/images/2025/MAY/13/vUxqRbBe_82f96ed6f5424180af2fcea36961797d.jpg",
+                "styleId": 34160763,
+                "url": "https://www.myntra.com/Tshirts/Hektor/Hektor-Men-Self-Design-Polo-Collar-T-shirt/34160763/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "2-3Y",
+            "3-4Y",
+            "4-5Y",
+            "5-6Y"
+        ],
+        "brand": "Marks & Spencer",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "Marks & Spencer",
+            "l5": "More by Marks & Spencer"
+        },
+        "color_list": [],
+        "colour": "Green",
+        "discount": "41",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/2/Vb38eCWp_31ca59c40d7e4906a1ab09b8d72463f5.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/2/EWJDmT1L_230e8a569949453ebbfcdb54f4839a39.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/2/sYm2hU6j_c39a6f6a700343cdb63bbb69006a3713.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/2/5X2uDEyS_36a75d71418e4abf91c2a46bd47a547b.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "3": 1,
+            "5": 7
+        },
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "NA"
+            ],
+            "text": [
+                "Green t-shirt for boys",
+                "Graphic",
+                "Longline length",
+                "Round neck",
+                "Long sleeves",
+                "Knitted"
+            ]
+        },
+        "product_id": 30824567,
+        "product_name": "Marks & Spencer Boys Graphic Printed Round Neck Cotton T-shirt",
+        "product_rating": 4.8,
+        "product_specifications": {
+            "add_ons": "NA",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "Graphic Print Others",
+            "fit": "Regular Fit",
+            "length": "Longline",
+            "multipack_set": "Single",
+            "neck": "Round Neck",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 T-Shirt",
+            "pattern_coverage": "Placement",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Graphic",
+            "sleeve_length": "Long Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/marks+%26+spencer/marks--spencer-boys-graphic-printed-round-neck-cotton-t-shirt/30824567/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.203Z",
+        "seller_info": {
+            "displayname": "MARKS AND SPENCER RELIANCE INDIA PRIVATE LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Marks & Spencer Reliance India Pvt LtdInfinity Tower C, Ground FloorGurugram , Haryana - 122002",
+                "city": "Gurugram",
+                "country": "India",
+                "pincode": "122002",
+                "state": "Haryana"
+            },
+            "sellername": "MARKS AND SPENCER RELIANCE INDIA PRIVATE LIMITED",
+            "sellerpartnerid": 13822
+        },
+        "selling_price": 589,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "chest": "23.0",
+                "front_length": "15.5",
+                "size_list": "2-3Y"
+            },
+            {
+                "chest": "24.0",
+                "front_length": "16.5",
+                "size_list": "3-4Y"
+            },
+            {
+                "chest": "25.0",
+                "front_length": "16.5",
+                "size_list": "4-5Y"
+            },
+            {
+                "chest": "26.0",
+                "front_length": "16.5",
+                "size_list": "5-6Y"
+            },
+            {
+                "chest": "27.0",
+                "front_length": "17.5",
+                "size_list": "6-7Y"
+            },
+            {
+                "chest": "28.0",
+                "front_length": "17.5",
+                "size_list": "7-8Y"
+            }
+        ],
+        "size_list": [
+            "2-3Y",
+            "3-4Y",
+            "4-5Y",
+            "5-6Y",
+            "6-7Y",
+            "7-8Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 8,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "18-24M",
+            "2-4Y",
+            "4-6Y",
+            "6-8Y"
+        ],
+        "brand": "H&M",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Girls",
+            "l3": "Tshirts",
+            "l4": "H&M",
+            "l5": "More by H&M"
+        },
+        "color_list": [
+            "Orange / Red",
+            "White / Blue",
+            "Purple",
+            "Yellow / Blue",
+            "Pink / Green",
+            "Red",
+            "White / Red",
+            "Pink"
+        ],
+        "colour": "Turquoise Blue",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/W8glbLsJ_0dac8a56bcb44218a7a2171a5a7fa8c9.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/c3djS7Q5_3c34253bc1f243f5866c06993e416aed.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/Jkp66pJ3_efc2a6c600c74a77bae65289d62ccacc.jpg",
+            "http://assets.myntassets.com/assets/images/2025/APRIL/16/uraQGfID_09b9205d1c9c4156b30f8449a0ede3ac.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 2,
+            "2": 2,
+            "3": 12,
+            "4": 24,
+            "5": 110
+        },
+        "mrp": 399,
+        "product_details": {
+            "material_&_care": [
+                "100% Cotton",
+                "Machine wash"
+            ],
+            "size_&_fit": [
+                "-"
+            ],
+            "text": [
+                "Short-sleeved top in soft, printed cotton jersey."
+            ]
+        },
+        "product_id": 33638198,
+        "product_name": "H&M Printed Jersey Top",
+        "product_rating": 4.6,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Round Neck",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "pattern_coverage": "Chest",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Graphic",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "stitch": "Ready to Wear",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "theme": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/h%26m/hm-printed-jersey-top/33638198/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.258Z",
+        "seller_info": {
+            "displayname": "H & M Hennes & Mauritz Retail Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Prakhhyat Infraprojects PVT. LTD., BUILDING 6, K-Square Logistics Park C/O LF LogisticsNear Padgha Toll Naka on MUMBAI-NASIKThane , Maharashtra - 421101",
+                "city": "Thane",
+                "country": "India",
+                "pincode": "421101",
+                "state": "Maharashtra"
+            },
+            "sellername": "H & M Hennes & Mauritz Retail Private Limited",
+            "sellerpartnerid": 6771
+        },
+        "selling_price": 399,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "chest": "20.88",
+                "size_list": "18-24M"
+            },
+            {
+                "chest": "22.0",
+                "size_list": "2-4Y"
+            },
+            {
+                "chest": "23.75",
+                "size_list": "4-6Y"
+            },
+            {
+                "chest": "25.75",
+                "size_list": "6-8Y"
+            },
+            {
+                "chest": "27.75",
+                "size_list": "8-10Y"
+            }
+        ],
+        "size_list": [
+            "18-24M",
+            "2-4Y",
+            "4-6Y",
+            "6-8Y",
+            "8-10Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 150,
+        "variant_level": [
+            {
+                "colour": "Orange / Red",
+                "image": "http://assets.myntassets.com/assets/images/2025/FEBRUARY/7/QHHPskia_485c528920354debbd02bc93205761ec.jpg",
+                "styleId": 32690473,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/32690473/buy"
+            },
+            {
+                "colour": "White / Blue",
+                "image": "http://assets.myntassets.com/assets/images/2025/FEBRUARY/7/kWxoiqT1_f5e74869bea749ec822403fd84b0e356.jpg",
+                "styleId": 32690483,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/32690483/buy"
+            },
+            {
+                "colour": "Purple",
+                "image": "http://assets.myntassets.com/assets/images/2025/FEBRUARY/17/0ie9qKNk_8a9d7949c68245efa023861c0ec0d3e4.jpg",
+                "styleId": 32825921,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/32825921/buy"
+            },
+            {
+                "colour": "Yellow / Blue",
+                "image": "http://assets.myntassets.com/assets/images/2025/FEBRUARY/17/fYs5L3X1_6da7aa93c47d40bea6c2a9042ec5af5c.jpg",
+                "styleId": 32825928,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/32825928/buy"
+            },
+            {
+                "colour": "Pink / Green",
+                "image": "http://assets.myntassets.com/assets/images/2025/MARCH/13/VTcJqzS5_6f24fd74eae34ad9814b0b1f78939ae4.jpg",
+                "styleId": 33191476,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/33191476/buy"
+            },
+            {
+                "colour": "Red",
+                "image": "http://assets.myntassets.com/assets/images/2025/MARCH/13/h9PqJHtk_564f30f3db7043aba158cf05f818a4de.jpg",
+                "styleId": 33191523,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/33191523/buy"
+            },
+            {
+                "colour": "White / Red",
+                "image": "http://assets.myntassets.com/assets/images/2025/MARCH/21/mUa8SPSv_94bfb808ad4648d78eb1dbbaf1d2c8e6.jpg",
+                "styleId": 33284810,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/33284810/buy"
+            },
+            {
+                "colour": "Pink",
+                "image": "http://assets.myntassets.com/assets/images/2025/APRIL/16/gF5RehS8_0cf9395062914d7bb96a9d8b9f4fb62b.jpg",
+                "styleId": 33638196,
+                "url": "https://www.myntra.com/Tshirts/H%26M/HM-Printed-Jersey-Top/33638196/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "6-7Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y"
+        ],
+        "brand": "Marks & Spencer",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Unisex Kids",
+            "l3": "Tshirts",
+            "l4": "Marks & Spencer",
+            "l5": "More by Marks & Spencer"
+        },
+        "color_list": [],
+        "colour": "White",
+        "discount": "34",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/32109197/2024/12/27/c832fab7-0dd6-4670-9e60-2d8175d0d4a41735295439864MarksSpencerKidsV-NeckRawEdgeT-shirt1.jpg",
+            "http://assets.myntassets.com/assets/images/32109197/2024/12/27/3bc739c4-a589-4ddd-b453-74ba4e2192a61735295439793MarksSpencerKidsV-NeckRawEdgeT-shirt2.jpg",
+            "http://assets.myntassets.com/assets/images/32109197/2024/12/27/aef65bcf-4764-4d9d-a621-b081b2dc83341735295439827MarksSpencerKidsV-NeckRawEdgeT-shirt3.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "text": [
+                "White &amp; Blue t-shirt for unisex kids",
+                "Graphic",
+                "Longline length",
+                "Round neck",
+                "Short, Drop-shoulder sleeves",
+                "Knitted"
+            ]
+        },
+        "product_id": 32109197,
+        "product_name": "Marks & Spencer Unisex Kids Graphic Printed Round Neck Cotton T-shirt",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "Graphic Print Others",
+            "fit": "Regular Fit",
+            "length": "Longline",
+            "multipack_set": "Single",
+            "neck": "Round Neck",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 T-Shirt",
+            "pattern_coverage": "Full-Front",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Graphic",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Drop-Shoulder Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/marks+%26+spencer/marks--spencer-unisex-kids-graphic-printed-round-neck-cotton-t-shirt/32109197/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.280Z",
+        "seller_info": {
+            "displayname": "Tech Connect Retail Pvt Ltd",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Unit No 2212, 22nd Floor, Magnum Global Park, Tower-2, Golf course extension, Sec- 58Gurgaon , HARYANA - 122011",
+                "city": "Gurgaon",
+                "country": "India",
+                "pincode": "122011",
+                "state": "HARYANA"
+            },
+            "sellername": "RetailNet",
+            "sellerpartnerid": 4076
+        },
+        "selling_price": 659,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "10.0",
+                "chest": "27.0",
+                "front_length": "17.5",
+                "hips": "26.0",
+                "size_list": "6-7Y"
+            },
+            {
+                "across_shoulder": "10.5",
+                "chest": "28.0",
+                "front_length": "17.5",
+                "hips": "27.0",
+                "size_list": "7-8Y"
+            },
+            {
+                "across_shoulder": "11.0",
+                "chest": "29.0",
+                "front_length": "18.5",
+                "hips": "28.0",
+                "size_list": "8-9Y"
+            },
+            {
+                "across_shoulder": "11.5",
+                "chest": "30.0",
+                "front_length": "18.5",
+                "hips": "30.0",
+                "size_list": "9-10Y"
+            },
+            {
+                "across_shoulder": "12.0",
+                "chest": "31.0",
+                "front_length": "19.0",
+                "hips": "30.5",
+                "size_list": "10-11Y"
+            },
+            {
+                "across_shoulder": "12.5",
+                "chest": "32.0",
+                "front_length": "19.0",
+                "hips": "31.5",
+                "size_list": "11-12Y"
+            },
+            {
+                "across_shoulder": "13.0",
+                "chest": "33.0",
+                "front_length": "19.0",
+                "hips": "33.0",
+                "size_list": "12-13Y"
+            },
+            {
+                "across_shoulder": "13.5",
+                "chest": "34.5",
+                "front_length": "19.5",
+                "hips": "34.5",
+                "size_list": "13-14Y"
+            },
+            {
+                "across_shoulder": "14.0",
+                "chest": "35.5",
+                "front_length": "19.5",
+                "hips": "35.5",
+                "size_list": "14-15Y"
+            },
+            {
+                "across_shoulder": "14.5",
+                "chest": "36.5",
+                "front_length": "19.5",
+                "hips": "36.5",
+                "size_list": "15-16Y"
+            }
+        ],
+        "size_list": [
+            "6-7Y",
+            "7-8Y",
+            "8-9Y",
+            "9-10Y",
+            "10-11Y",
+            "11-12Y",
+            "12-13Y",
+            "13-14Y",
+            "14-15Y",
+            "15-16Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Calvin Klein Jeans",
+            "l5": "More by Calvin Klein Jeans"
+        },
+        "color_list": [
+            "Grey",
+            "Blue",
+            "Green",
+            "Black",
+            "Blue",
+            "Blue",
+            "Red"
+        ],
+        "colour": "Purple",
+        "discount": "35",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/33194422/2025/4/19/21cb8432-9694-4d58-b836-4b126e39a7bd1745059914296-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-1.jpg",
+            "http://assets.myntassets.com/assets/images/33194422/2025/4/19/73e4637f-a3b1-40ea-8e88-b9864c1bb09c1745059914274-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-2.jpg",
+            "http://assets.myntassets.com/assets/images/33194422/2025/4/19/65d82927-9a60-466c-8e72-a2a2448264501745059914252-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-3.jpg",
+            "http://assets.myntassets.com/assets/images/33194422/2025/4/19/f3ec7b78-bda1-4462-9cda-98e6b43c1c781745059914230-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-4.jpg",
+            "http://assets.myntassets.com/assets/images/33194422/2025/4/19/ebd5f835-e55a-46bb-b9e8-226de4a669571745059914207-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-5.jpg",
+            "http://assets.myntassets.com/assets/images/33194422/2025/4/19/b4a67d1e-a057-4b29-b29e-74d9c58315ff1745059914187-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-6.jpg",
+            "http://assets.myntassets.com/assets/images/33194422/2025/4/19/b9861036-175b-48de-ab62-300ef3bec8ec1745059914166-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 4999,
+        "product_details": {
+            "material_&_care": [
+                "100% Regenerative Cotton, machine-wash"
+            ],
+            "size_&_fit": [
+                "Regular Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Purple Tshirt for men   Solid   Regular length   Polo collar   Short,  regular sleeves   Knitted cotton fabric   Button closure"
+            ]
+        },
+        "product_id": 33194422,
+        "product_name": "Calvin Klein Jeans Men Polo Collar T-shirt",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "collection_name": "u.s",
+            "fabrics": "Cotton",
+            "fashion_trends": "Knits",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 t-shirt",
+            "pattern_coverage": "NA",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/calvin+klein+jeans/calvin-klein-jeans-men-polo-collar-t-shirt/33194422/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.323Z",
+        "seller_info": {
+            "displayname": "Platinum Fashions",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "1ST FLOOR, NO 50/5, SRI MAHALASA ARCADE, DVG ROAD, BASAVANAGUDI, Bengaluru (Bangalore) UrbanBengaluru , Karnataka - 560004",
+                "city": "Bengaluru",
+                "country": "India",
+                "pincode": "560004",
+                "state": "Karnataka"
+            },
+            "sellername": "Platinum Fashions",
+            "sellerpartnerid": 13922
+        },
+        "selling_price": 3249,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "16.6",
+                "chest": "38.0",
+                "front_length": "27.6",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.1",
+                "chest": "40.0",
+                "front_length": "28.4",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "17.6",
+                "chest": "42.0",
+                "front_length": "29.1",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "18.1",
+                "chest": "44.0",
+                "front_length": "29.9",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "18.7",
+                "chest": "46.0",
+                "front_length": "30.7",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": [
+            {
+                "colour": "Grey",
+                "image": "http://assets.myntassets.com/assets/images/33194389/2025/4/19/c631557e-4b63-4705-be41-1b37ad3b1d941745059240793-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-1.jpg",
+                "styleId": 33194389,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194389/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/33194401/2025/4/19/c93104b4-f522-4d1b-bb0d-91095efe4c251745059355872-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-8391745059355426-1.jpg",
+                "styleId": 33194401,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194401/buy"
+            },
+            {
+                "colour": "Green",
+                "image": "http://assets.myntassets.com/assets/images/33194404/2025/4/19/40a7c637-c94a-442f-95be-f61232abe2d01745059383647-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-7121745059383163-1.jpg",
+                "styleId": 33194404,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194404/buy"
+            },
+            {
+                "colour": "Black",
+                "image": "http://assets.myntassets.com/assets/images/33194405/2025/4/19/3feeb0a1-9645-4b33-a179-bde24f135b3d1745059639692-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9161745059639355-1.jpg",
+                "styleId": 33194405,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194405/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/33194407/2025/4/19/12a19532-26e4-4523-b131-df9a271586cd1745059648445-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-7231745059648093-1.jpg",
+                "styleId": 33194407,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194407/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/33194415/2025/4/19/cc177b02-be86-4702-8f2d-7223956a61d41745059771843-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-7801745059771363-1.jpg",
+                "styleId": 33194415,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194415/buy"
+            },
+            {
+                "colour": "Red",
+                "image": "http://assets.myntassets.com/assets/images/33194418/2025/4/19/b29465ba-fedb-494e-8244-b1fa0f9cfc511745059848394-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-5461745059847975-1.jpg",
+                "styleId": 33194418,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194418/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "max",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Lounge Tshirts",
+            "l4": "max",
+            "l5": "More by max"
+        },
+        "color_list": [
+            "White / Black",
+            "Blue / Purple",
+            "Beige / Maroon",
+            "Black / Grey",
+            "Black / White"
+        ],
+        "colour": "Grey",
+        "discount": "15",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/30250885/2024/7/19/35612fa3-053d-4591-8586-9bf8eec04d1a1721374052934maxPackOf3LoungeT-Shirts1.jpg",
+            "http://assets.myntassets.com/assets/images/30250885/2024/7/19/aa66d489-3ec1-46f7-96e2-95bb52381dbe1721374052989maxPackOf3LoungeT-Shirts2.jpg",
+            "http://assets.myntassets.com/assets/images/30250885/2024/7/19/f7f541af-e824-4304-9b09-039dab960aa21721374052962maxPackOf3LoungeT-Shirts3.jpg",
+            "http://assets.myntassets.com/assets/images/30250885/2024/7/19/2aeb1199-1b11-45df-8940-cdc3d02384da1721374053043maxPackOf3LoungeT-Shirts4.jpg",
+            "http://assets.myntassets.com/assets/images/30250885/2024/7/19/156bb5da-36a0-49cc-ae89-860c461de7661721374052878maxPackOf3LoungeT-Shirts5.jpg",
+            "http://assets.myntassets.com/assets/images/30250885/2024/7/19/94a54a2d-a8de-4138-9a16-06b9d92903b11721374053015maxPackOf3LoungeT-Shirts6.jpg",
+            "http://assets.myntassets.com/assets/images/30250885/2024/7/19/4f334853-6234-4385-bc36-d095cd93ddf61721374052906maxPackOf3LoungeT-Shirts7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 5,
+            "2": 2,
+            "3": 11,
+            "4": 47,
+            "5": 108
+        },
+        "mrp": 749,
+        "product_details": {
+            "material_&_care": [
+                "52% Cotton &amp; 48% Polyester",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Pack of 3 solid lounge T-shirt in black, brown &amp; grey, each has a crew-neck, and short sleeves"
+            ]
+        },
+        "product_id": 30250885,
+        "product_name": "max Men Pack of 2 Solid Cotton T-shirt",
+        "product_rating": 4.5,
+        "product_specifications": {
+            "body_or_garment_size": "Garment Measurements in",
+            "fabrics": "Cotton",
+            "multipack_set": "2",
+            "neck": "Round Neck",
+            "net_quantity_unit": "Pieces",
+            "patterns": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sustainable": "Regular",
+            "type": "Regular",
+            "wash_care": "Machine Wash"
+        },
+        "product_url": "https://www.myntra.com/lounge-tshirts/max/max-men-pack-of-2-solid-cotton-t-shirt/30250885/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.344Z",
+        "seller_info": {
+            "displayname": "Landmark Online India Pvt Ltd",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "#41/2,42/2,Oblapura Gram panchyat,Anugondanahalli HobliDevangundi Main RoadHoskote TalukBengaluru , Karnataka - 560067",
+                "city": "Bengaluru",
+                "country": "India",
+                "pincode": "560067",
+                "state": "Karnataka"
+            },
+            "sellername": "Landmark Online India Pvt Ltd",
+            "sellerpartnerid": 9114
+        },
+        "selling_price": 636,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "15.0",
+                "chest": "34.0",
+                "front_length": "29.0",
+                "size_list": "XS"
+            },
+            {
+                "across_shoulder": "15.8",
+                "chest": "36.0",
+                "front_length": "29.4",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "16.5",
+                "chest": "38.0",
+                "front_length": "30.1",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "17.3",
+                "chest": "40.0",
+                "front_length": "30.5",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "18.0",
+                "chest": "42.0",
+                "front_length": "31.4",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "18.8",
+                "chest": "44.0",
+                "front_length": "31.0",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 173,
+        "variant_level": [
+            {
+                "colour": "White / Black",
+                "image": "http://assets.myntassets.com/assets/images/30250871/2024/7/19/d4be902c-a220-441c-a6e9-bb5cc2f5df9d1721404333029maxPackOf3CottonLoungeT-shirts1.jpg",
+                "styleId": 30250871,
+                "url": "https://www.myntra.com/Lounge-Tshirts/max/Max-Men-Pack-of-3-Solid-T-shirt/30250871/buy"
+            },
+            {
+                "colour": "Blue / Purple",
+                "image": "http://assets.myntassets.com/assets/images/30250877/2024/8/2/49020dea-3cc3-47c8-9342-0bc2e340903f1722591590820-max-Pack-Of-2-Cotton-Lounge-T-shirts-4811722591590211-1.jpg",
+                "styleId": 30250877,
+                "url": "https://www.myntra.com/Lounge-Tshirts/max/max-Men-Pack-of-2-Solid-Cotton-T-shirt/30250877/buy"
+            },
+            {
+                "colour": "Beige / Maroon",
+                "image": "http://assets.myntassets.com/assets/images/30250880/2024/7/18/13d174cf-cd84-4a0f-83dd-d1ba36e776ab1721296336350MenSolidT-shirt-Packof21.jpg",
+                "styleId": 30250880,
+                "url": "https://www.myntra.com/Lounge-Tshirts/max/Max-Men-Pack-of-3-Solid-T-shirt-/30250880/buy"
+            },
+            {
+                "colour": "Black / Grey",
+                "image": "http://assets.myntassets.com/assets/images/30250881/2024/7/18/5f350542-a4b1-43db-b263-01152c236faf1721283543712MenSolidT-shirt-Packof21.jpg",
+                "styleId": 30250881,
+                "url": "https://www.myntra.com/Lounge-Tshirts/max/Max-Pack-Of-2-Men-Solid-T-Shirt/30250881/buy"
+            },
+            {
+                "colour": "Black / White",
+                "image": "http://assets.myntassets.com/assets/images/30250884/2024/7/20/83f52524-520a-4a30-8f07-462ea1f600fa1721459096740-max-Pack-Of-3-Lounge-T-Shirts-2361721459096399-1.jpg",
+                "styleId": 30250884,
+                "url": "https://www.myntra.com/Lounge-Tshirts/max/Max-Pack-of-3-Men-Solid-T-shirt-/30250884/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "6-7Y",
+            "9-10Y",
+            "10-11Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "brand": "RARE ONES",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "RARE ONES",
+            "l5": "More by RARE ONES"
+        },
+        "color_list": [
+            "Peach",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "colour": "Blue",
+        "discount": "20",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/ZhCtCq08_a6189cd3970247019eae6eec337a55d1.jpg",
+            "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/tVDz2RQJ_e3c8ef1a61da48f7898425f8109b0f93.jpg",
+            "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/PlulU0Sa_0450db3121804394afd37bbc4adb58f6.jpg",
+            "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/roZiJVA0_87a8272dee5747c8bd6d3d790acc3db3.jpg",
+            "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/0wDIe0y7_41f80cd8ed894feb8a69e4ef7e055b5c.jpg",
+            "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/jdGk62nV_c27cdf18facb447896f12504b02a6309.jpg",
+            "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/hVMt5Jyl_97f5302b7b774a98afabcc05776a9abb.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 2,
+            "2": 1,
+            "3": 1,
+            "4": 2,
+            "5": 6
+        },
+        "mrp": 1799,
+        "product_details": {
+            "material_&_care": [
+                "Wash as per tag"
+            ],
+            "size_&_fit": [
+                "Regular Fit"
+            ],
+            "text": [
+                "Blue Tshirt for boys   Solid printed   Regular length   Polo collar   Short,  raglan sleeves   Knitted cotton fabric"
+            ]
+        },
+        "product_id": 31689646,
+        "product_name": "Rare Ones Boys Solid Polo",
+        "product_rating": 3.8,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "NA",
+            "collection_name": "polo",
+            "fabrics": "Cotton",
+            "fashion_trends": "Nautical",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 polo",
+            "pattern_coverage": "Placement",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Raglan Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "Applique",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/rare+ones/rare-ones-boys-solid-polo/31689646/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.439Z",
+        "seller_info": {
+            "displayname": "RADHAMANI TEXTILES PVT LTD",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "314 315 316 317 318 319, GR FLOOR, JIGANI INDUSTRIAL AREA BOMMSANDAR, JIGANI, LINK ROAD ANEKAL TALUK, Bengaluru (Bangalore) Rural, Karnataka, 562106Bengaluru , Karnataka - 562106",
+                "city": "Bengaluru",
+                "country": "India",
+                "pincode": "562106",
+                "state": "Karnataka"
+            },
+            "sellername": "RADHAMANI TEXTILES PVT LTD",
+            "sellerpartnerid": 3135
+        },
+        "selling_price": 1439,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "13.0",
+                "chest": "31.0",
+                "front_length": "20.0",
+                "size_list": "6-7Y",
+                "sleeve-length": "5.0"
+            },
+            {
+                "across_shoulder": "13.0",
+                "chest": "33.0",
+                "front_length": "21.0",
+                "size_list": "8-9Y",
+                "sleeve-length": "5.0"
+            },
+            {
+                "across_shoulder": "14.0",
+                "chest": "35.0",
+                "front_length": "22.0",
+                "size_list": "9-10Y",
+                "sleeve-length": "5.0"
+            },
+            {
+                "across_shoulder": "14.0",
+                "chest": "37.0",
+                "front_length": "24.0",
+                "size_list": "10-11Y",
+                "sleeve-length": "5.0"
+            },
+            {
+                "across_shoulder": "15.0",
+                "chest": "39.0",
+                "front_length": "25.0",
+                "size_list": "11-12Y",
+                "sleeve-length": "6.0"
+            },
+            {
+                "across_shoulder": "16.0",
+                "chest": "41.0",
+                "front_length": "26.0",
+                "size_list": "13-14Y",
+                "sleeve-length": "6.0"
+            },
+            {
+                "across_shoulder": "16.0",
+                "chest": "43.0",
+                "front_length": "27.0",
+                "size_list": "15-16Y",
+                "sleeve-length": "6.0"
+            }
+        ],
+        "size_list": [
+            "6-7Y",
+            "8-9Y",
+            "9-10Y",
+            "10-11Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 12,
+        "variant_level": [
+            {
+                "colour": "Peach",
+                "image": "http://assets.myntassets.com/assets/images/2024/OCTOBER/31/xJtuxepu_cd2970ff5f6245b7aa790c185a036dd4.jpg",
+                "styleId": 31461299,
+                "url": "https://www.myntra.com/Tshirts/RARE+ONES/Rare-Ones-Boys-Solid-Polo/31461299/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/2024/NOVEMBER/10/Jw5cYdd6_01a3c77d2e124d3d811c02ea6b6c8045.jpg",
+                "styleId": 31578097,
+                "url": "https://www.myntra.com/Tshirts/RARE+ONES/Rare-Ones-Boys-Solid-Polo/31578097/buy"
+            },
+            {
+                "colour": "Yellow",
+                "image": "http://assets.myntassets.com/assets/images/2024/NOVEMBER/10/WcPVWeNv_948adcbddf8742dfaf9ad939bb201fab.jpg",
+                "styleId": 31578100,
+                "url": "https://www.myntra.com/Tshirts/RARE+ONES/Rare-Ones-Boys-Solid-Polo/31578100/buy"
+            },
+            {
+                "colour": "Green",
+                "image": "http://assets.myntassets.com/assets/images/2024/NOVEMBER/20/cWagaeiq_769f26c1e76d48859301d3ed3d63ba28.jpg",
+                "styleId": 31689644,
+                "url": "https://www.myntra.com/Tshirts/RARE+ONES/Rare-Ones-Boys-Solid-Polo/31689644/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "brand": "Marks & Spencer",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Women",
+            "l3": "Lounge Tshirts",
+            "l4": "Marks & Spencer",
+            "l5": "More by Marks & Spencer"
+        },
+        "color_list": [],
+        "colour": "White",
+        "discount": "39",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/8/iTFBEc9H_320b521d069747d79838b8114bdce25d.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/8/w8oUz8rX_1d4914a7e23843ef83e94147e1608059.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/8/g3xHI6RK_e24f46d55bc14d7e852ee4d990e2ed5f.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/8/qZlFwvGC_7c229d2c43434d6db5c176baf51978d8.jpg",
+            "http://assets.myntassets.com/assets/images/2024/AUGUST/8/eT9Pws07_b571047c1bd74fe4abc084ee4b36c6c5.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 1,
+            "5": 4
+        },
+        "mrp": 1299,
+        "product_details": {
+            "material_&_care": [
+                "Cotton 50% modal",
+                "Machine-wash"
+            ],
+            "size_&_fit": [
+                "The model (height 5'8'') is wearing size S"
+            ],
+            "text": [
+                "White embroidered lounge t-shirt, has a round neck and short sleeves with drop shoulders"
+            ]
+        },
+        "product_id": 30521560,
+        "product_name": "Marks & Spencer Solid Embroidered Drop-Shoulder Lounge T-shirt",
+        "product_rating": 4.2,
+        "product_specifications": {
+            "body_or_garment_size": "Garment Measurements in",
+            "fabrics": "Cotton",
+            "multipack_set": "NA",
+            "neck": "Round Neck",
+            "patterns": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sustainable": "Regular",
+            "type": "Regular",
+            "wash_care": "Machine Wash"
+        },
+        "product_url": "https://www.myntra.com/lounge-tshirts/marks+%26+spencer/marks--spencer-solid-embroidered-drop-shoulder-lounge-t-shirt/30521560/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.516Z",
+        "seller_info": {
+            "displayname": "MARKS AND SPENCER RELIANCE INDIA PRIVATE LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Marks & Spencer Reliance India Pvt LtdInfinity Tower C, Ground FloorGurugram , Haryana - 122002",
+                "city": "Gurugram",
+                "country": "India",
+                "pincode": "122002",
+                "state": "Haryana"
+            },
+            "sellername": "MARKS AND SPENCER RELIANCE INDIA PRIVATE LIMITED",
+            "sellerpartnerid": 13822
+        },
+        "selling_price": 790,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "bust": "32.0",
+                "front_length": "24.0",
+                "size_list": "XS"
+            },
+            {
+                "bust": "34.0",
+                "front_length": "24.0",
+                "size_list": "S"
+            },
+            {
+                "bust": "36.0",
+                "front_length": "24.0",
+                "size_list": "M"
+            },
+            {
+                "bust": "38.0",
+                "front_length": "24.0",
+                "size_list": "L"
+            },
+            {
+                "bust": "40.0",
+                "front_length": "24.0",
+                "size_list": "XL"
+            }
+        ],
+        "size_list": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 5,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "1-2Y",
+            "2Y",
+            "3-4Y",
+            "4-5Y",
+            "6-7Y",
+            "7-8Y",
+            "8-9Y",
+            "10-11Y",
+            "11-12Y",
+            "12-13Y"
+        ],
+        "brand": "United Colors of Benetton",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "United Colors of Benetton",
+            "l5": "More by United Colors of Benetton"
+        },
+        "color_list": [],
+        "colour": "White",
+        "discount": "53",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/32634821/2025/3/26/7398b032-8805-4b7e-a42a-0d3d189340a61742985701281-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-5661742985-1.jpg",
+            "http://assets.myntassets.com/assets/images/32634821/2025/3/26/c0685e49-bdea-4127-ad36-7bc6225f623f1742985701267-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-5661742985-2.jpg",
+            "http://assets.myntassets.com/assets/images/32634821/2025/3/26/e48e6735-e603-4287-937a-52d1909c7adc1742985701247-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-5661742985-3.jpg",
+            "http://assets.myntassets.com/assets/images/32634821/2025/3/26/c2415d66-e869-4e8f-b9db-4db7826d6acb1742985701226-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-5661742985-4.jpg",
+            "http://assets.myntassets.com/assets/images/32634821/2025/3/26/2226a76f-17ec-4c70-9023-d6270bacdf521742985701204-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-5661742985-5.jpg",
+            "http://assets.myntassets.com/assets/images/32634821/2025/3/26/60a4d78c-052d-4ad5-a6d0-82c1095ff1171742985701183-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-5661742985-6.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 3,
+            "2": 4,
+            "3": 9,
+            "4": 25,
+            "5": 124
+        },
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "60% cotton, 40% polyester",
+                "Machine wash"
+            ],
+            "size_&_fit": [
+                "Regular Fit"
+            ],
+            "text": [
+                "White Tshirt for boys   Solid   Regular length   Polo collar   Short,  regular sleeves   Knitted cotton fabric   Button closure"
+            ]
+        },
+        "product_id": 32634821,
+        "product_name": "United Colors of Benetton Boys Solid Polo T-shirt",
+        "product_rating": 4.6,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Cotton, Polyester",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "net_quantity": "1",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 T-shirt",
+            "pattern_coverage": "NA",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "theme": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/united+colors+of+benetton/united-colors-of-benetton-boys-solid-polo-t-shirt/32634821/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.541Z",
+        "seller_info": {
+            "displayname": "Shreyash Retail Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Plot No- 20, 1st Floor, Suite No-1Okhla Industrial Area, Phase-3New delhi , DELHI - 110020",
+                "city": "New delhi",
+                "country": "India",
+                "pincode": "110020",
+                "state": "DELHI"
+            },
+            "sellername": "Supercom Net",
+            "sellerpartnerid": 4036
+        },
+        "selling_price": 469,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "10.6",
+                "chest": "23.6",
+                "front_length": "15.0",
+                "size_list": "1-2Y"
+            },
+            {
+                "across_shoulder": "11.4",
+                "chest": "24.8",
+                "front_length": "15.7",
+                "size_list": "2Y"
+            },
+            {
+                "across_shoulder": "11.8",
+                "chest": "26.0",
+                "front_length": "16.5",
+                "size_list": "3-4Y"
+            },
+            {
+                "across_shoulder": "12.6",
+                "chest": "27.6",
+                "front_length": "17.9",
+                "size_list": "4-5Y"
+            },
+            {
+                "across_shoulder": "13.4",
+                "chest": "29.1",
+                "front_length": "19.3",
+                "size_list": "6-7Y"
+            },
+            {
+                "across_shoulder": "13.8",
+                "chest": "30.7",
+                "front_length": "20.7",
+                "size_list": "7-8Y"
+            },
+            {
+                "across_shoulder": "14.6",
+                "chest": "32.3",
+                "front_length": "22.0",
+                "size_list": "8-9Y"
+            },
+            {
+                "across_shoulder": "15.4",
+                "chest": "33.9",
+                "front_length": "23.4",
+                "size_list": "10-11Y"
+            },
+            {
+                "across_shoulder": "16.1",
+                "chest": "35.4",
+                "front_length": "24.8",
+                "size_list": "11-12Y"
+            },
+            {
+                "across_shoulder": "16.9",
+                "chest": "37.0",
+                "front_length": "26.2",
+                "size_list": "12-13Y"
+            }
+        ],
+        "size_list": [
+            "1-2Y",
+            "2Y",
+            "3-4Y",
+            "4-5Y",
+            "6-7Y",
+            "7-8Y",
+            "8-9Y",
+            "10-11Y",
+            "11-12Y",
+            "12-13Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 165,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "0-3M",
+            "3-6M",
+            "6-9M",
+            "9-12M",
+            "12-18M",
+            "18-24M"
+        ],
+        "brand": "Pantaloons Baby",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Girls",
+            "l3": "Tshirts",
+            "l4": "Pantaloons Baby",
+            "l5": "More by Pantaloons Baby"
+        },
+        "color_list": [
+            "Multi",
+            "White / Green",
+            "Peach / White"
+        ],
+        "colour": "Pink",
+        "discount": "25",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/MARCH/17/VjWM1sfQ_d12a927d9b0b46de93d5129ba5e9e90c.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/17/WBpmHvxR_0f628d7759af434293d1bb0669f478ee.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/17/IPJ0mKhx_892ea51ee3764ee3b40a36f46f84521a.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/17/JWrnA7jq_f9a7812f26724cda8a49dbfacc9fa0d6.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/17/jS57TB26_2641205ffd4e453ea3703c97f9bc5b0e.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/17/IzqIFJpZ_50c7adc239404fbf9361e10675082466.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "3": 1,
+            "4": 2,
+            "5": 11
+        },
+        "mrp": 599,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "text": [
+                "1 Pink &amp; 1 White t-shirt for girls",
+                "Striped",
+                "Regular length",
+                "Round neck",
+                "Short sleeves",
+                "Knitted",
+                "Button closure"
+            ]
+        },
+        "product_id": 33208407,
+        "product_name": "Pantaloons Baby Girls Pack of 3 Striped Round Neck Cotton T-shirts",
+        "product_rating": 4.7,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "3",
+            "neck": "Round Neck",
+            "net_quantity": "3",
+            "net_quantity_unit": "Pieces",
+            "number_of_items": "3",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "3 T-Shirts",
+            "pattern_coverage": "All-Over",
+            "patterns": "Striped",
+            "players": "NA",
+            "print_or_pattern_types": "Striped",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "theme": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/pantaloons+baby/pantaloons-baby-girls-pack-of-3-striped-round-neck-cotton-t-shirts/33208407/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.551Z",
+        "seller_info": {
+            "displayname": "Westbury Holdings Pvt Ltd_Pantaloons",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Westbury Holdings Private Limited,No 301, Touchdown, HAL Road, Old Airport road, Vimanapura,Bangalore, Bengaluru (Bangalore) Urban, Karnataka, 560037Bengaluru , KARNATAKA - 560037",
+                "city": "Bengaluru",
+                "country": "India",
+                "pincode": "560037",
+                "state": "KARNATAKA"
+            },
+            "sellername": "Westbury Holdings Pvt Ltd_Pantaloons",
+            "sellerpartnerid": 10226
+        },
+        "selling_price": 449,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "8.0",
+                "chest": "19.5",
+                "front_length": "11.5",
+                "hips": "20.0",
+                "size_list": "0-3M",
+                "waist": "19.0"
+            },
+            {
+                "across_shoulder": "8.38",
+                "chest": "20.25",
+                "front_length": "12.25",
+                "hips": "20.25",
+                "size_list": "3-6M",
+                "waist": "19.25"
+            },
+            {
+                "across_shoulder": "8.75",
+                "chest": "21.0",
+                "front_length": "13.0",
+                "hips": "21.0",
+                "size_list": "6-9M",
+                "waist": "20.0"
+            },
+            {
+                "across_shoulder": "9.13",
+                "chest": "21.75",
+                "front_length": "13.75",
+                "hips": "21.75",
+                "size_list": "9-12M",
+                "waist": "20.75"
+            },
+            {
+                "across_shoulder": "9.5",
+                "chest": "22.5",
+                "front_length": "14.5",
+                "hips": "22.5",
+                "size_list": "12-18M",
+                "waist": "21.5"
+            },
+            {
+                "across_shoulder": "9.88",
+                "chest": "23.25",
+                "front_length": "15.25",
+                "hips": "23.25",
+                "size_list": "18-24M",
+                "waist": "22.25"
+            }
+        ],
+        "size_list": [
+            "0-3M",
+            "3-6M",
+            "6-9M",
+            "9-12M",
+            "12-18M",
+            "18-24M"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 14,
+        "variant_level": [
+            {
+                "colour": "Multi",
+                "image": "http://assets.myntassets.com/assets/images/2025/FEBRUARY/15/wzhamVHx_d6b6acd3987145a19de2efd8e5c7b2ca.jpg",
+                "styleId": 32813244,
+                "url": "https://www.myntra.com/Tshirts/Pantaloons+Baby/Pantaloons-Baby-Girls-3-Applique-T-shirt/32813244/buy"
+            },
+            {
+                "colour": "White / Green",
+                "image": "http://assets.myntassets.com/assets/images/2025/MARCH/17/5kuxL7yB_a75f30259e664addb3614c6bb5d3c459.jpg",
+                "styleId": 33208408,
+                "url": "https://www.myntra.com/Tshirts/Pantaloons+Baby/Pantaloons-Baby-Girls-Pack-of-3-Striped-Round-Neck-Cotton-T-shirts/33208408/buy"
+            },
+            {
+                "colour": "Peach / White",
+                "image": "http://assets.myntassets.com/assets/images/2025/MARCH/17/if6XsX84_5449f5c2714047c49b15db54534d6eee.jpg",
+                "styleId": 33208409,
+                "url": "https://www.myntra.com/Tshirts/Pantaloons+Baby/Pantaloons-Baby-Girls-Pack-of-3-Striped-Round-Neck-Cotton-T-shirts/33208409/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "brand": "HELLCAT",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "HELLCAT",
+            "l5": "More by HELLCAT"
+        },
+        "color_list": [],
+        "colour": "Green",
+        "discount": "88",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/22203536/2023/3/2/d598d59d-fb7d-4a03-9cbe-7fbd6e86dd441677768362170Tshirts1.jpg",
+            "http://assets.myntassets.com/assets/images/22203536/2023/3/2/61d8f442-7783-413e-acd5-60f9d7df30e51677768362158Tshirts2.jpg",
+            "http://assets.myntassets.com/assets/images/22203536/2023/3/2/6edd7aec-4299-4f4c-814e-3ea74e7083c21677768362147Tshirts3.jpg",
+            "http://assets.myntassets.com/assets/images/22203536/2023/3/2/8a1f167f-0d6a-41e1-a3cc-e1ec2d5be3ba1677768362108Tshirts4.jpg",
+            "http://assets.myntassets.com/assets/images/22203536/2023/3/2/0a39054a-c2eb-4aaf-968b-2428d639a5de1677768362184Tshirts5.jpg",
+            "http://assets.myntassets.com/assets/images/22203536/2023/3/2/3b63ab2c-6c22-4074-be49-06c17073306d1677768362119Tshirts6.jpg",
+            "http://assets.myntassets.com/assets/images/22203536/2023/3/2/5d0f7fcb-8d4d-482a-adf2-6ac725dd3be91677768362132Tshirts7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 147,
+            "2": 61,
+            "3": 143,
+            "4": 238,
+            "5": 563
+        },
+        "mrp": 2598,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "text": [
+                "Pack of 2 jade green &amp; navy blue t-shirt for boysTypography printedRegular lengthRound neckShort, regular sleevesKnitted cotton fabric"
+            ]
+        },
+        "product_id": 22203536,
+        "product_name": "HELLCAT Boys Pack Of 2 Typography Printed Cotton T-shirt",
+        "product_rating": 3.9,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "Typography or Slogan Print",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "2",
+            "neck": "Round Neck",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "pattern_coverage": "Chest",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Typography",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/hellcat/hellcat-boys-pack-of-2-typography-printed-cotton-t-shirt/22203536/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.591Z",
+        "seller_info": {
+            "displayname": "Bodyglove Apparel India",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Bodyglove Apparel India, No.21, Muthusamy 6th Cross street,College Road, Tirupur - 641602Tirupur , Tamilnadu - 641602",
+                "city": "Tirupur",
+                "country": "India",
+                "pincode": "641602",
+                "state": "Tamilnadu"
+            },
+            "sellername": "Bodyglove Apparel India",
+            "sellerpartnerid": 10916
+        },
+        "selling_price": 299,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "11.0",
+                "chest": "24.0",
+                "front_length": "17.5",
+                "size_list": "3-4Y",
+                "sleeve-length": "5.1"
+            },
+            {
+                "across_shoulder": "11.5",
+                "chest": "26.0",
+                "front_length": "18.5",
+                "size_list": "5-6Y",
+                "sleeve-length": "5.5"
+            },
+            {
+                "across_shoulder": "12.5",
+                "chest": "28.0",
+                "front_length": "19.5",
+                "size_list": "7-8Y",
+                "sleeve-length": "5.9"
+            },
+            {
+                "across_shoulder": "13.5",
+                "chest": "31.0",
+                "front_length": "20.75",
+                "size_list": "9-10Y",
+                "sleeve-length": "6.3"
+            },
+            {
+                "across_shoulder": "14.5",
+                "chest": "33.0",
+                "front_length": "22.25",
+                "size_list": "11-12Y",
+                "sleeve-length": "6.7"
+            },
+            {
+                "across_shoulder": "15.5",
+                "chest": "35.5",
+                "front_length": "24.0",
+                "size_list": "13-14Y",
+                "sleeve-length": "7.2"
+            },
+            {
+                "across_shoulder": "16.5",
+                "chest": "38.0",
+                "front_length": "25.5",
+                "size_list": "15-16Y",
+                "sleeve-length": "7.7"
+            }
+        ],
+        "size_list": [
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 1152,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "2-3Y",
+            "3-4Y",
+            "4-5Y",
+            "5-6Y",
+            "6-7Y",
+            "7-8Y"
+        ],
+        "brand": "Googo Gaaga",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "Googo Gaaga",
+            "l5": "More by Googo Gaaga"
+        },
+        "color_list": [],
+        "colour": "Green",
+        "discount": "85",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/2f32ed59-30f0-45e6-9f71-3702062df9f21708084958401-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-1.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/6f0db90e-52de-408a-966b-3f17d92918211708084958390-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-2.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/60791514-81db-4555-98c0-67efb9e115111708084958379-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-3.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/5c49727b-1268-430c-89c3-878cf24be47c1708084958367-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-4.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/554069cc-aece-4833-a1d8-14f888a5c9d91708084958356-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-5.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/6d7e8c68-eed0-456c-8dae-4786b47c46691708084958345-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-6.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/c97d2395-ada7-4206-b4f1-b52d22862b821708084958334-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-7.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/0e96686f-8161-44bb-b661-040c4340b8081708084958311-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-12.jpg",
+            "http://assets.myntassets.com/assets/images/27243886/2024/2/16/1723e934-3a39-41a0-a3ee-d0c8d9e4b0511708084958323-Googo-Gaaga-Boys-Pack-of-5-Printed-Round-Neck-Casual-T-shirt-11.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 13,
+            "2": 9,
+            "3": 20,
+            "4": 99,
+            "5": 382
+        },
+        "mrp": 4000,
+        "product_details": {
+            "material_&_care": [
+                "95% Cotton &amp; 5% Spandex",
+                "Machine Wash"
+            ],
+            "text": [
+                "Pack of 5 t-shirts for boysGreen, orange, white, blue &amp; yellowGraphic printedRegular lengthRound neckShort, regular sleevesKnitted cotton fabric"
+            ]
+        },
+        "product_id": 27243886,
+        "product_name": "Googo Gaaga Boys Pack of 5 Printed Round Neck Casual T-shirt",
+        "product_rating": 4.6,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "Graphic Print Others",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "5",
+            "neck": "Round Neck",
+            "number_of_items": "5",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "pack of 5 t-shirts",
+            "pattern_coverage": "Full-Front",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Graphic",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/googo+gaaga/googo-gaaga-boys-pack-of-5-printed-round-neck-casual-t-shirt/27243886/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.667Z",
+        "seller_info": {
+            "displayname": "Googo Gaaga Online Services Private Limited - SJIT",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "KH NO. -32/24/1, G/FSAINI MOHALLANew delhi , DELHI - 110061",
+                "city": "New delhi",
+                "country": "INDIA",
+                "pincode": "110061",
+                "state": "DELHI"
+            },
+            "sellername": "Googo Gaaga Online Services Private Limited - SJIT",
+            "sellerpartnerid": 23757
+        },
+        "selling_price": 599,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "9.5",
+                "chest": "23.2",
+                "front_length": "12.2",
+                "size_list": "2-3Y"
+            },
+            {
+                "across_shoulder": "10.2",
+                "chest": "24.4",
+                "front_length": "13.7",
+                "size_list": "3-4Y"
+            },
+            {
+                "across_shoulder": "11.0",
+                "chest": "26.0",
+                "front_length": "15.3",
+                "size_list": "4-5Y"
+            },
+            {
+                "across_shoulder": "11.8",
+                "chest": "27.6",
+                "front_length": "16.9",
+                "size_list": "5-6Y"
+            },
+            {
+                "across_shoulder": "12.3",
+                "chest": "28.0",
+                "front_length": "18.0",
+                "size_list": "6-7Y"
+            },
+            {
+                "across_shoulder": "12.6",
+                "chest": "30.8",
+                "front_length": "20.1",
+                "size_list": "7-8Y"
+            }
+        ],
+        "size_list": [
+            "2-3Y",
+            "3-4Y",
+            "4-5Y",
+            "5-6Y",
+            "6-7Y",
+            "7-8Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 523,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "2-3Y",
+            "3-4Y",
+            "4-5Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y"
+        ],
+        "brand": "Googo Gaaga",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "Googo Gaaga",
+            "l5": "More by Googo Gaaga"
+        },
+        "color_list": [],
+        "colour": "Cream",
+        "discount": "75",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/MARCH/19/BRJ8N1Lp_4cdb8b4deb8a44e4beeab08c5d63cf4b.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/19/P2sidSqY_dd42a6d73e1b402687ddb328b1f70467.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/19/WyrvSWpt_3fc17866828349629427f62fa264a25f.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/19/fepDdu9C_00352bf0431443499bed6ada89adc28a.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/19/O13QSUNT_6d676660fe094ed9941c79e659fdeafd.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/19/PCoQWTwD_698c77f149f24f699b75293f43698f5d.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 33,
+            "2": 30,
+            "3": 56,
+            "4": 149,
+            "5": 460
+        },
+        "mrp": 1400,
+        "product_details": {
+            "material_&_care": [
+                "Gentle Machine Wash"
+            ],
+            "size_&_fit": [
+                "Regular Fit"
+            ],
+            "text": [
+                "Cream-coloured Tshirt for boys   Solid printed   Regular length   Round neck   Short,  regular sleeves   Knitted cotton fabric"
+            ]
+        },
+        "product_id": 33245489,
+        "product_name": "Googo Gaaga Boys 2 Printed T-shirt",
+        "product_rating": 4.3,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton, Cotton, Cotton",
+            "fashion_trends": "Graphic Print Others",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "2",
+            "neck": "Round Neck",
+            "number_of_items": "2",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "t-shirt",
+            "pattern_coverage": "All-Over",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/googo+gaaga/googo-gaaga-boys-2-printed-t-shirt/33245489/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.700Z",
+        "seller_info": {
+            "displayname": "Googo Gaaga Online Services Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "KH NO. -32/24/1, G/FSAINI MOHALLADelhi , DELHI - 110061",
+                "city": "Delhi",
+                "country": "INDIA",
+                "pincode": "110061",
+                "state": "DELHI"
+            },
+            "sellername": "Googo Gaaga Online Services Private Limited",
+            "sellerpartnerid": 20256
+        },
+        "selling_price": 349,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "8.0",
+                "chest": "20.0",
+                "front_length": "12.8",
+                "size_list": "2-3Y"
+            },
+            {
+                "across_shoulder": "8.5",
+                "chest": "21.9",
+                "front_length": "13.2",
+                "size_list": "3-4Y"
+            },
+            {
+                "across_shoulder": "9.5",
+                "chest": "22.8",
+                "front_length": "14.2",
+                "size_list": "4-5Y"
+            },
+            {
+                "across_shoulder": "10.3",
+                "chest": "23.7",
+                "front_length": "15.4",
+                "size_list": "5-6Y"
+            },
+            {
+                "across_shoulder": "11.0",
+                "chest": "25.1",
+                "front_length": "16.3",
+                "size_list": "7-8Y"
+            },
+            {
+                "across_shoulder": "11.9",
+                "chest": "25.2",
+                "front_length": "17.0",
+                "size_list": "9-10Y"
+            }
+        ],
+        "size_list": [
+            "2-3Y",
+            "3-4Y",
+            "4-5Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 728,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "brand": "Campus Sutra",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Campus Sutra",
+            "l5": "More by Campus Sutra"
+        },
+        "color_list": [
+            "White",
+            "White / Brown",
+            "Beige / White"
+        ],
+        "colour": "Black",
+        "discount": "61",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/32193183/2025/1/3/20101921-9818-4aa6-be47-d4ea96af4ec51735885407991CampusSutraMenStripedPoloCollarPocketsT-shirt1.jpg",
+            "http://assets.myntassets.com/assets/images/32193183/2025/1/3/f12718a3-3a9f-4cdc-b2e1-a54b2e15340b1735885407818CampusSutraMenStripedPoloCollarPocketsT-shirt2.jpg",
+            "http://assets.myntassets.com/assets/images/32193183/2025/1/3/b44ad6cb-2f83-44b1-a13e-6ddde855383c1735885407884CampusSutraMenStripedPoloCollarPocketsT-shirt3.jpg",
+            "http://assets.myntassets.com/assets/images/32193183/2025/1/3/9b8b0650-8b4a-46ff-819c-bed746bd37691735885407848CampusSutraMenStripedPoloCollarPocketsT-shirt4.jpg",
+            "http://assets.myntassets.com/assets/images/32193183/2025/1/3/00181ea7-e129-4c44-a76c-b4525bd916871735885407956CampusSutraMenStripedPoloCollarPocketsT-shirt5.jpg",
+            "http://assets.myntassets.com/assets/images/32193183/2025/1/3/0aa8154e-7612-4c9b-bab8-3a3630cd37251735885407920CampusSutraMenStripedPoloCollarPocketsT-shirt6.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 5,
+            "2": 2,
+            "3": 1,
+            "4": 4,
+            "5": 21
+        },
+        "mrp": 1699,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "Regular Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Black &amp; Brown t-shirt for men",
+                "Solid",
+                "Regular length",
+                "Polo collar",
+                "Short sleeves",
+                "Knitted",
+                "Button closure"
+            ]
+        },
+        "product_id": 32193183,
+        "product_name": "Campus Sutra Men Solid Polo Collar Cotton T-shirt",
+        "product_rating": 4.0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "collection_name": "tshirt",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 T-Shirt",
+            "pattern_coverage": "NA",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/campus+sutra/campus-sutra-men-solid-polo-collar-cotton-t-shirt/32193183/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.709Z",
+        "seller_info": {
+            "displayname": "Savan Retailers Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "1st Floor, Cabin No. DR-02,  Building No. 55, Panchkuian Road, Connaught PlaceNew delhi , DELHI - 110001",
+                "city": "New delhi",
+                "country": "India",
+                "pincode": "110001",
+                "state": "DELHI"
+            },
+            "sellername": "Flashstar Commerce",
+            "sellerpartnerid": 4214
+        },
+        "selling_price": 662,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "17.5",
+                "chest": "38.0",
+                "front_length": "27.0",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "18.0",
+                "chest": "40.0",
+                "front_length": "28.0",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "18.5",
+                "chest": "42.0",
+                "front_length": "29.0",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "19.0",
+                "chest": "44.0",
+                "front_length": "30.0",
+                "size_list": "XL"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 33,
+        "variant_level": [
+            {
+                "colour": "White",
+                "image": "http://assets.myntassets.com/assets/images/32193132/2025/1/3/8243634c-0c19-4a5a-890e-aa808dbe19e51735884731052CampusSutraMenStripedPoloCollarRawEdgeT-shirt1.jpg",
+                "styleId": 32193132,
+                "url": "https://www.myntra.com/Tshirts/Campus+Sutra/Campus-Sutra-Men-Self-Design-Polo-Collar-Cotton-T-shirt/32193132/buy"
+            },
+            {
+                "colour": "White / Brown",
+                "image": "http://assets.myntassets.com/assets/images/32193153/2025/1/3/5869c16e-8a29-4668-802a-6c75a1dd6e871735885364438CampusSutraMenPoloCollarAppliqueT-shirt1.jpg",
+                "styleId": 32193153,
+                "url": "https://www.myntra.com/Tshirts/Campus+Sutra/Campus-Sutra-Men-Self-Design-Polo-Collar-Cotton-T-shirt/32193153/buy"
+            },
+            {
+                "colour": "Beige / White",
+                "image": "http://assets.myntassets.com/assets/images/32193190/2025/1/3/bd706895-7318-492b-b806-d06cc5c54f3d1735885430122CampusSutraMenStripedPoloCollarT-shirt1.jpg",
+                "styleId": 32193190,
+                "url": "https://www.myntra.com/Tshirts/Campus+Sutra/Campus-Sutra-Men-Self-Design-Polo-Collar-Cotton-T-shirt/32193190/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "brand": "HELLCAT",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "HELLCAT",
+            "l5": "More by HELLCAT"
+        },
+        "color_list": [],
+        "colour": "Blue",
+        "discount": "88",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/22203558/2023/3/2/719825a2-4f1f-4e5a-bdc4-3b32cdcfae401677768342658Tshirts1.jpg",
+            "http://assets.myntassets.com/assets/images/22203558/2023/3/2/d165756e-3063-406a-8ca7-4b63c34a25f81677768342646Tshirts2.jpg",
+            "http://assets.myntassets.com/assets/images/22203558/2023/3/2/dd82fe35-796b-41ce-87ea-fe1772244a0c1677768342694Tshirts3.jpg",
+            "http://assets.myntassets.com/assets/images/22203558/2023/3/2/40c3f9fe-92db-445c-89cc-caed57e7c5611677768342703Tshirts4.jpg",
+            "http://assets.myntassets.com/assets/images/22203558/2023/3/2/bb253f6b-90fc-4b16-8a7a-8c018e68a3051677768342634Tshirts5.jpg",
+            "http://assets.myntassets.com/assets/images/22203558/2023/3/2/ee337870-e494-4c20-a128-bf302cf0ecc51677768342668Tshirts6.jpg",
+            "http://assets.myntassets.com/assets/images/22203558/2023/3/2/c1d333c9-651c-42ae-9a78-9c7f2bce3ec91677768342678Tshirts7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 35,
+            "2": 17,
+            "3": 37,
+            "4": 54,
+            "5": 152
+        },
+        "mrp": 2598,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "text": [
+                "Pack of 2Blue Tshirt for boys,typography printed, regular length, round neck, short, regular sleeves, knitted cotton fabricNavy blue Tshirt for boys, graphic printed, regular length, round neck, short, regular sleeves, knitted cotton fabric"
+            ]
+        },
+        "product_id": 22203558,
+        "product_name": "HELLCAT Boys Pack of 2 Printed Cotton T-shirt",
+        "product_rating": 3.9,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "Typography or Slogan Print",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "2",
+            "neck": "Round Neck",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "pattern_coverage": "Full-Front",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Typography",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/hellcat/hellcat-boys-pack-of-2-printed-cotton-t-shirt/22203558/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.712Z",
+        "seller_info": {
+            "displayname": "Bodyglove Apparel India",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Bodyglove Apparel India, No.21, Muthusamy 6th Cross street,College Road, Tirupur - 641602Tirupur , Tamilnadu - 641602",
+                "city": "Tirupur",
+                "country": "India",
+                "pincode": "641602",
+                "state": "Tamilnadu"
+            },
+            "sellername": "Bodyglove Apparel India",
+            "sellerpartnerid": 10916
+        },
+        "selling_price": 299,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "11.0",
+                "chest": "24.0",
+                "front_length": "17.5",
+                "size_list": "3-4Y",
+                "sleeve-length": "5.1"
+            },
+            {
+                "across_shoulder": "11.5",
+                "chest": "26.0",
+                "front_length": "18.5",
+                "size_list": "5-6Y",
+                "sleeve-length": "5.5"
+            },
+            {
+                "across_shoulder": "12.5",
+                "chest": "28.0",
+                "front_length": "19.5",
+                "size_list": "7-8Y",
+                "sleeve-length": "5.9"
+            },
+            {
+                "across_shoulder": "13.5",
+                "chest": "31.0",
+                "front_length": "20.75",
+                "size_list": "9-10Y",
+                "sleeve-length": "6.3"
+            },
+            {
+                "across_shoulder": "14.5",
+                "chest": "33.0",
+                "front_length": "22.25",
+                "size_list": "11-12Y",
+                "sleeve-length": "6.7"
+            },
+            {
+                "across_shoulder": "15.5",
+                "chest": "35.5",
+                "front_length": "24.0",
+                "size_list": "13-14Y",
+                "sleeve-length": "7.2"
+            },
+            {
+                "across_shoulder": "16.5",
+                "chest": "38.0",
+                "front_length": "25.5",
+                "size_list": "15-16Y",
+                "sleeve-length": "7.7"
+            }
+        ],
+        "size_list": [
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 295,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Calvin Klein Jeans",
+            "l5": "More by Calvin Klein Jeans"
+        },
+        "color_list": [
+            "Blue"
+        ],
+        "colour": "Black",
+        "discount": "35",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/16/nOj6ROHN_65002e8d95164b4bac30de1dff21ec1b.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/16/3wOZdD1U_c9484c7431c34edca5383def8751e99a.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/16/P2X6vdZt_6b0427b705874e96939b736fd82cff88.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/16/51hzLUiX_5fb708f7598142f398798777efc60eeb.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/16/xt8AQUog_139a82f14054430a85b9e49958dc89ef.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/16/0SysYLtY_ebbf46e686b148f0878daaaf47081dbe.jpg",
+            "http://assets.myntassets.com/assets/images/2025/JANUARY/16/LxHFcB24_176c530ec484408f9932446840a02800.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 4999,
+        "product_details": {
+            "material_&_care": [
+                "100% Better Cotton Initiative (BCI) Cotton"
+            ],
+            "size_&_fit": [
+                "Regular Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Black Tshirt for men   Solid   Regular length   Round neck   Short,  regular sleeves   Knitted cotton fabric   Button closure"
+            ]
+        },
+        "product_id": 32305058,
+        "product_name": "Calvin Klein Jeans Men Applique T-shirt",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "collection_name": "fashion",
+            "fabrics": "Cotton",
+            "fashion_trends": "Nautical",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Round Neck",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1xtshirt",
+            "pattern_coverage": "Placement",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "Applique",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/calvin+klein+jeans/calvin-klein-jeans-men-applique-t-shirt/32305058/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.718Z",
+        "seller_info": {
+            "displayname": "Platinum Fashions",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "1ST FLOOR, NO 50/5, SRI MAHALASA ARCADE, DVG ROAD, BASAVANAGUDI, Bengaluru (Bangalore) UrbanBengaluru , Karnataka - 560004",
+                "city": "Bengaluru",
+                "country": "India",
+                "pincode": "560004",
+                "state": "Karnataka"
+            },
+            "sellername": "Platinum Fashions",
+            "sellerpartnerid": 13922
+        },
+        "selling_price": 3249,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "17.3",
+                "chest": "41.0",
+                "front_length": "27.9",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.9",
+                "chest": "43.0",
+                "front_length": "28.3",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "18.5",
+                "chest": "44.8",
+                "front_length": "28.7",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "19.1",
+                "chest": "46.8",
+                "front_length": "29.1",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "19.7",
+                "chest": "48.8",
+                "front_length": "29.4",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": [
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/32305247/2025/1/11/7378593b-f634-48cb-9e3a-e46b2eaf46521736561420189CalvinKleinJeansMenPocketsT-shirt1.jpg",
+                "styleId": 32305247,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Pockets-T-shirt/32305247/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "2-3Y",
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y"
+        ],
+        "brand": "Nap Chief",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Unisex Kids",
+            "l3": "Tshirts",
+            "l4": "Nap Chief",
+            "l5": "More by Nap Chief"
+        },
+        "color_list": [
+            "Black",
+            "Red",
+            "Black",
+            "Black",
+            "White / Red",
+            "White"
+        ],
+        "colour": "Black",
+        "discount": "0",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/13980360/2024/3/16/1743aa05-028c-43cd-baa8-1427226666751710560950242-Nap-Chief-Kids-Reversible-Black-Harry-Potter-Sequinned-Round-1.jpg",
+            "http://assets.myntassets.com/assets/images/13980360/2024/3/16/0fa3bfa8-50ad-4e68-b8eb-1ba909ae46541710560950227-Nap-Chief-Kids-Reversible-Black-Harry-Potter-Sequinned-Round-2.jpg",
+            "http://assets.myntassets.com/assets/images/13980360/2024/3/16/e64d412a-1b65-4b54-9db8-7c6fd01757141710560950212-Nap-Chief-Kids-Reversible-Black-Harry-Potter-Sequinned-Round-3.jpg",
+            "http://assets.myntassets.com/assets/images/13980360/2024/3/16/f66b7da6-3e7b-4169-b57c-4e42ba7ee5201710560950197-Nap-Chief-Kids-Reversible-Black-Harry-Potter-Sequinned-Round-4.jpg",
+            "http://assets.myntassets.com/assets/images/13980360/2024/3/16/ca96e000-cc73-4cc0-9368-3e437f4e513e1710560950181-Nap-Chief-Kids-Reversible-Black-Harry-Potter-Sequinned-Round-5.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 3,
+            "2": 8,
+            "3": 12,
+            "4": 77,
+            "5": 285
+        },
+        "mrp": 550,
+        "product_details": {
+            "material_&_care": [
+                "Material: Cotton",
+                "Machine Wash"
+            ],
+            "text": [
+                "Black Harry Potter printed T-shirt, has a round neck, and short sleeves"
+            ]
+        },
+        "product_id": 13980360,
+        "product_name": "Nap Chief Kids Reversible Black Harry Potter Sequinned Round Neck T-shirt",
+        "product_rating": 4.6,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "Harry Potter",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Round Neck",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "pattern_coverage": "Chest",
+            "patterns": "Self Design",
+            "players": "NA",
+            "print_or_pattern_types": "Other",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Cap Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "Embellished",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/nap+chief/nap-chief-kids-reversible-black-harry-potter-sequinned-round-neck-t-shirt/13980360/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.734Z",
+        "seller_info": {
+            "displayname": "Trijosh Fashion Private Limited - SJIT",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "89 Shringar Nagar, 5th Street BharathicolonyCoimbatore , TAMILNADU - 641004",
+                "city": "Coimbatore",
+                "country": "INDIA",
+                "pincode": "641004",
+                "state": "TAMILNADU"
+            },
+            "sellername": "Trijosh Fashion Private Limited - SJIT",
+            "sellerpartnerid": 28320
+        },
+        "selling_price": 550,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "9.9",
+                "chest": "24.0",
+                "front_length": "16.0",
+                "size_list": "2-3Y"
+            },
+            {
+                "across_shoulder": "10.8",
+                "chest": "25.0",
+                "front_length": "17.0",
+                "size_list": "3-4Y"
+            },
+            {
+                "across_shoulder": "11.5",
+                "chest": "27.5",
+                "front_length": "17.0",
+                "size_list": "5-6Y"
+            },
+            {
+                "across_shoulder": "13.0",
+                "chest": "30.0",
+                "front_length": "18.5",
+                "size_list": "7-8Y"
+            },
+            {
+                "across_shoulder": "13.5",
+                "chest": "31.5",
+                "front_length": "20.5",
+                "size_list": "9-10Y"
+            },
+            {
+                "across_shoulder": "14.0",
+                "chest": "33.0",
+                "front_length": "22.0",
+                "size_list": "11-12Y"
+            },
+            {
+                "across_shoulder": "15.5",
+                "chest": "34.5",
+                "front_length": "23.5",
+                "size_list": "13-14Y"
+            }
+        ],
+        "size_list": [
+            "2-3Y",
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 385,
+        "variant_level": [
+            {
+                "colour": "Black",
+                "image": "http://assets.myntassets.com/assets/images/16778006/2022/1/11/3dd084d1-cfdc-4997-bbde-5772130130871641902284467NapChiefBoysBlackSpider-ManPrintedPureCottonAppliqueSlimFitT1.jpg",
+                "styleId": 16778006,
+                "url": "https://www.myntra.com/Tshirts/Nap+Chief/Nap-Chief-Kids-Unisex-Spider-Man-Reversible-Sequin-Pure-Cotton-T-shirt/16778006/buy"
+            },
+            {
+                "colour": "Red",
+                "image": "http://assets.myntassets.com/assets/images/33401634/2025/4/17/89370ff7-8b3a-4255-82e7-739dc743b2471744879805096-Nap-Chief-Kids-Unisex-Harry-Potter-Quidditch-07-Printed-Pure-1.jpg",
+                "styleId": 33401634,
+                "url": "https://www.myntra.com/Tshirts/Nap+Chief/Nap-Chief-Kids-Unisex-Harry-Potter-Quidditch-07-Printed-Pure-Cotton-Oversized-T-shirt/33401634/buy"
+            },
+            {
+                "colour": "Black",
+                "image": "http://assets.myntassets.com/assets/images/33798177/2025/4/28/f165f965-a91b-438a-aa95-2d823260f3361745853590517-Nap-Chief-Kids-Printed-T-shirt-6341745853590183-1.jpg",
+                "styleId": 33798177,
+                "url": "https://www.myntra.com/Tshirts/Nap+Chief/Nap-Chief-Kids-Unisex-Spider-Man-Gold-Printed-Pure-Cotton-Relaxed-Fit-T-shirt/33798177/buy"
+            },
+            {
+                "colour": "Black",
+                "image": "http://assets.myntassets.com/assets/images/33833084/2025/4/30/e6c36106-249a-4152-8843-b3d4892714fb1746018326206-Nap-Chief-Kids-Printed-Pockets-T-shirt-4991746018325803-1.jpg",
+                "styleId": 33833084,
+                "url": "https://www.myntra.com/Tshirts/Nap+Chief/Nap-Chief-Kids-Unisex-Harry-Potter-Pure-Cotton-Relaxed-Fit-Glow-In-The-Dark-T-shirt/33833084/buy"
+            },
+            {
+                "colour": "White / Red",
+                "image": "http://assets.myntassets.com/assets/images/34084188/2025/5/13/986e7b5a-a73e-4c04-b52a-1e1b42eab7971747139270331-Nap-Chief-Kids-Printed-Applique-T-shirt-461747139270026-1.jpg",
+                "styleId": 34084188,
+                "url": "https://www.myntra.com/Tshirts/Nap+Chief/Nap-Chief-Kids-Unisex-Spider-Man-Printed-Pure-Cotton-Oversized-Fit-T-shirt/34084188/buy"
+            },
+            {
+                "colour": "White",
+                "image": "http://assets.myntassets.com/assets/images/2025/MAY/12/d7YPsXme_9c35330dcc1c46a5b8e002c1d4d66fab.jpg",
+                "styleId": 34084191,
+                "url": "https://www.myntra.com/Tshirts/Nap+Chief/Nap-Chief-Kids-Unisex-Batman-Logo-Reversible-Sequins-Pure-Cotton-Relaxed-Fit-T-Shirt/34084191/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "U.S. Polo Assn. Denim Co.",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "U.S. Polo Assn. Denim Co.",
+            "l5": "More by U.S. Polo Assn. Denim Co."
+        },
+        "color_list": [],
+        "colour": "White",
+        "discount": "22",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/S2HXQ0Tb_7d862f09d3964450b0629ed6c3f84373.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/BpAg7u8h_65461784c4d34bd18dc9d64732fd586e.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/KSqJE8LU_332a2d618eaf491f8f8a56129a727c2a.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/gN7EnZCQ_8ecec8d3d1b640bab79c51ced2e6b366.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/LUGMzHb8_8aecc8ea90e84590884999d030849b88.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/7SQIwFRC_1325ce8d1f1d4a8ba09e10b8273e04bf.jpg",
+            "http://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/R4hP8avG_7ffbac27834a470fa45b6f9cd853ea97.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 7,
+            "2": 1,
+            "3": 2,
+            "4": 11,
+            "5": 41
+        },
+        "mrp": 2499,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "size_&_fit": [
+                "Slim Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "White t-shirt for men",
+                "Striped",
+                "Regular length",
+                "Polo collar",
+                "Short sleeves",
+                "Knitted",
+                "Button closure"
+            ]
+        },
+        "product_id": 30925104,
+        "product_name": "U.S. Polo Assn. Denim Co. Men Striped Polo Collar Cotton Slim Fit T-shirt",
+        "product_rating": 4.3,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Cotton",
+            "fashion_trends": "Knits",
+            "fit": "Slim Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 T-Shirt",
+            "pattern_coverage": "All-Over",
+            "patterns": "Striped",
+            "players": "NA",
+            "print_or_pattern_types": "Striped",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/u.s.+polo+assn.+denim+co./us-polo-assn-denim-co-men-striped-polo-collar-cotton-slim-fit-t-shirt/30925104/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.802Z",
+        "seller_info": {
+            "displayname": "ARVIND LIFESTYLE BRANDS LIMITED",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "DU PARC TRINITY, 10TH FLOORNO 17Bangalore , KARNATAKA - 560001",
+                "city": "Bangalore",
+                "country": "INDIA",
+                "pincode": "560001",
+                "state": "KARNATAKA"
+            },
+            "sellername": "ARVIND LIFESTYLE BRANDS LIMITED",
+            "sellerpartnerid": 28653
+        },
+        "selling_price": 1949,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "15.0",
+                "chest": "36.0",
+                "front_length": "25.0",
+                "size_list": "XS"
+            },
+            {
+                "across_shoulder": "16.0",
+                "chest": "38.0",
+                "front_length": "26.0",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.0",
+                "chest": "40.0",
+                "front_length": "27.0",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "18.0",
+                "chest": "42.0",
+                "front_length": "28.0",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "19.0",
+                "chest": "44.0",
+                "front_length": "29.0",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "20.0",
+                "chest": "47.0",
+                "front_length": "30.0",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 62,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Calvin Klein Jeans",
+            "l5": "More by Calvin Klein Jeans"
+        },
+        "color_list": [],
+        "colour": "Beige",
+        "discount": "35",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/33194395/2025/4/19/4301b6b1-0b15-42b4-8658-f4538545a7d81745059278774-Calvin-Klein-Jeans-Men-Printed-Polo-Collar-T-shirt-681174505-1.jpg",
+            "http://assets.myntassets.com/assets/images/33194395/2025/4/19/6d53239e-ad64-40a8-b9f2-128a71d79ef31745059278753-Calvin-Klein-Jeans-Men-Printed-Polo-Collar-T-shirt-681174505-2.jpg",
+            "http://assets.myntassets.com/assets/images/33194395/2025/4/19/a14e8039-2c5c-4c22-8467-508378abb71c1745059278732-Calvin-Klein-Jeans-Men-Printed-Polo-Collar-T-shirt-681174505-3.jpg",
+            "http://assets.myntassets.com/assets/images/33194395/2025/4/19/015a3e2e-608e-459a-a02e-fd3b557f89451745059278711-Calvin-Klein-Jeans-Men-Printed-Polo-Collar-T-shirt-681174505-4.jpg",
+            "http://assets.myntassets.com/assets/images/33194395/2025/4/19/96e12ee9-45b8-4566-b92e-3c1a4789287d1745059278692-Calvin-Klein-Jeans-Men-Printed-Polo-Collar-T-shirt-681174505-5.jpg",
+            "http://assets.myntassets.com/assets/images/33194395/2025/4/19/5fd85147-7161-4b68-8b8b-4fe861050a521745059278671-Calvin-Klein-Jeans-Men-Printed-Polo-Collar-T-shirt-681174505-6.jpg",
+            "http://assets.myntassets.com/assets/images/33194395/2025/4/19/b02ecb15-9bba-4a8c-96d3-c75d6ba527bc1745059278651-Calvin-Klein-Jeans-Men-Printed-Polo-Collar-T-shirt-681174505-7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "3": 2,
+            "4": 3,
+            "5": 5
+        },
+        "mrp": 4999,
+        "product_details": {
+            "material_&_care": [
+                "100% Better Cotton Initiative, machine-wash"
+            ],
+            "size_&_fit": [
+                "Regular Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Beige Tshirt for men   Geometric printed   Regular length   Polo collar   Short,  regular sleeves   Knitted cotton fabric   Button closure"
+            ]
+        },
+        "product_id": 33194395,
+        "product_name": "Calvin Klein Jeans Men Printed Polo Collar T-shirt",
+        "product_rating": 4.3,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "collection_name": "u.s",
+            "fabrics": "Cotton",
+            "fashion_trends": "Geometric Print",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 t-shirt",
+            "pattern_coverage": "All-Over",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Geometric",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/calvin+klein+jeans/calvin-klein-jeans-men-printed-polo-collar-t-shirt/33194395/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.886Z",
+        "seller_info": {
+            "displayname": "Platinum Fashions",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "1ST FLOOR, NO 50/5, SRI MAHALASA ARCADE, DVG ROAD, BASAVANAGUDI, Bengaluru (Bangalore) UrbanBengaluru , Karnataka - 560004",
+                "city": "Bengaluru",
+                "country": "India",
+                "pincode": "560004",
+                "state": "Karnataka"
+            },
+            "sellername": "Platinum Fashions",
+            "sellerpartnerid": 13922
+        },
+        "selling_price": 3249,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "16.6",
+                "chest": "38.0",
+                "front_length": "27.6",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.1",
+                "chest": "40.0",
+                "front_length": "28.4",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "17.6",
+                "chest": "42.0",
+                "front_length": "29.1",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "18.1",
+                "chest": "44.0",
+                "front_length": "29.9",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "18.7",
+                "chest": "46.0",
+                "front_length": "30.7",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 10,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "1-2Y",
+            "2Y",
+            "3-4Y",
+            "4-5Y",
+            "6-7Y",
+            "7-8Y",
+            "8-9Y",
+            "10-11Y",
+            "11-12Y",
+            "12-13Y"
+        ],
+        "brand": "United Colors of Benetton",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "United Colors of Benetton",
+            "l5": "More by United Colors of Benetton"
+        },
+        "color_list": [],
+        "colour": "Yellow",
+        "discount": "53",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/32634907/2025/3/26/e8e5a794-3b2c-4c0f-9c09-68e65424ec2d1742988701359-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-7221742988-1.jpg",
+            "http://assets.myntassets.com/assets/images/32634907/2025/3/26/f9976e52-7c80-40a8-b8b2-dd5280d5a01d1742988701345-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-7221742988-2.jpg",
+            "http://assets.myntassets.com/assets/images/32634907/2025/3/26/b9d69fa9-7e56-41e9-be69-af81981cf4441742988701326-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-7221742988-3.jpg",
+            "http://assets.myntassets.com/assets/images/32634907/2025/3/26/851db714-776e-4023-be4b-f00a1c7905551742988701245-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-7221742988-4.jpg",
+            "http://assets.myntassets.com/assets/images/32634907/2025/3/26/2f13c43e-2ad2-43ac-bee6-4379cd2204591742988701226-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-7221742988-5.jpg",
+            "http://assets.myntassets.com/assets/images/32634907/2025/3/26/19dffaff-efe1-4ff4-8bc5-0882486dac071742988701202-United-Colors-of-Benetton-Boys-Solid-Polo-T-shirt-7221742988-6.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 8,
+            "2": 1,
+            "3": 6,
+            "4": 29,
+            "5": 123
+        },
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "60% cotton, 40% polyester",
+                "Machine wash"
+            ],
+            "text": [
+                "Yellow Tshirt for boys   Solid   Regular length   Polo collar   Short,  regular sleeves   Knitted cotton fabric   Button closure"
+            ]
+        },
+        "product_id": 32634907,
+        "product_name": "United Colors of Benetton Boys Solid Polo T-shirt",
+        "product_rating": 4.5,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Polyester, Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "net_quantity": "1",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1&nbsp;T-shirt",
+            "pattern_coverage": "NA",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "theme": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/united+colors+of+benetton/united-colors-of-benetton-boys-solid-polo-t-shirt/32634907/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:54.895Z",
+        "seller_info": {
+            "displayname": "Shreyash Retail Private Limited",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Plot No- 20, 1st Floor, Suite No-1Okhla Industrial Area, Phase-3New delhi , DELHI - 110020",
+                "city": "New delhi",
+                "country": "India",
+                "pincode": "110020",
+                "state": "DELHI"
+            },
+            "sellername": "Supercom Net",
+            "sellerpartnerid": 4036
+        },
+        "selling_price": 469,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "10.6",
+                "chest": "23.6",
+                "front_length": "15.0",
+                "size_list": "1-2Y"
+            },
+            {
+                "across_shoulder": "11.4",
+                "chest": "24.8",
+                "front_length": "15.7",
+                "size_list": "2Y"
+            },
+            {
+                "across_shoulder": "11.8",
+                "chest": "26.0",
+                "front_length": "16.5",
+                "size_list": "3-4Y"
+            },
+            {
+                "across_shoulder": "12.6",
+                "chest": "27.6",
+                "front_length": "17.9",
+                "size_list": "4-5Y"
+            },
+            {
+                "across_shoulder": "13.4",
+                "chest": "29.1",
+                "front_length": "19.3",
+                "size_list": "6-7Y"
+            },
+            {
+                "across_shoulder": "13.8",
+                "chest": "30.7",
+                "front_length": "20.7",
+                "size_list": "7-8Y"
+            },
+            {
+                "across_shoulder": "14.6",
+                "chest": "32.3",
+                "front_length": "22.0",
+                "size_list": "8-9Y"
+            },
+            {
+                "across_shoulder": "15.4",
+                "chest": "33.9",
+                "front_length": "23.4",
+                "size_list": "10-11Y"
+            },
+            {
+                "across_shoulder": "16.1",
+                "chest": "35.4",
+                "front_length": "24.8",
+                "size_list": "11-12Y"
+            },
+            {
+                "across_shoulder": "16.9",
+                "chest": "37.0",
+                "front_length": "26.2",
+                "size_list": "12-13Y"
+            }
+        ],
+        "size_list": [
+            "1-2Y",
+            "2Y",
+            "3-4Y",
+            "4-5Y",
+            "6-7Y",
+            "7-8Y",
+            "8-9Y",
+            "10-11Y",
+            "11-12Y",
+            "12-13Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 167,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "brand": "Roadster",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Roadster",
+            "l5": "More by Roadster"
+        },
+        "color_list": [],
+        "colour": "Maroon",
+        "discount": "70",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/3009070/2018/5/31/f48fa8e4-ee70-4118-8a1d-a898037036bc1527767035968-Roadster-Men-Tshirts-1311527767034405-1.jpg",
+            "http://assets.myntassets.com/assets/images/3009070/2018/5/31/5aaba0e0-9aeb-47e9-af2a-63e3b68014741527767035940-Roadster-Men-Tshirts-1311527767034405-2.jpg",
+            "http://assets.myntassets.com/assets/images/3009070/2018/5/31/81ca7e5d-7715-4b97-9a59-5be388412d5c1527767035912-Roadster-Men-Tshirts-1311527767034405-3.jpg",
+            "http://assets.myntassets.com/assets/images/3009070/2018/5/31/8983b8e9-ef50-4514-b3b4-c7f6b8c524131527767035888-Roadster-Men-Tshirts-1311527767034405-4.jpg",
+            "http://assets.myntassets.com/assets/images/3009070/2018/5/31/c7a44473-b610-4505-89bb-a97a82dd96071527767035861-Roadster-Men-Tshirts-1311527767034405-5.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 1140,
+            "2": 540,
+            "3": 1471,
+            "4": 3865,
+            "5": 9266
+        },
+        "mrp": 999,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine-wash"
+            ],
+            "size_&_fit": [
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Maroon solid T-shirt, has a polo collar, short sleeves"
+            ]
+        },
+        "product_id": 3009070,
+        "product_name": "Roadster Men Maroon Solid Polo Collar T-shirt",
+        "product_rating": 4.2,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "Button",
+            "fabrics": "Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Work",
+            "pattern_coverage": "NA",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/roadster/roadster-men-maroon-solid-polo-collar-t-shirt/3009070/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:55.116Z",
+        "seller_info": {
+            "displayname": "KAPOOR COTSYN EXPORTS - SJIT",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "15-B, Textile ColonyLudhiana , PUNJAB - 141003",
+                "city": "Ludhiana",
+                "country": "INDIA",
+                "pincode": "141003",
+                "state": "PUNJAB"
+            },
+            "sellername": "KAPOOR COTSYN EXPORTS - SJIT",
+            "sellerpartnerid": 26492
+        },
+        "selling_price": 299,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "16.0",
+                "chest": "36.0",
+                "front_length": "27.0",
+                "size_list": "XS"
+            },
+            {
+                "across_shoulder": "16.25",
+                "chest": "38.0",
+                "front_length": "27.5",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.0",
+                "chest": "40.0",
+                "front_length": "28.0",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "17.75",
+                "chest": "42.0",
+                "front_length": "28.5",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "18.63",
+                "chest": "44.5",
+                "front_length": "29.0",
+                "size_list": "XL"
+            }
+        ],
+        "size_list": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 16282,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Tommy Hilfiger",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Tommy Hilfiger",
+            "l5": "More by Tommy Hilfiger"
+        },
+        "color_list": [
+            "Red",
+            "Grey / Black",
+            "Olive",
+            "Blue"
+        ],
+        "colour": "Pink",
+        "discount": "25",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/20/uD41YeIK_7f98460e78b74ad898595ed15616b6c4.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/20/3agp7wOA_e3f4d97a39844ddda25de54ab7972483.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/20/6UkKcKLH_506dd001f11f4895b4a93dab819f6a49.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/20/sSSowKQh_b24cecfe329e42b6b5dcee1c86064ac8.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/20/eFMdnpau_bcbb635b30554ae59fc12f80d960cfec.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/20/LnB56U1o_47b07b981b5e4906a3d2b34f54102713.jpg",
+            "http://assets.myntassets.com/assets/images/2025/FEBRUARY/20/fzdNDWu8_e923d9af7948491ba85b0b8a28508a9b.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 1,
+            "4": 1,
+            "5": 6
+        },
+        "mrp": 3599,
+        "product_details": {
+            "material_&_care": [
+                "96% Organic Cotton, 4% Elastane, machine-wash"
+            ],
+            "size_&_fit": [
+                "Slim Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Pink Tshirt for men   Solid   Regular length   Polo collar   Short,  regular sleeves   Knitted cotton fabric   Button closure"
+            ]
+        },
+        "product_id": 32874537,
+        "product_name": "Tommy Hilfiger Men Polo Collar Slim Fit T-shirt",
+        "product_rating": 4.4,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "collection_name": "EUROPE",
+            "fabrics": "Cotton",
+            "fashion_trends": "Knits",
+            "fit": "Slim Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 T-shirt",
+            "pattern_coverage": "NA",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/tommy+hilfiger/tommy-hilfiger-men-polo-collar-slim-fit-t-shirt/32874537/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:55.186Z",
+        "seller_info": {
+            "displayname": "PVH ARVIND FASHION PRIVATE LIMITED_Tommy",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "PVH Arvind Fashion Pvt LtdNo.15 &16, 9th Floor, Vayudooth ChambersBengaluru , Karnataka - 560001",
+                "city": "Bengaluru",
+                "country": "India",
+                "pincode": "560001",
+                "state": "Karnataka"
+            },
+            "sellername": "PVH ARVIND FASHION PRIVATE LIMITED_Tommy",
+            "sellerpartnerid": 11046
+        },
+        "selling_price": 2699,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "16.1",
+                "chest": "36.0",
+                "front_length": "26.6",
+                "size_list": "XS"
+            },
+            {
+                "across_shoulder": "16.6",
+                "chest": "37.0",
+                "front_length": "27.6",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.1",
+                "chest": "38.0",
+                "front_length": "28.4",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "17.6",
+                "chest": "40.0",
+                "front_length": "29.1",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "18.1",
+                "chest": "42.0",
+                "front_length": "29.9",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "18.7",
+                "chest": "44.0",
+                "front_length": "30.7",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 8,
+        "variant_level": [
+            {
+                "colour": "Red",
+                "image": "http://assets.myntassets.com/assets/images/32055034/2024/12/23/924cdc04-c6a9-436e-a3dc-e0f6ffd5598e1734955001561TommyHilfigerMenPoloCollarSlimFitT-shirt1.jpg",
+                "styleId": 32055034,
+                "url": "https://www.myntra.com/Tshirts/Tommy+Hilfiger/Tommy-Hilfiger-Men-Solid-Polo-Collar-Cotton-T-shirt/32055034/buy"
+            },
+            {
+                "colour": "Grey / Black",
+                "image": "http://assets.myntassets.com/assets/images/32055059/2024/12/23/dbf18f2a-05bf-4c62-9ceb-127447bdb0581734951311970TommyHilfigerMenPoloCollarPocketsSlimFitT-shirt1.jpg",
+                "styleId": 32055059,
+                "url": "https://www.myntra.com/Tshirts/Tommy+Hilfiger/Tommy-Hilfiger-Men-Solid-Polo-Collar-Cotton-T-shirt/32055059/buy"
+            },
+            {
+                "colour": "Olive",
+                "image": "http://assets.myntassets.com/assets/images/32105249/2024/12/26/cd1561f2-93ba-4efe-a2c8-b6a746e1938b1735229078562TommyHilfigerMenPoloCollarAppliqueSlimFitT-shirt1.jpg",
+                "styleId": 32105249,
+                "url": "https://www.myntra.com/Tshirts/Tommy+Hilfiger/Tommy-Hilfiger-Men-Solid-Polo-Collar-Cotton-T-shirt/32105249/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/2025/FEBRUARY/13/nxsqzQMw_37ea1129dd2f4e5bb394dc649600e78d.jpg",
+                "styleId": 32768780,
+                "url": "https://www.myntra.com/Tshirts/Tommy+Hilfiger/Tommy-Hilfiger-Men-Polo-Collar-Slim-Fit-T-shirt/32768780/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "brand": "Calvin Klein Jeans",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "Calvin Klein Jeans",
+            "l5": "More by Calvin Klein Jeans"
+        },
+        "color_list": [
+            "Blue",
+            "Green",
+            "Black",
+            "Blue",
+            "Blue",
+            "Red",
+            "Purple"
+        ],
+        "colour": "Grey",
+        "discount": "34",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/33194389/2025/4/19/c631557e-4b63-4705-be41-1b37ad3b1d941745059240793-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-1.jpg",
+            "http://assets.myntassets.com/assets/images/33194389/2025/4/19/e72436d4-36f5-47bc-8746-2f43e094c2501745059240771-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-2.jpg",
+            "http://assets.myntassets.com/assets/images/33194389/2025/4/19/dd300732-5b67-403e-8872-40b79935210c1745059240751-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-3.jpg",
+            "http://assets.myntassets.com/assets/images/33194389/2025/4/19/0f325a96-4204-4e01-93fe-285cd4bbefc01745059240730-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-4.jpg",
+            "http://assets.myntassets.com/assets/images/33194389/2025/4/19/b7022734-41b6-4c4b-bb85-d12f9c23fcbf1745059240710-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-5.jpg",
+            "http://assets.myntassets.com/assets/images/33194389/2025/4/19/55888b7d-7d91-499f-aaf5-d9c733da9c1c1745059240689-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-6.jpg",
+            "http://assets.myntassets.com/assets/images/33194389/2025/4/19/c35feaf0-5728-4550-b055-25f5ccd9049b1745059240670-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-3861745059240440-7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "4": 1,
+            "5": 4
+        },
+        "mrp": 4999,
+        "product_details": {
+            "material_&_care": [
+                "100% Regenerative Cotton, machine-wash"
+            ],
+            "size_&_fit": [
+                "Regular Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Grey Tshirt for men   Solid   Regular length   Polo collar   Short,  regular sleeves   Knitted cotton fabric   Button closure"
+            ]
+        },
+        "product_id": 33194389,
+        "product_name": "Calvin Klein Jeans Men Polo Collar T-shirt",
+        "product_rating": 4.8,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "Button",
+            "collection_name": "u.s",
+            "fabrics": "Cotton",
+            "fashion_trends": "Knits",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "net_quantity_unit": "Piece",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 t-shirt",
+            "pattern_coverage": "NA",
+            "patterns": "Solid",
+            "players": "NA",
+            "print_or_pattern_types": "Solid",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/calvin+klein+jeans/calvin-klein-jeans-men-polo-collar-t-shirt/33194389/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:55.199Z",
+        "seller_info": {
+            "displayname": "Health & Happiness Pvt Ltd",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Cabin No 10, Property -2Gujrat Vihar Vikas Marg New delhi , DELHI - 110092",
+                "city": "New delhi",
+                "country": "India",
+                "pincode": "110092",
+                "state": "DELHI"
+            },
+            "sellername": "Indiflashmart",
+            "sellerpartnerid": 4024
+        },
+        "selling_price": 3299,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "16.6",
+                "chest": "38.0",
+                "front_length": "27.6",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.1",
+                "chest": "40.0",
+                "front_length": "28.4",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "17.6",
+                "chest": "42.0",
+                "front_length": "29.1",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "18.1",
+                "chest": "44.0",
+                "front_length": "29.9",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "18.7",
+                "chest": "46.0",
+                "front_length": "30.7",
+                "size_list": "XXL"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 5,
+        "variant_level": [
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/33194401/2025/4/19/c93104b4-f522-4d1b-bb0d-91095efe4c251745059355872-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-8391745059355426-1.jpg",
+                "styleId": 33194401,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194401/buy"
+            },
+            {
+                "colour": "Green",
+                "image": "http://assets.myntassets.com/assets/images/33194404/2025/4/19/40a7c637-c94a-442f-95be-f61232abe2d01745059383647-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-7121745059383163-1.jpg",
+                "styleId": 33194404,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194404/buy"
+            },
+            {
+                "colour": "Black",
+                "image": "http://assets.myntassets.com/assets/images/33194405/2025/4/19/3feeb0a1-9645-4b33-a179-bde24f135b3d1745059639692-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9161745059639355-1.jpg",
+                "styleId": 33194405,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194405/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/33194407/2025/4/19/12a19532-26e4-4523-b131-df9a271586cd1745059648445-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-7231745059648093-1.jpg",
+                "styleId": 33194407,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194407/buy"
+            },
+            {
+                "colour": "Blue",
+                "image": "http://assets.myntassets.com/assets/images/33194415/2025/4/19/cc177b02-be86-4702-8f2d-7223956a61d41745059771843-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-7801745059771363-1.jpg",
+                "styleId": 33194415,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194415/buy"
+            },
+            {
+                "colour": "Red",
+                "image": "http://assets.myntassets.com/assets/images/33194418/2025/4/19/b29465ba-fedb-494e-8244-b1fa0f9cfc511745059848394-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-5461745059847975-1.jpg",
+                "styleId": 33194418,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194418/buy"
+            },
+            {
+                "colour": "Purple",
+                "image": "http://assets.myntassets.com/assets/images/33194422/2025/4/19/21cb8432-9694-4d58-b836-4b126e39a7bd1745059914296-Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt-9971745059913920-1.jpg",
+                "styleId": 33194422,
+                "url": "https://www.myntra.com/Tshirts/Calvin+Klein+Jeans/Calvin-Klein-Jeans-Men-Polo-Collar-T-shirt/33194422/buy"
+            }
+        ]
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "brand": "HELLCAT",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Boys",
+            "l3": "Tshirts",
+            "l4": "HELLCAT",
+            "l5": "More by HELLCAT"
+        },
+        "color_list": [],
+        "colour": "Blue",
+        "discount": "87",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/22204272/2023/5/2/e4df577a-6725-43de-bac3-3c8280c24fb61683017842296-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-1.jpg",
+            "http://assets.myntassets.com/assets/images/22204272/2023/5/2/8f86de3f-0f96-49ec-b842-859c4ce47f2e1683017842280-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-2.jpg",
+            "http://assets.myntassets.com/assets/images/22204272/2023/5/2/185a7aaf-5b51-4663-93ee-64b7c6ca22031683017842263-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-3.jpg",
+            "http://assets.myntassets.com/assets/images/22204272/2023/5/2/29ec94c3-11e5-4e70-91af-5c0c6db4ddf21683017842247-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-4.jpg",
+            "http://assets.myntassets.com/assets/images/22204272/2023/5/2/75bdb59b-c7a9-46a6-9213-6fda7d25b0161683017842233-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-5.jpg",
+            "http://assets.myntassets.com/assets/images/22204272/2023/5/2/cc393406-deee-4ba0-a9fb-f8b67d0c4b521683017842218-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-6.jpg",
+            "http://assets.myntassets.com/assets/images/22204272/2023/5/2/9448fab1-9cf8-44ac-9299-4c67350240591683017842199-HELLCAT-Boys-Blue-Typography-3-Printed-T-shirt-5116830178418-7.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": {
+            "1": 539,
+            "2": 279,
+            "3": 642,
+            "4": 1267,
+            "5": 3387
+        },
+        "mrp": 3897,
+        "product_details": {
+            "material_&_care": [
+                "Cotton",
+                "Machine Wash"
+            ],
+            "text": [
+                "Pack of 3Navy blue graphic printed Tshirt for boys, has regular length ,round neck short, regular sleeve knitted cotton fabric.Blue typography printed Tshirt for boys, has regular length ,round neck short, regular sleeve knitted cotton fabric.Peach graphic printed Tshirt for boys, has regular length ,round neck short, regular sleeve knitted cotton fabric."
+            ]
+        },
+        "product_id": 22204272,
+        "product_name": "HELLCAT Boys Pack Of 3 Printed Cotton T-shirt",
+        "product_rating": 4.1,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Cotton",
+            "fashion_trends": "Typography or Slogan Print",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "3",
+            "neck": "Round Neck",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "pattern_coverage": "Full-Front",
+            "patterns": "Printed",
+            "players": "NA",
+            "print_or_pattern_types": "Typography",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "surface_styling": "NA",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/hellcat/hellcat-boys-pack-of-3-printed-cotton-t-shirt/22204272/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:55.202Z",
+        "seller_info": {
+            "displayname": "Bodyglove Apparel India",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Bodyglove Apparel India, No.21, Muthusamy 6th Cross street,College Road, Tirupur - 641602Tirupur , Tamilnadu - 641602",
+                "city": "Tirupur",
+                "country": "India",
+                "pincode": "641602",
+                "state": "Tamilnadu"
+            },
+            "sellername": "Bodyglove Apparel India",
+            "sellerpartnerid": 10916
+        },
+        "selling_price": 499,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "11.0",
+                "chest": "24.0",
+                "front_length": "17.5",
+                "size_list": "3-4Y",
+                "sleeve-length": "5.1"
+            },
+            {
+                "across_shoulder": "11.5",
+                "chest": "26.0",
+                "front_length": "18.5",
+                "size_list": "5-6Y",
+                "sleeve-length": "5.5"
+            },
+            {
+                "across_shoulder": "12.5",
+                "chest": "28.0",
+                "front_length": "19.5",
+                "size_list": "7-8Y",
+                "sleeve-length": "5.9"
+            },
+            {
+                "across_shoulder": "13.5",
+                "chest": "31.0",
+                "front_length": "20.75",
+                "size_list": "9-10Y",
+                "sleeve-length": "6.3"
+            },
+            {
+                "across_shoulder": "14.5",
+                "chest": "33.0",
+                "front_length": "22.25",
+                "size_list": "11-12Y",
+                "sleeve-length": "6.7"
+            },
+            {
+                "across_shoulder": "15.5",
+                "chest": "35.5",
+                "front_length": "24.0",
+                "size_list": "13-14Y",
+                "sleeve-length": "7.2"
+            },
+            {
+                "across_shoulder": "16.5",
+                "chest": "38.0",
+                "front_length": "25.5",
+                "size_list": "15-16Y",
+                "sleeve-length": "7.7"
+            }
+        ],
+        "size_list": [
+            "3-4Y",
+            "5-6Y",
+            "7-8Y",
+            "9-10Y",
+            "11-12Y",
+            "13-14Y",
+            "15-16Y"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 6114,
+        "variant_level": "N/A"
+    },
+    {
+        "Keyword": "tshirts",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "brand": "United Colors of Benetton",
+        "category": {
+            "l1": "Clothing",
+            "l2": "Men",
+            "l3": "Tshirts",
+            "l4": "United Colors of Benetton",
+            "l5": "More by United Colors of Benetton"
+        },
+        "color_list": [],
+        "colour": "Beige",
+        "discount": "25",
+        "image_urls": [
+            "http://assets.myntassets.com/assets/images/2025/MARCH/1/nkuS0XVx_30d80a2094ff4d0ba9a52f180a5e57e6.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/1/lRb56jQs_014e2fa060a54929939bdc956678f75b.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/1/S9zQs4QH_6da16046365448dcb2409e0be53ee7c5.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/1/DmqOpH1c_c749eeef07f94daead7b06043150036b.jpg",
+            "http://assets.myntassets.com/assets/images/2025/MARCH/1/yfJAE8M3_d651d137d6b04d6d8cab66ec6486ced8.jpg"
+        ],
+        "in_stock_out_of_stock_status": true,
+        "individual_ratings_count": "N/A",
+        "mrp": 3499,
+        "product_details": {
+            "material_&_care": [
+                "Pure Cotton,Regular Machine Wash"
+            ],
+            "size_&_fit": [
+                "Relaxed Fit",
+                "The model (height 6') is wearing a size M"
+            ],
+            "text": [
+                "Beige Tshirt for men   Striped   Regular length   Polo collar   Short,  regular sleeves   Knitted pure cotton fabric"
+            ]
+        },
+        "product_id": 32999400,
+        "product_name": "United Colors of Benetton Relaxed Fit Johny Collar Abstract T-shirt",
+        "product_rating": 0,
+        "product_specifications": {
+            "add_ons": "NA",
+            "body_or_garment_size": "Garment Measurements in",
+            "care_for_me": "NA",
+            "character": "NA",
+            "closure": "NA",
+            "fabrics": "Pure Cotton",
+            "fashion_trends": "New Basics",
+            "fit": "Regular Fit",
+            "length": "Regular",
+            "multipack_set": "Single",
+            "neck": "Polo Collar",
+            "net_quantity_unit": "Pieces",
+            "number_of_items": "1",
+            "number_of_pockets": "NA",
+            "occasions": "Casual",
+            "package_contains": "1 t-shirt",
+            "pattern_coverage": "Full-Front",
+            "patterns": "Striped",
+            "players": "NA",
+            "print_or_pattern_types": "Striped",
+            "sleeve_length": "Short Sleeves",
+            "sleeve_styling": "Regular Sleeves",
+            "sport": "NA",
+            "sport_team": "NA",
+            "stitch": "Ready to Wear",
+            "surface_styling": "Pockets",
+            "sustainable": "Regular",
+            "technology": "NA",
+            "theme": "NA",
+            "wash_care": "Machine Wash",
+            "weave_type": "Knitted"
+        },
+        "product_url": "https://www.myntra.com/tshirts/united+colors+of+benetton/united-colors-of-benetton-relaxed-fit-johny-collar-abstract-t-shirt/32999400/buy",
+        "scrap_date_and_time": "2025-06-26T19:46:55.502Z",
+        "seller_info": {
+            "displayname": "Eshopbox Ecommerce Pvt Ltd",
+            "fssainumber": null,
+            "selleraddress": {
+                "address": "Village Babra Bakipur, Pataudi Road,Near Adani Logistic Park, ICD PatliGurugram , Haryana - 122503",
+                "city": "Gurugram",
+                "country": "India",
+                "pincode": "122503",
+                "state": "Haryana"
+            },
+            "sellername": "Eshopbox Ecommerce Pvt Ltd",
+            "sellerpartnerid": 1833
+        },
+        "selling_price": 2624,
+        "similar_product": {
+            "Description": "Upstream server error",
+            "Error Code": "BAD_GATEWAY",
+            "Error Message": "Received an invalid response from the upstream server.",
+            "HTTP Status Code": 500
+        },
+        "size_chart": [
+            {
+                "across_shoulder": "16.9",
+                "chest": "36.2",
+                "front_length": "27.2",
+                "size_list": "S"
+            },
+            {
+                "across_shoulder": "17.7",
+                "chest": "38.6",
+                "front_length": "28.0",
+                "size_list": "M"
+            },
+            {
+                "across_shoulder": "18.1",
+                "chest": "40.9",
+                "front_length": "28.7",
+                "size_list": "L"
+            },
+            {
+                "across_shoulder": "18.9",
+                "chest": "43.3",
+                "front_length": "29.5",
+                "size_list": "XL"
+            },
+            {
+                "across_shoulder": "19.7",
+                "chest": "45.7",
+                "front_length": "30.3",
+                "size_list": "XXL"
+            },
+            {
+                "across_shoulder": "20.5",
+                "chest": "48.0",
+                "front_length": "31.1",
+                "size_list": "3XL"
+            }
+        ],
+        "size_list": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "total_number_of_requests": 3,
+        "total_rating_count": 0,
+        "variant_level": "N/A"
+    }
+]

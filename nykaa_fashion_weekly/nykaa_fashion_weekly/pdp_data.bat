@@ -1,0 +1,11 @@
+start python -m scrapy crawl pdp_data -a start_id=1 -a  end=500
+start python -m scrapy crawl pdp_data -a start_id=501 -a  end=1000
+start python -m scrapy crawl pdp_data -a start_id=1001 -a  end=1500
+start python -m scrapy crawl pdp_data -a start_id=1501 -a  end=2000
+start python -m scrapy crawl pdp_data -a start_id=2001 -a  end=2500
+start python -m scrapy crawl pdp_data -a start_id=2501 -a  end=3000
+start python -m scrapy crawl pdp_data -a start_id=3001 -a  end=3500
+start python -m scrapy crawl pdp_data -a start_id=3501 -a  end=4000
+start python -m scrapy crawl pdp_data -a start_id=4001 -a  end=4500
+start python -m scrapy crawl pdp_data -a start_id=4501 -a  end=5000
+start python -m scrapy crawl pdp_data -a start_id=5001 -a  end=5500

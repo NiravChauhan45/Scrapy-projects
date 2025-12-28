@@ -1,0 +1,87 @@
+import os
+from datetime import datetime
+
+#Todo: MongoDB Configuration
+# TODAY = datetime.now().strftime("%Y_%m_%d")
+TODAY = datetime.now().strftime("%d_%m_%Y")
+
+MONGO_URI = 'mongodb://localhost:27017/'  # MongoDB connection URI
+DB_NAME = 'Ajio_nua_new_req'  # Database name
+COLLECTION_NAME = f'product_ids_{TODAY}'  # Collection name #todo
+processed_collection_name = f'Product_details_{TODAY}'
+
+# export_path = f"E:\\Nirav\\Project_export_data\\Ajio_nua\\{TODAY}\\"
+export_path = f"D:\\Nirav Chauhan\\Data\\Ajio_nua_new_req\\{TODAY}\\"
+
+os.makedirs(export_path, exist_ok=True)
+EXCEL_FILE = export_path + f"Ajio_nua_new_req_{TODAY}.xlsx"
+
+
+# Todo : Cookies Backup
+# COOKIES = {
+#     'f5_cspm': '1234',
+#     '_gcl_au': '1.1.1009954539.1748583426',
+#     'AB': 'B',
+#     '_gac_UA-68002030-18': '1.1748583427.CjwKCAjwi-DBBhA5EiwAXOHsGRy5GgI6eSbuPOXwphznahmIARd7A5nEcg1AwSsjYxBVCdaMRyxdPxoCumsQAvD_BwE',
+#     '_fbp': 'fb.1.1748583440258.5934880452342367',
+#     '_fpuuid': 'WXOJlexXXRK9VYDmWMmuS',
+#     'deviceId': 'WXOJlexXXRK9VYDmWMmuS',
+#     '_scid': 'KsIrPX1vV8G0trZkZt4mBi_X57yZXp-H',
+#     'V': '201',
+#     'th_external_id': '49cb3ccbd9e751d49da51ef60b17647a80ba2f40c3f7c7b90f349a41857d83c1',
+#     'ajs_anonymous_id': 'd146df18-5a7d-4cf9-b5f5-c8efb7dfd5f8',
+#     '_sctr': '1%7C1749407400000',
+#     'dtm_token': 'AQACqSpBtn-NpwFTM3c6AQBFtwABAQCWWG-1XgEBAJZYb7Ve',
+#     'A': 'eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJjbGllbnQiLCJjbGllbnROYW1lIjoid2ViX2NsaWVudCIsInJvbGVzIjpbeyJuYW1lIjoiUk9MRV9UUlVTVEVEX0NMSUVOVCJ9XSwidGVuYW50SWQiOiJBSklPIiwiZXhwIjoxNzUwMDM3ODEzLCJpYXQiOjE3NDc0NDU4MTN9.DzOvwpklGwH_F--PXOOZsNh_KspKL7tWuHW73PdrrVADMCohsRiCoJMpGB-sbvjIm4NXu3Q0Qyyww9EeNhD8G6Xa8l4tuev8zgq5ugSwqQtCNbpWUnOlu2G43edFCvpm685gNaXpUmfX15b8H9PaMsCpaUb1NYDwCUBD3bX3ijNxM0DjF57iQdQkl2mdVLzBFGq7k8ajLxdItiIZrZJi87NErcXLuRpc14X9Sqxq6OzK7bx8Xb423YyzfuG2IASJGidPbQYNWFsUq6BGgg24uVj9rAeGGK1a7UXFKGNNBB5n2Q1261pBKC3yfYAo3o3OHLzv721eoWqnWY53Xofw_g',
+#     'U': 'anonymous',
+#     'C': 'ead1f7b2-5d22-41eb-ac28-a9bb4d5e7c74',
+#     'AGUID': 'ead1f7b2-5d22-41eb-ac28-a9bb4d5e7c74',
+#     'PC': '560001',
+#     '_ScCbts': '%5B%5D',
+#     'CT': 'BANGALORE',
+#     'ST': 'KARNATAKA',
+#     'ZN': 'South',
+#     'PG': 'PD2%2CPD44',
+#     'TS01a68201': '015d0fa22643743a45a080514f92ac500f822f7dc14919ec2c3308bce556a4a0b505dcbb68a9152860663ddc6a5422e5e84429b81fff99a3521412aad9888670c005983ab0',
+#     'bm_ss': 'ab8e18ef4e',
+#     'bm_sz': 'B85EF74C1E95BE25B3CEC473B1FE8360~YAAQesgsFwCKMGGXAQAAKRbtZxyHTHJcp8ueM++OwVB1QBIyqMFbASfzwd/NxvPxGemHFqdkBKJxTu1VBkC4/jxX+AVm66L25I5kSLwmdqutIE/ck9XDXWPUdRMp8WHHSShAjr+pBq0ZWIa7isbz675CuXAm2kydZci2hmXmj0dLoSHQUfqviuep/p3BkNN1g2NEB8mWatqgtfoX2xmT6+qLW3qbwzFt7joJxhpZ7XUfegCJoDr5cwc5NxoQN4LIf1g9tPEKtMW0n550ybUWcC3Qc4j4wsCEj4NyfQScWge51ZW2SSDPTT4Lck4fr7EYTtE/wdmLF+Cq+2yn8uE7+n/yC9ONrsjJ30H2zC7DYsuHHb5jt89N~4272709~3490105',
+#     'ak_bmsc': '6DBBD1C6E09F73EEDFC405F9EA287453~000000000000000000000000000000~YAAQesgsFxCKMGGXAQAAayPtZxz0iqsvmesdcu0YR4kh35SjGxfVZE84zdI1lNY7SLnktII1E+48OTz/fvH/qvqdUumKze5BajEn5FRyKWrVZy/9SDkxdIAgGUYrF3eRkBEq6KNZxSYg0D50gPXk5NLpNBVHdkYDNB3g21C0U0s1P9eHA7XbaTSjbYQLwKoOfv8i0fKvFx51X6wgPBoN1CGDG5xn1zHDfe6FdINQDHxlpuEirkIZtP05HTA2jZA/ob3topEZhxYjGinC0Dgk9J7KzT34b3HHCGcTF7FfTnHvYIOmVvH0tgvCLUqwZyXMvFaErE6Xg6Ii7HtTWQO9P79rW1f6i9NWgaezc4wMdA9ebHAh14P7aXzjrx4IIqUNCzfuC3h6fcMq',
+#     'utm_source': 'google',
+#     'utm_campaign': 'GSB_Brand_August2019',
+#     '_gcl_gs': '2.1.k1$i1749795278$u109167573',
+#     '_gid': 'GA1.2.1709131865.1749795287',
+#     '_gac_UA-68002030-1': '1.1749795287.CjwKCAjw9anCBhAWEiwAqBJ-c8zHoEUdwvkABfISPhpAnMLe4b84djBa6MVv16yHJd5FClvhXnPf6BoC8-MQAvD_BwE',
+#     'analytics_session_id': '1749795289800',
+#     'ImpressionCookie': '0',
+#     'cdigiMrkt': 'utm_source%3Agoogle%7Cutm_medium%3Acpc%7Cdevice%3Adesktop%7Cexpires%3Asun%2C%2029%20jun%202025%2005%3A37%3A24%20gmt%7Cexpires%3Awed%2C%2002%20jul%202025%2006%3A05%3A17%20gmt%7Cexpires%3Awed%2C%2002%20jul%202025%2006%3A05%3A17%20gmt%7Cexpires%3Awed%2C%2009%20jul%202025%2006%3A12%3A11%20gmt%7Cexpires%3Awed%2C%2009%20jul%202025%2006%3A12%3A11%20gmt%7Cexpires%3Asun%2C%2013%20jul%202025%2006%3A14%3A53%20gmt%7Cexpires%3ASun%2C%2013%20Jul%202025%2006%3A14%3A53%20GMT%7C',
+#     '_gcl_aw': 'GCL.1749795299.CjwKCAjw9anCBhAWEiwAqBJ-c8zHoEUdwvkABfISPhpAnMLe4b84djBa6MVv16yHJd5FClvhXnPf6BoC8-MQAvD_BwE',
+#     'f5avr0627051897aaaaaaaaaaaaaaaa_cspm_': 'PJIOKNLBLEFFBKKCKEJOGKHPMMFIJJGLHOEGJNBNHJOJNJKDMIEHCBCHMAGMDGDOHDOCGKOBNEDBFOEOONCAIECCBJAAPKLLGIJBLIIBBHLPAFIKGNEHPILFGACJHGPO',
+#     'bm_lso': 'C418D21BE44B72A52DD7EDC7B04983DE9D2DCB8178B7A59317F53210036EF88E~YAAQesgsF2uKMGGXAQAApGvtZwP+Y4FpEuo5NZhzktS7qtv/zHxUB2TUmzlLY3s6NEVuIyVdF0idaYLTZinvIH2rvxY8m5Su4KYWvGfLlOcAB1LTOa+XMdHjFtQCXY1GJYyy9nElkoZRAeNDUQRmFjjP4McVLNDd8Kn+bYLc9g+U9tcTKZXPZcmWDLIPpAnBe9wnoU5Q129k3zydreu25F+CY6yG5snPTHR61qIF0tK/irl8nyzIMf8R6pm5pGAi62NT0DLUPBgzcR/6bEZ66Pzg3CGSoS/aWwF2NiBe6ntxAHeZMp0Al6Ode3toYh4Sjws7n54IvC1dh5X43q6JI0Iwe8nsFAoROfXk2kiDwSDINEKPIH50DdWd9Vwf8tAnRcUlbBHKrswFBy3nVaT+qZfLTIjj/z84Ef9DWR80ZK9CuVBgu1nvtxFbJhooOsllMK/JJXN0LHH+SpyZ6w==^1749795303805',
+#     '_abck': '269B05209FD43C60FD32F1B80B66015A~0~YAAQesgsF3eKMGGXAQAAWXbtZw5iWAbTO9OyTQsUQ/t+VfCHqhK2dIYlIWfXcyH6ktJd44fwgAieuLr2K6mhzCGP6wMmRrjFjFRbc+pLLfpYDCVEhB9jIUXI+qQmmpVlcKd8goHE7kSXdbRl3RFh5fWSqtMWgMSSyBUZ8lUW0f0LpYRYa0M18v65US4mJSq+Ex0fOTsaSGgd+1SXRi3hfdAk9KGt5+U3bgPbDrtLlSunXoMUJlZBH31GExnrB6bHsr7KMrnP2AXEWD2uWdLORe9nWQP5etOsqZaPcmau17seBNPD5stc7Hg1AjuzANY8TeuzwzXD2hxzyEQup53ZfHmsqcO44t4U4NV/68yThD+0RIfw+f+a+v8D82z9fLRPpcCuynmXuwvGZEI1KVMwpV+7OuSlQtU8CFyJkoevXiWyHrVSoX9ZeoYmhoAjuwBNDLfamBDHidC2tB6FitQ8KXXNWASk5Y9cW3b6Ws81baQ00p67hhidO+VJyJU8Ae9Jt0FFUVaD+Yq0/+XderSsHijrnjjYG07SgZ5Pa/A37LBoPlym3kFvTZqs/4t0CAX9LQJplkHV7rSGfk+TLmxu+mucoRJKOSZWuVipUUbjW+kdTTgyNn6Y2awQbKNxPwrnPZ5QBTyaLhcDWZppGKtUUh6ckahY~-1~-1~1749798899',
+#     '_dc_gtm_UA-68002030-1': '1',
+#     '_gat_UA-68002030-1': '1',
+#     'cto_bundle': 'bcIpzV9aWURESnVtWkExenFtN21jWTFIbmdNS25Zek8wTmJCaHkzVFpJdSUyQkIlMkI5bk8xejJiJTJGbkFneUNNQ1FyYnZLaiUyRlg0TnAxR28zNkF0aFpzNzVMY0ZoZTQxYmozNWNqdGtacVpiOGVObUJhc0NUY3JDblZjNEtHWmlORkpNbkdvSXVaTVJTSGlzWkxneWhPRXltWFU3ZGx2ZyUzRCUzRA',
+#     'bm_so': '02B3DB01185145666C85D031B6081C337824CE16714023841C84C1D0926B1D41~YAAQesgsF/KKMGGXAQAARuntZwNnMuTGvOL/gQDDfHWTxdWQ7fJ+1dMRfN4eNZ7XjLCMIRrYpCeD3zD1SbTJsFpcIwHAa01nJ0ND6o2jCHNX6sPpljRmtD3KDWpcwUdq3Y9o3ADUCIhvfeP/3SN6u6RC3dnNMEPRIYOjzsuGkXar1p8opwHq4o7JBUhGxxQdp7Ho1KhPctZUft2kbgQ0POJI3i+oFn+4XD3sWGXUtEta+XmTcAzSY3tHyYwqc69QrqBASoifbMehr5g/8Tm/m83Cle+0ZovK079ebS1Xb0nf6CascJrntJyhr/3X4SJSRczS6B4hbHbqOMPom0flECOU1YHUFAAj79dU0A/W247/M5yFjRDKaB9jjFriigeh+jWh60gGx4Ng4ozjXJUqCZhccCVmn9Kf/WE3Ja4yh/h09j+CFckql1jDcQbjcapx5PykZxJRMaDT8tv0Ew==',
+#     'recentlyViewed': '[{"id":"701565618_coffee","store":0},{"id":"461401949_blue","store":0}]',
+#     '_dc_gtm_UA-68002030-18': '1',
+#     'sessionStatus': 'true|undefined',
+#     'FirstPage': 'Fri Jun 13 2025 11:45:37 GMT+0530 (India Standard Time)',
+#     '_scid_r': 'O0IrPX1vV8G0trZkZt4mBi_X57yZXp-HIcYzaw',
+#     '_ga': 'GA1.1.544071926.1748583425',
+#     '_ga_X3MNHK0RVR': 'GS2.1.s1749795290$o8$g1$t1749795338$j12$l0$h0',
+#     'analytics_session_id.last_access': '1749795338193',
+#     'ADRUM_BT': 'R:83|i:5010|g:09eecc8f-1e5f-4275-81bf-069d5a00fa909053193|e:102|n:customer1_be12de70-87be-45ee-86d9-ba878ff9a400',
+#     'TS01d405db': '015d0fa226e963a71a784d2c70cfc7dfcaa78a2f314e781030658f30204c19da5c3ba9b4b4912b55c898743c269adf81087eb6f4a91767ae1a0449ddbf5772875d7acd3da8520c6bd0b99d7ca10ffcf1b6dbbb009ff20da0418bdfbfad9127f45624b4d45ad58fe8e3400d9c1be0c24a2a8bd143676c1355f1ec2a96aca047187a6edde3b7f26d87b88cb470b09f744b89b97eb44ab42959b2de00dac71dc584de491a55cc236c5e06903ee3dc58cdc94305603afdc965baa71de8948e285afd5746cb2dfc4e1b36311ac5fe9d55021155b29b5c95c22162e9417188dbf1fc4feaf6293d55483c3cd243c9753eaf6a7773f67d9d2dfe1a052723db7d3645ae4cc9145eafa26e31b81f713e16cc5ffe1a7deaffa1704b0df09ccbbcd73a5345e285e40890b56dea02503ec660803fbffac7b5805bb22b21aede6c7f4a3ca3e6123df2447b2dd19672e7d6fa55bb96c678aab308829d',
+#     'TSae7facce027': '08dc579c15ab200096fe49cf30adb46bde0cb62c09336f565fca1369e4faac8f1c4d36af41544cbf08f79ae5c8113000166ba69ff43c332df3e8c828aac1fc88196b81dee3aee4d204cf75b1692082c0493edb16165705ca52b58d6662257485',
+#     'bm_s': 'YAAQesgsFwCLMGGXAQAAPPbtZwPlxh953TdxkvA8YYJb3Mt411k4xULWCTQzAWW3IA1TvSgJuL4pUgRaNPxPdTGRDKJZPONtJsMz+yS7nujmrpBOcg4+5KI3aLKVdAyoFckWLfQ5jwSXb1nd4QEaPrtsRk53MH3HzFh+Z211z0MVPzoJC+5pixEY8Vyib0HFyAhc3J93QS7oZGp0a3Zi+VMCXAMIDiQRGeAoq2nXknTxMnGP0TB/kf7DFXDqCzr+L0YlkBVZ30H7reP9pj/P4X+5PLSRdiWbygsz0t5ABvKu3zf9ZKwwDTHJTNuCITrfWtCPNBv8DAwoPlGUoyI7nQLdcfTyUII6EdrdDpfHli6KsUmTz88a9rIhMjn7a+FyLh1yd8WPHboGlCM2VThS28YXXjLL9M89+c2JUIq29ePgZCy9EFzxYprvq1jLVo1EIdKJqPj13q1eBVFffheekzbH3Ov67dhfvRGANUS0/ilOtkUQDhvKJYkd1wBKooMYob3LAbB01AJQKjzV8NxH8kq+mRyHHX/a9GPUKR9ksSE0nJDw3LdnrBI+DOPorViN7UnM0bcV',
+#     'bm_sv': 'EC01D03ED6D74E6BCDDA2A5861EC7DD1~YAAQesgsFwGLMGGXAQAAPPbtZxxXv7etLT9fTwBenHoNIr6B/hie2X/dByKYc0q7wV/x/5UwuTobztiC8Nk+1Qd+qZgRrIHUUSzwVYnEORJ9pMbkFJHYNfdWKV/ffnodO2ZyP+GnEJ4evFilLkfuGLI7+bZpP69aq0wYq59bDo7ODoQcZKLInVKlUfC/ZSvHlrU3pYvxyHhCX9atF2K3VW8b5bQmJ2YHV1IkPAlfa6DEZxZpFwGGwNW+ITzFNw==~1',
+#
+# }
+
+HEADERS = {
+            'Upgrade-Insecure-Requests': '1',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36',
+            'sec-ch-ua': '"Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+        }

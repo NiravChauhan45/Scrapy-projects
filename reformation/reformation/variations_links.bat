@@ -1,0 +1,9 @@
+start scrapy crawl variations_links -a start_id=1 -a end=1000
+start scrapy crawl variations_links -a start_id=1001 -a end=2000
+start scrapy crawl variations_links -a start_id=2001 -a end=3000
+start scrapy crawl variations_links -a start_id=3001 -a end=4000
+start scrapy crawl variations_links -a start_id=4001 -a end=5000
+start scrapy crawl variations_links -a start_id=5001 -a end=6000
+start scrapy crawl variations_links -a start_id=6001 -a end=7000
+start scrapy crawl variations_links -a start_id=7001 -a end=8000
+start scrapy crawl variations_links -a start_id=8001 -a end=9000

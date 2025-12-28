@@ -1,0 +1,12 @@
+start "" python new_pdp_data.py 1 1000
+start "" python new_pdp_data.py 1001 2000
+start "" python new_pdp_data.py 2001 3000
+start "" python new_pdp_data.py 3001 4000
+start "" python new_pdp_data.py 4001 5000
+start "" python new_pdp_data.py 5001 6000
+start "" python new_pdp_data.py 6001 7000
+start "" python new_pdp_data.py 7001 8000
+start "" python new_pdp_data.py 8001 9000
+start "" python new_pdp_data.py 9001 10000
+start "" python new_pdp_data.py 10001 11000
+start "" python new_pdp_data.py 11001 12000

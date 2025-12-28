@@ -1,0 +1,1 @@
+start "" python take_screenshot.py 9237 1 10000 1 400101
